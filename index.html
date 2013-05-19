@@ -1,0 +1,73 @@
+---
+layout: default
+title: Your New Jekyll Site
+---
+
+<div id="home">
+  <h1>Blog Posts</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
+
+
+
+<div class="middle">
+  <div class="container content-inner">
+
+
+
+  
+ 
+
+<div class="section row clear">
+  <div class="col eight">
+    
+
+    <h2>Discovering new knowledge through <em>innovative research</em> on chemical and biological phenomena.</h2>
+
+    <p>We transmit knowledge to students (graduate students, postdoctoral colleagues, and students and fellows in medicine, pharmacy and dentistry) at the conceptual and empirical levels. [attention shawn :)]</p>
+
+  </div> 
+  <div class="col four">
+    <section id="news">
+      <h3>Latest News</h3>
+	    <ul class="posts">
+	    {% for post in site.posts %}
+	     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+	    {% endfor %}
+	  	</ul>      
+    </section>
+  </div>
+</div> 
+</div>
+</div>
+  <div class="container content-inner">
+
+<div class="section row clear">
+  <div class="col six">
+      [Illustration #1]
+    </div>
+  <div class="col six">
+      <h3>Administration</h3>
+
+      CMP is the administrative home to the graduate education program in Chemistry and Chemical Biology. Other graduate studies with Department faculty are carried out within two consortium programs, Biomedical Sciences (BMS) and the Program in Biological Sciences (PIBS); inquiries should be directed to those programs. Inquiries regarding postdoctoral research in CMP should be addressed to individual faculty members. For other information, search this Web Site or contact the CMP administrative staff.
+
+    </div> 
+    
+</div> 
+<hr>
+<div class="section row clear">
+  <div class="col six">
+      <h3>Research</h3>
+
+      Research in CMP spans a broad range of fields, including analyses of the mechanisms and biological consequences of the interactions of drugs and other small molecule ligands with receptors, channels, and cellular organelles, hormonal and sensory signal transduction, cytoskeleton-based intracellular motility, cell movement and migration, synaptic transmission and plasticity, protein design and structure prediction, protein folding, structure and function, and RNA-protein interactions. Experimental approaches include genetics, chemistry and crystallography; experimental systems stretch from yeast to human.
+
+    </div> 
+    <div class="col six">
+      [Illustration #2]
+
+    </div>
+</div> 

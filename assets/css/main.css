@@ -1,0 +1,404 @@
+@import url(typo.css);
+@import url(mungbean.css);
+@import url(slideshow.css);
+@import url(nav.css);
+@import url(colorschema.css);
+
+
+/* Micro Clearfix */
+.clear:before,
+.clear:after {
+  content: "";
+  display: table;
+}
+.clear:after {
+  clear: both;
+}
+.clear {
+  zoom: 1;
+}
+.section:before,
+.section:after {
+  content: "";
+  display: table;
+}
+.section:after {
+  clear: both;
+}
+.section {
+  zoom: 1;
+}
+.checkbox:before,
+.checkbox:after {
+  content: "";
+  display: table;
+}
+.checkbox:after {
+  clear: both;
+}
+.checkbox {
+  zoom: 1;
+}
+/* General Resets */
+/* Start font size at 100% */
+html {
+/*  font-size: 100%;*/
+}
+/* Make all form fonts consistent */
+button,
+input,
+select,
+textarea {
+  font-family: sans-serif;
+}
+/* Remove default borders */
+form,
+fieldset,
+a img {
+  border: 0;
+}
+/* Remove default spacing */
+form,
+fieldset {
+  margin: 0;
+  padding: 0;
+}
+/* Common Classes */
+.left {
+  float: left;
+}
+.right {
+  float: right;
+}
+.block {
+  display: block;
+}
+.inline-block {
+  display: inline-block;
+  *zoom: 1;
+  *display: inline;
+}
+.inline {
+  display: inline;
+}
+.visuallyhidden {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+  left: -9999em;
+}
+.visuallyvisible {
+  clip: auto;
+  width: auto;
+  height: auto;
+  overflow: visible;
+  left: 0;
+}
+.strong {
+  font-weight: bold;
+}
+.alert {
+  background-color: #ffffcc;
+  display: block;
+  padding: 4px 8px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  -moz-background-clip: padding;
+  -webkit-background-clip: padding-box;
+  background-clip: padding-box;
+}
+.nolist {
+  list-style: none;
+}
+.nopadding {
+  padding: 0;
+}
+.nomargin {
+  margin: 0;
+}
+.none,
+.nodesktop {
+  display: none;
+}
+/* ==========================================================================
+   ========================================================================== */
+
+/* Buttons */
+.buttons {
+  padding: 1em 0;
+}
+.button {
+  font-size: 14px;
+  font-size: 0.875rem;
+  line-height: normal;
+  cursor: pointer;
+  border: 0;
+  padding: 0.8em 3em;
+  color: #222222;
+  text-decoration: none;
+  text-align: center;
+}
+.orange-button {
+  background-color: #fee9cc;
+}
+.orange-button:hover {
+  background-color: #ffe0b5;
+  -webkit-tap-highlight-color: #fdeed8;
+}
+.orange-button:active {
+  background-color: #fdeed8;
+}
+.button[disabled],
+.button.disabled {
+  color: #999999;
+  background-color: #f1f1f1;
+}
+.no-style-button {
+  font-size: 13px;
+  font-size: 0.8125rem;
+  color: #ff3300;
+  text-decoration: underline;
+  border: 0;
+  background: transparent;
+  height: auto;
+  padding: 0;
+}
+.no-style-button:hover {
+  text-decoration: none;
+}
+.no-style-button[disabled],
+.no-style-button.disabled {
+  text-decoration: none;
+  color: #999999;
+}
+/* ==========================================================================
+/* 2.0 - Grid Layout (Responsive)
+   ========================================================================== */
+/* Sections & Content Blocks */
+.section {
+  position: relative;
+}
+.row {
+  margin-bottom: 1em;
+}
+.container {
+  max-width: 940px;
+  margin: 0 auto;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.container-full {
+  max-width: 960px;
+  margin: 0 auto;
+}
+/* Fluid Grid */
+.col {
+  margin-left: 2%;
+  *margin-left: 1.7%;
+  float: left;
+}
+.col:first-child {
+  margin-left: 0;
+}
+/* Columns */
+.one {
+  width: 6.5%;
+}
+.two {
+  width: 15%;
+}
+.three {
+  width: 23.5%;
+}
+.four {
+  width: 32%;
+}
+.five {
+  width: 40.5%;
+}
+.six {
+  width: 49.0%;
+}
+.seven {
+  width: 57.5%;
+}
+.eight {
+  width: 66%;
+}
+.nine {
+  width: 74.5%;
+}
+.ten {
+  width: 83%;
+}
+.eleven {
+  width: 91.5%;
+}
+.twelve {
+  width: 100%;
+}
+.quarter {
+  width: 23.5%;
+}
+.half {
+  width: 49.0%;
+}
+.one-third {
+  width: 32%;
+}
+/* ==========================================================================
+/* -- Tablet Devices (Layout, Modifications, etc)
+   ========================================================================== */
+@media only screen and (min-width: 762px) and (max-width: 939px) {
+  .container {
+    width: 720px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  /* Tablet Grid
+    * For stacking full width columns, please use the new class .tablet-full
+    * New tablet columns have been added
+  */
+  .tablet-one {
+    width: 6.5%;
+  }
+  .tablet-two {
+    width: 15%;
+  }
+  .tablet-three {
+    width: 23.5%;
+  }
+  .tablet-four {
+    width: 32%;
+  }
+  .tablet-five {
+    width: 40.5%;
+  }
+  .tablet-six {
+    width: 49.0%;
+  }
+  .tablet-seven {
+    width: 57.5%;
+  }
+  .tablet-eight {
+    width: 66%;
+  }
+  .tablet-nine {
+    width: 74.5%;
+  }
+  .tablet-ten {
+    width: 83%;
+  }
+  .tablet-eleven {
+    width: 91.5%;
+  }
+  .tablet-twelve {
+    width: 100%;
+  }
+  .tablet-full {
+    clear: both;
+    float: none;
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+  }
+  .tablet-full:first-child {
+    margin-top: 0;
+  }
+  .notablet {
+    display: none;
+  }
+  .showtablet {
+    display: block;
+  }
+}
+/* End Tablet Media Query */
+/* ==========================================================================
+/* -- Mobile Devices (Layout, Modifications, etc)
+   ========================================================================== */
+@media only screen and (max-width: 761px) {
+  /* Mobile Grid
+    * For stacking full width columns, please use the new class .mobile-full
+    * New mobile columns have been added
+  */
+  .mobile-one {
+    width: 6.5%;
+  }
+  .mobile-two {
+    width: 15%;
+  }
+  .mobile-three {
+    width: 23.5%;
+  }
+  .mobile-four {
+    width: 32%;
+  }
+  .mobile-five {
+    width: 40.5%;
+  }
+  .mobile-six {
+    width: 49.0%;
+  }
+  .mobile-seven {
+    width: 57.5%;
+  }
+  .mobile-eight {
+    width: 66%;
+  }
+  .mobile-nine {
+    width: 74.5%;
+  }
+  .mobile-ten {
+    width: 83%;
+  }
+  .mobile-eleven {
+    width: 91.5%;
+  }
+  .mobile-twelve {
+    width: 100%;
+  }
+  .mobile-full {
+    clear: both;
+    float: none;
+    width: 100%;
+    margin: 1em 0 0 0;
+  }
+  .mobile-full:first-child {
+    margin-top: 0;
+  }
+  .container {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  /* Mobile Tables */
+  table th,
+  table td {
+    padding: 4px;
+  }
+  /* Mobile Forms */
+  input[type=text],
+  input[type=password],
+  input[type=email],
+  input[type=search],
+  input[type=tel],
+  textarea {
+    width: 90%;
+    padding: 5%;
+  }
+  select {
+    width: 100%;
+  }
+  .nomobile {
+    display: none;
+  }
+  .showmobile {
+    display: block;
+  }
+}
+/* End Mobile Media Query */

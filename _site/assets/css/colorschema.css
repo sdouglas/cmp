@@ -1,0 +1,100 @@
+
+/* 
+
+orange: #dc4e3c;
+grey: #363636;
+light-grey: #f2f2f2;
+
+/* Links */
+a,a:visited  {
+  color: #dc4e3c;
+  text-decoration: none;
+  /*font-weight: bold;*/
+}
+
+a:hover {
+  color: #516C8A;
+}
+a:active {
+  color: #373A3D;
+}
+
+.frontpage .header-top{background:#23a4e6;}
+
+
+
+.header-top{
+  background:#dc4e3c;
+}
+
+body.default a.logo, a.logo:visited  {color: #fff;}
+body.default .logo .small {color:#fff;}
+
+body.default .footer-bottom a.logo,
+body.default .footer-bottom a.logo:visited  {color: #ddd;}
+body.default .footer-bottom a.logo:hover {color:#ccc;}
+
+body.frontpage {background:#fbfbfb;color:#111;}
+body.frontpage h1,
+body.frontpage h2,
+body.frontpage h3,
+body.frontpage h4,
+body.frontpage h5{color:#2F3235;}
+
+body.frontpage a.logo, a.logo:visited  {color: #444;}
+body.frontpage .logo .small {color:#666;}
+
+.frontpage .header-top {background:#fbfbfb;}
+.frontpage .top{background:#fbfbfb;
+				color:#555;
+				padding:100px 0 10px;margin:-93px 0 10px;}
+
+.frontpage .middle{background:#363636;color:#bebebe;padding:20px 0;margin:-20px 0 30px 0;}
+.frontpage .middle a:link,
+.frontpage .middle a:visited {color:#b5bdc8;font-weight:bold;}
+.frontpage .middle h2 {font-size:2.6rem;color:#f2f2f2;}
+.frontpage .middle h2 em{color:#dc4e3c;font-style:normal;}
+.frontpage .middle h3 {font-size:1.6rem;color:#f2f2f2;}
+.frontpage .middle #news {font-size:1.2rem;text-align: right;border-left:1px solid #bebebe;}
+.frontpage .middle #news ul {list-style: none}
+
+
+
+#cssmenu {background:#fafafa;}
+#cssmenu a{ color:#777;font-weight: bold;}
+#cssmenu a:hover{background:#eee;}
+#cssmenu > ul > li:hover > a {
+  background:#363636;
+  color:#dc4e3c; }
+#cssmenu .has-sub ul li a {
+  background: #363636;
+  color:#eee;
+  }
+#cssmenu .has-sub ul li:hover a {
+  background: #dc4e3c;color:#fff;
+   }
+
+
+.frontpage #cssmenu { background:#fff;}
+
+/*
+.frontpage #cssmenu a{ color:#90a3bf;font-weight: bold;}
+.frontpage #cssmenu a:hover{background:#AAC19B;color:#eee;}
+.frontpage #cssmenu > ul > li:hover > a {
+  background:#82787B;
+  color:#eee; }
+.frontpage #cssmenu .has-sub ul li a {
+  background: #82787B;
+  color:#eee;
+  }
+.frontpage #cssmenu .has-sub ul li:hover a {
+  background: #AAC19B;color:#2F3235;
+   }
+*/
+
+/*
+.frontpage .flexslider {background:none; outline:0;}
+
+.footer-bottom {  background:#fff;color:#666;}
+*/
+.footer-bottom a:link {color:#90a3bf;}
