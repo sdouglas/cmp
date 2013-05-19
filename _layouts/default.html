@@ -15,6 +15,11 @@
     </head>
     <body class="default {% if page.body-class %} {{ page.body-class }} {% endif %} ">
       {% include header.html %}
+
+      <div class="container content-inner">     
+      {% include menu.html %}
+      </div>
+
       <div class="container content-inner">     
         {{ content }}
       </div> <!-- /container -->
