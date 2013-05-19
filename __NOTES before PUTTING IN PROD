@@ -1,0 +1,21 @@
+To do:
+
+Dark logo top right.
+Experiment with styling an image caption (using html5 caption) into the slideshow. Or using another slideshow. The aliased text is too blurry.
+create a bio content type.
+
+
+__NOTES before PUTTING IN PROD	
+
+1) Edit the _config.yml file in root dir, and change the path of the production URL to your own.
+
+2) Edit the CNNAME file in root and change it.
+
+3) Add the correct analytics code (bottom of _config.yml)
+
+4) Replace my typekit credentials with yours, in:
+	_includes/themes/mungbean/default.html
+
+FINALLY:
+
+Remove this file!

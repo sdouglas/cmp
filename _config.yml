@@ -1,2 +1,13 @@
 name: CMP
 pygments: true
+
+
+# This is the default format for paths. 
+# For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
+# permalink: /:categories/:year/:month/:day/:title 
+permalink: /:categories/:title 
+
+production_url : http://stgabriel.github.io/mungbean
+
+atom_path : /atom.xml
+rss_path : /rss.xml
