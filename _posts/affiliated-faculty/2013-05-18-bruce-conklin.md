@@ -1,6 +1,6 @@
 ---
 layout: bio
-categories: faculty
+categories: affiliated-faculty
 title: Bruce Conklin
 position: Professor
 email_prefix: bconklin
