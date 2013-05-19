@@ -3,6 +3,14 @@ layout: default
 title: Faculty Members
 ---
 
+<!--initialises email concealment js -->
+<script>(function($) {
+    $(document).ready( function() {
+        $('.e').emailLink();
+    } );
+})(jQuery);
+
+</script>
 
 <table >
   <tbody>
@@ -10,12 +18,14 @@ title: Faculty Members
 	<tr>
 	<td><a href="{{ x.url }}">{{ x.title }}</a></td>
 	<td><a href="{{ x.position }}">{{ x.position }}</a></td>
-	<td><a href="{{ x.email }}">{{ x.email }}</a></td>
+	<td><span class="e">{{ x.email_prefix }} / {{ x.email_suffix }} </span></td>
 	<td><a href="{{ x.phone }}">{{ x.phone }}</a></td>
 	</tr>
 	{% endfor %}
 </tbody>
 </table>
+
+
 ...
 
 

@@ -2,9 +2,22 @@
 layout: default
 ---
 <h2>{{ page.title }}</h2>
-<h2>{{ page.position }}</h2>
 
-bio:
+<!--initialises email concealment js -->
+<script>(function($) {
+    $(document).ready( function() {
+        $('.e').emailLink();
+    } );
+})(jQuery);
+
+</script>
+
+Email address: <span class="e">{{ page.email_prefix }} / {{ page.email_suffix }} </span>
+
+<p>Position: {{ page.position }}</p>
+<p>Website:<a href="{{page.website}}">{{page.website}}</a></p>
+<p>Address: {{page.address}}</p>
+<b>About {{ page.title }}</b>
 {{ content }}
 
 

@@ -4,7 +4,18 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <title>Faculty Members</title>
-        <meta name="viewport" content="width=device-width">
+        <!-- Enable responsive viewport -->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+        <!--[if lt IE 9]>
+          <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+        <script src="/assets/js/default.js"></script>
+
+        <!-- https://github.com/bjornjohansen/jQuery-Email-Link -->
+        <script src="/assets/js/concealemail.js"></script>
 
         <!-- syntax highlighting CSS -->
         <link rel="stylesheet" href="/assets/css/syntax.css">
@@ -92,25 +103,43 @@
       </div>
 
       <div class="container content-inner">     
-        <table >
+        <!--initialises email concealment js -->
+<script>(function($) {
+    $(document).ready( function() {
+        $('.e').emailLink();
+    } );
+})(jQuery);
+
+</script>
+
+<table >
   <tbody>
     
 	<tr>
 	<td><a href="/faculty/2013/05/18/kevan-shokat.html">Kevan Shokat</a></td>
 	<td><a href="Professor and Chair">Professor and Chair</a></td>
-	<td><a href="shokat@cmp.ucsf.edu">shokat@cmp.ucsf.edu</a></td>
+	<td><span class="e">shokat / cmp, ucsf, edu </span></td>
 	<td><a href="415 514-0472">415 514-0472</a></td>
+	</tr>
+	
+	<tr>
+	<td><a href="/faculty/2013/05/18/henry-bourne.html">Henry Bourne</a></td>
+	<td><a href="Professor and Chair">Professor and Chair</a></td>
+	<td><span class="e">henry.bourne / cmp, ucsf, edu </span></td>
+	<td><a href="415 476-8161">415 476-8161</a></td>
 	</tr>
 	
 	<tr>
 	<td><a href="/faculty/2013/05/18/bruce-conklin.html">Bruce Conklin</a></td>
 	<td><a href="Professor">Professor</a></td>
-	<td><a href="bconklin@gladstone.ucsf.edu">bconklin@gladstone.ucsf.edu</a></td>
+	<td><span class="e">bconklin / gladstone, ucsf, edu </span></td>
 	<td><a href="415 734-2712">415 734-2712</a></td>
 	</tr>
 	
 </tbody>
 </table>
+
+
 ...
 
 
