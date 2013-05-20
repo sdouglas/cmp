@@ -85,11 +85,12 @@ body-class: frontpage
     <section id="news">
       <h3>Latest News</h3>
 	    <ul class="posts">
-	    {% for post in site.posts %}
+	    {% for post in site.categories.blog limit:5 %}
 	     
        <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
 
 	    {% endfor %}
+
 	  	</ul>      
     </section>
   </div>
