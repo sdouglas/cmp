@@ -14,6 +14,10 @@
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
         <script src="/assets/js/default.js"></script>
 
+        <!-- rapid.js for navigation -->
+        <script src="/assets/js/rapid.js"></script>
+
+
         <!-- https://github.com/bjornjohansen/jQuery-Email-Link -->
         <script src="/assets/js/concealemail.js"></script>
 
@@ -29,11 +33,10 @@
 
     </head>
     <body class="default {% if page.body-class %} {{ page.body-class }} {% endif %} ">
+      
       {% include header.html %}
 
-      <div class="container content-inner">     
       {% include menu.html %}
-      </div>
 
       <div class="container content-inner">     
         {{ content }}

@@ -1,76 +1,280 @@
-#cssmenu ul,
-#cssmenu li,
-#cssmenu span,
-#cssmenu a {
+
+
+
+menu, ol, ul {
+  padding: 0 0 0 40px; }
+
+nav ul, nav ol {
+  list-style: none;
+  list-style-image: none; }
+
+
+body {
   margin: 0;
-  padding: 0;
-  position: relative; }
-
-#cssmenu {
-  height: 49px;margin:20px 0;
-  /*border-bottom: 2px solid #ffd200;*/ }
-
-
-#cssmenu a {
-  display: inline-block;
-  font-family: Helvetica, Arial, Verdana, sans-serif;
-  font-size: 12px;
-  line-height: 49px;
-  padding: 0 20px;
-  text-decoration: none; }
-
-#cssmenu ul {
-  list-style: none; }
-
-#cssmenu > ul {
-  float: left; }
-
-#cssmenu > ul > li {
-  float: left; }
-
-#cssmenu > ul > li.active > a {
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  color: #2c3e50;
   }
 
-#cssmenu > ul > li:hover > a { }
+::-moz-selection {
+  background: #2c3e50;
+  color: white;
+  text-shadow: none; }
 
-#cssmenu .has-sub {
-  z-index: 1; }
+::selection {
+  background: #2c3e50;
+  color: white;
+  text-shadow: none; }
 
-#cssmenu .has-sub:hover > ul {
-  display: block; }
 
-#cssmenu .has-sub ul {
-  display: none;
-  position: absolute;
-  width: 200px;
-  top: 100%;
-  left: 0; }
+img {
+  vertical-align: middle;
+  border: 0;
+  -ms-interpolation-mode: bicubic;
+  /* Improve IE's resizing of images */ }
 
-#cssmenu .has-sub ul li {
-  *margin-bottom: -1px; }
 
-#cssmenu .has-sub ul li a {
-  background: #ddd;
-  border-bottom: 1px dotted #bbb;
-  filter: none;
-  font-size: 11px;
+/* media Queriess */
+/* Mobile Portrait */
+@media only screen and (min-width: 320px) {
+  
+
+  .menu {
+    margin: 1.5em 1em; }
+
+ }
+
+@media only screen and (min-width: 600px) {
+ 
+
+  .menu {
+    margin: 1em 2.25em; }
+     }
+
+/* Landscape Tablet/Notebook/Laptop */
+@media only screen and (min-width: 1024px) {
+  
+  .menu {
+    margin: 1.75em 4em; }
+
+  
+   }
+/* Desktop */
+@media only screen and (min-width: 1280px) {
+  
+
+  .menu {
+    margin: 2.75em 4em; }
+
+  }
+/* Widescreen */
+@media only screen and (min-width: 1440px) {
+  body {
+    font-size: 1.375em; } }
+
+
+/* Hyperlinks */
+a {
+  color: #2980B9;
+  text-decoration: none;
+  border: none; }
+
+a:visited {
+  color: #2980B9; }
+
+a:hover {
+  color: #3498DB;
+  -moz-transition: all 0.2s ease-in;
+  -o-transition: all 0.2s ease-in;
+  -webkit-transition: all 0.2s ease-in;
+  -ms-transition: all 0.2s ease-in;
+  transition: all 0.2s ease-in;
+  text-decoration: underline; }
+
+a:focus {
+  outline: thin dotted; }
+
+p a {
+  /* Optimized for touch devices */
+  margin: -.5em;
+  padding: .5em;
+  position: relative; }
+
+/* Button */
+.Button {
+  background-color: #3498db;
+  -moz-border-radius: 6px;
+  -webkit-border-radius: 6px;
+  -khtml-border-radius: 6px;
+  border-radius: 6px;
+  border: 2px solid #3498db;
+  display: inline-block;
+  color: white;
+  margin: 1em 0;
+  padding: 0.5em;
+  text-decoration: none;
+  -moz-transition: all 0.25s ease-in;
+  -o-transition: all 0.25s ease-in;
+  -webkit-transition: all 0.25s ease-in;
+  -ms-transition: all 0.25s ease-in;
+  transition: all 0.25s ease-in;
+  font: 75% "ff-meta-web-pro",sans-serif; }
+
+.Button:hover {
+  background-color: #2980b9;
+  border-color: #2980b9;
+  color: white;
+  -moz-transition: all 0.25s ease-in;
+  -o-transition: all 0.25s ease-in;
+  -webkit-transition: all 0.25s ease-in;
+  -ms-transition: all 0.25s ease-in;
+  transition: all 0.25s ease-in;
+  text-decoration: none; }
+
+.Button:active {
+  background-color: #3498db;
+  border-color: #3498db;
+  color: white; }
+
+.Button:visited {
+  color: white; }
+
+
+/* Colors */
+/* Header */
+header {
+  position: fixed;
+  top: -5.5em;
+  left: 0;
+  z-index: 2;
+  width: 100%;
+  font-size: 87.5%;
+  pointer-events: none; 
+background:#fff;
+}
+
+
+header a {
+  color: #2C3E50;
+  text-decoration: auto; }
+
+header a:visited {
+  color: #2C3E50; }
+
+header a:hover {
+  color: #2C3E50;
+  text-decoration: none; }
+
+header a:focus {
+  color: #2C3E50; }
+
+.menu {
+  float: right;
   display: block;
-  line-height: 120%;
-  padding: 10px; }
+  pointer-events: auto; }
 
-#cssmenu .has-sub ul li:hover a {  }
-
-#cssmenu .has-sub .has-sub:hover > ul {
+.menu span {
+  width: 30px;
+  height: 4px;
+  margin-bottom: 6px;
+  border-radius: 1000px;
+  background: #2C3E50;
   display: block; }
 
-#cssmenu .has-sub .has-sub ul {
-  display: none;
-  position: absolute;
-  left: 100%;
-  top: 0; }
+/* Navigation */
+nav {
+  position: fixed;
+  top: -2000px;
+  left: 0;
+  z-index: 1;
+  width: 100%;
+  height: 100px;
+  min-height: 100%;
+  background-color: #1ABC9C;
+  overflow: auto;
+  -webkit-overflow-scrolling: touch;
+  color: #16A085;
+  font-family: "ff-meta-web-pro",sans-serif;
+  text-transform: uppercase; }
 
-#cssmenu .has-sub .has-sub ul li a {
-  background: #ddd;
-  border-bottom: 1px dotted #bbb; }
+.navigation {
+  padding-top: 10em;
+  text-align: center; }
 
-#cssmenu .has-sub .has-sub ul li a:hover {  }
+.navigation-end {
+  margin-top: 5em;
+  margin-bottom: 2.5em;
+  text-align: center; }
+
+.navigation-end img {
+  height: 2em;
+  margin: 1.5em; }
+
+nav hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 5px solid #16A085;
+  margin: 1em 0;
+  padding: 0; }
+
+.headline {
+  margin-top: 3em;
+  margin-bottom: 2em;
+  font-weight: bold;
+  font-size: 0.77273em;
+  color: #16A085; }
+
+nav ul {
+  margin: 1em 0;
+  padding: 0; }
+
+nav li {
+  border-top: 2px solid #16A085;
+  -moz-transition: all 0.2s ease-out;
+  -o-transition: all 0.2s ease-out;
+  -webkit-transition: all 0.2s ease-out;
+  -ms-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+  padding: 0.5em;
+  font-weight: bold; }
+
+nav li:hover {
+  background: #16A085;
+  -moz-transition: all 0.2s ease-out;
+  -o-transition: all 0.2s ease-out;
+  -webkit-transition: all 0.2s ease-out;
+  -ms-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out; }
+
+nav li:last-child {
+  border-bottom: 2px solid #16A085; }
+
+nav li a {
+  color: #d3f7f0;
+  width: 100;
+  display: block;
+  margin: -0.6em;
+  padding: 0.6em;
+  position: relative; }
+
+nav li a:visited {
+  color: #d3f7f0; }
+
+nav li a:hover {
+  color: #1ABC9C;
+  text-decoration: none; }
+
+.search {
+  width: 2em;
+  height: 2em;
+  position: relative;
+  top: 0;
+  cursor: pointer;
+  display: inline-block;
+  right: 3em; }
+
+/* Top Margin */
+.top-margin {
+  width: 100%; }
