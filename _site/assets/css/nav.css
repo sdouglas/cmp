@@ -142,32 +142,7 @@ p a {
 
 
 /* Colors */
-/* Header */
-header {
-  position: fixed;
-  top: -5.5em;
-  left: 0;
-  z-index: 2;
-  width: 100%;
-  font-size: 87.5%;
-  pointer-events: none; 
-background:#fff;
-}
 
-
-header a {
-  color: #2C3E50;
-  text-decoration: auto; }
-
-header a:visited {
-  color: #2C3E50; }
-
-header a:hover {
-  color: #2C3E50;
-  text-decoration: none; }
-
-header a:focus {
-  color: #2C3E50; }
 
 .menu {
   float: right;
@@ -265,16 +240,3 @@ nav li a:visited {
 nav li a:hover {
   color: #1ABC9C;
   text-decoration: none; }
-
-.search {
-  width: 2em;
-  height: 2em;
-  position: relative;
-  top: 0;
-  cursor: pointer;
-  display: inline-block;
-  right: 3em; }
-
-/* Top Margin */
-.top-margin {
-  width: 100%; }
