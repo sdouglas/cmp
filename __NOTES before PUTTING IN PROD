@@ -11,10 +11,20 @@ __NOTES before PUTTING IN PROD
 
 2) Edit the CNNAME file in root and change it.
 
-3) Add the correct analytics code (bottom of _config.yml)
+3) Add the correct analytics code  
 
 4) Replace my typekit credentials with yours, in:
 	_includes/themes/mungbean/default.html
+
+5) Make special note that making an email address requires this syntax
+
+ <span class="e">kerri.santos / ucsf, edu </span>
+
+The jquery will process this and translate it in the browser as:
+
+<a href="mailto:kerri.santos@ucsf.edu " class="e-mail">kerri.santos@ucsf.edu </a>
+
+
 
 FINALLY:
 

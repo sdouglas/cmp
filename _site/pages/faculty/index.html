@@ -21,6 +21,14 @@
         <!-- https://github.com/bjornjohansen/jQuery-Email-Link -->
         <script src="/assets/js/concealemail.js"></script>
 
+        <!--initialises email concealment js -->
+        <script>(function($) {
+          $(document).ready( function() {
+          $('.e').emailLink();
+            } );
+          })(jQuery);
+        </script>
+
         <!-- syntax highlighting CSS -->
         <link rel="stylesheet" href="/assets/css/syntax.css">
 
@@ -129,14 +137,7 @@
       <div class="container content-inner"> 
       <div class="section row">
         <h1>CMP Faculty Pages</h1>
-<!--initialises email concealment js -->
-<script>(function($) {
-    $(document).ready( function() {
-        $('.e').emailLink();
-    } );
-})(jQuery);
 
-</script>
 
 <table >
   <tbody>
