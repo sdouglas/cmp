@@ -51,8 +51,10 @@ header a:focus {
 
 
 
-body.default a.logo-small, a.logo-small:visited  {color: #fff;}
-body.default .logo {color:#fff;}
+
+body.default a.ucsf{opacity:.85}
+body.default a.ucsf:hover {opacity:1;}
+
 
 .footer-bottom {background:#1a1a1a;color:#555;}
 body.default .footer-bottom a.logo,
@@ -70,9 +72,12 @@ body.frontpage h4,
 body.frontpage h5{color:#2F3235;}
 
 body.frontpage a.logo, a.logo:visited  {color: #ccc;}
-body.frontpage a.logo s:hover  {color: #fff;}
+body.frontpage a.logo:hover  {color: #fff;}
+body.default a.logo, a.logo:visited  {color: #555;}
+body.default a.logo:hover  {color: #333;}
 
-body.frontpage .logo .small {color:#666;}
+
+
 
 .frontpage .top{background:#1a1a1a;
 				color:#555;
