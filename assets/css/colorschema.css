@@ -32,7 +32,6 @@ header {
   z-index: 2;
   width: 100%;
   font-size: 87.5%;
-  pointer-events: none; 
 }
 
 #header{

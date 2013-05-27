@@ -28,8 +28,8 @@ $(document).ready(function() {
 			$('html').css('overflowY', 'hidden');
 			var width = $(window).width();
 			if (width >= 1280) {
-			$('header a').animate({color: '#fff'}, 800);
-			$('header span').animate({backgroundColor: '#fff'}, 800);
+			$('.menu a').animate({color: '#fff'}, 800);
+			$('.menu span').animate({backgroundColor: '#fff'}, 800);
 			 }
 		} else {
 			$("nav").animate({top: "-2000px"}, 800);
