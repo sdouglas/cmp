@@ -1,7 +1,7 @@
 
 
 
-menu, ol, ul {
+menu, nav ol, nav ul {
   padding: 0 0 0 40px; }
 
 nav ul, nav ol {
@@ -122,7 +122,7 @@ nav {
   text-transform: uppercase; }
 
 .navigation {
-  padding-top: 10em;
+  padding-top: 6em;
   text-align: center; }
 
 .navigation-end {

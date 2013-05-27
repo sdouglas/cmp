@@ -49,6 +49,7 @@ body {
   font-size:1.4rem;
   line-height:2rem;
 }
+.footer-bottom ul {padding-left:20px;}
 
 /* 1.1 Headings - h1, h2, h3, h4, h5, h6 & other (if any)
    ========================================================================== */
@@ -185,12 +186,12 @@ table caption {
    ========================================================================== */
 ul {
   list-style: disc;
-  padding: 0 0 0 25px;
+  padding: 0 0 0 20px;
   margin: 0;
 }
 ol {
   list-style: decimal;
-  padding: 0 0 0 25px;
+  padding: 0 0 0 20px;
   margin: 0;
 }
 /* 1.5 Forms, Labels and Inputs

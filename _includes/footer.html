@@ -3,27 +3,50 @@
 
    <div class="section">
 
+     
+
+      <div class="col three tablet-four mobile-full">
+
+        <p>Main Sections</p>
+         <ul>
+          <li><a href="{{BASE_PATH}}/pages/faculty"><span>Faculty</span></a></li>
+          <li><a href="{{BASE_PATH}}/pages/faculty/affiliated.html">Affiliated Faculty</a></li>
+          <li> <a href="{{BASE_PATH}}/pages/teaching">Teaching</a> </li>
+          <li> <a href="{{BASE_PATH}}/pages/ccbgrad">CCB Grad Program</a>  </li>
+          <li><a href="{{BASE_PATH}}/pages/postdocs">Post-Doc Scholars</a> </li>
+          <li> <a href="{{BASE_PATH}}/pages/students">Grad Students</a> </li>
+        </ul>
+
+      </div>
+
+      <div class="col three tablet-four mobile-full">
+        
+        <p>Central Administration</p>
+        <ul>
+          <li><a href="{{BASE_PATH}}/pages/cmp-administration"><span>Central Admin</span></a></li>
+          <li><a href="{{BASE_PATH}}/pages/cmp-administration/staff.html">Staff Lists</a></li>
+          <li><a href="{{BASE_PATH}}/pages/cmp-administration/grants.html">Grants</a></li>
+          <li><a href="{{BASE_PATH}}/pages/cmp-administration/fellows.html">Fellowships</a></li>
+          <li><a href="{{BASE_PATH}}/pages/cmp-administration/computer-support">Computer Support</a></li>
+          <li><a href="{{BASE_PATH}}/pages/cmp-administration/purchasing.html">Purchasing</a></li>
+          <li> <a href="{{BASE_PATH}}/pages/contact">Contact</a></li>
+        </ul>
+      </div>
+
+      <div class="col three tablet-four mobile-full">
+        
+        <p>Latest Posts</p>
+        <ul>
+        {% for post in site.categories.blog limit:5 %}
+          <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+        </ul>
+
+      </div>
+
       <div class="col three notablet nomobile">
                 <a href="/" class="logo">cmp</a>
                 &copy; {{ site.time | date: '%Y' }}
-
-      </div>
-
-      <div class="col three tablet-four mobile-full">
-        
-        ased intracellular motility, cell movement and migration, synaptic transmission and plasticity, protein design and structure prediction, protein folding, structure and function, and RNA-protein interactions.
-
-      </div>
-
-      <div class="col three tablet-four mobile-full">
-        
-        ased intracellular motility, cell movement and migration, synaptic transmission and plasticity, protein design and structure prediction, protein folding, structure and function, and RNA-protein interactions.
-
-      </div>
-
-      <div class="col three tablet-four mobile-full">
-        
-        ased intracellular motility, cell movement and migration, synaptic transmission and plasticity, protein design and structure prediction, protein folding, structure and function, and RNA-protein interactions.
 
       </div>
 
