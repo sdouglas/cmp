@@ -4,19 +4,15 @@
 height: 75px;
 }
 
-
-a.logo, a.logo:visited  {
-margin: 19px 0 0 0;
+a.logo{font-size:5rem;float:left;}
+a.logo-small, a.logo-small:visited  {
+margin: 25px 0 0 0;
 z-index:2147483647;
 }
 
-.logo .small {
-position: relative;
-top: -26px;
-}
 
 .ucsf {
-  display:block; margin-top:20px;
+  display:block; margin:8px 0 0 -10px;
 }
 .ucsf a:link,.ucsf a:visited{opacity:1}
 .ucsf a:hover {opacity:.8;}

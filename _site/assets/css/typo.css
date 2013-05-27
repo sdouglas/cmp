@@ -6,20 +6,26 @@ html { font-size: 62.5%; }
 h1,h2,h3,h4,h5,h6 {font-size:bold;}
 
 
-
 a.logo, a.logo:visited  {
 font-family: "Trebuchet MS", Helvetica, sans-serif;
-font-size: 8.5rem;
+font-size: 5rem;
 font-weight: bold;
 text-decoration: none;
+line-height:1.3em;
+text-transform: uppercase;
 }
 
-.logo .small {
-font-size:10px;
+
+a.logo-small, a.logo-small:visited  {
+font-family: "Trebuchet MS", Helvetica, sans-serif;
+font-size: 1.2rem;
+font-weight: bold;
+text-decoration: none;
+line-height:1.3em;
 text-transform: uppercase;
-letter-spacing: 0.2rem;
-position: relative;
 }
+
+
 /* Body */
 body {
   font-family: 'Lora', serif;  font-size: 1.7rem;

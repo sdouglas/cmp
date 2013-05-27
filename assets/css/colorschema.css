@@ -58,7 +58,7 @@ header a:focus {
 
 
 
-body.default a.logo, a.logo:visited  {color: #fff;}
+body.default a.logo-small, a.logo-small:visited  {color: #fff;}
 body.default .logo .small {color:#fff;}
 
 body.default .footer-bottom a.logo,
