@@ -5,6 +5,8 @@
 @import url(colorschema.css);
 
 
+.top-margin {margin-top:110px;}
+
 /* Micro Clearfix */
 .clear:before,
 .clear:after {

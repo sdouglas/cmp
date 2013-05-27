@@ -7,7 +7,7 @@ height: 75px;
 
 a.logo, a.logo:visited  {
 margin: 19px 0 0 0;
-
+z-index:2147483647;
 }
 
 .logo .small {
@@ -20,25 +20,7 @@ top: -26px;
 }
 .ucsf a:link,.ucsf a:visited{opacity:1}
 .ucsf a:hover {opacity:.8;}
-/* nav links removed */
-/*
-.nav {
-line-height: normal;
-padding-top: 12px;
-}
-.nav ul {
-list-style: none;
-padding: 0;
-margin: 0;
-}
-.nav ul li:first-child {
-margin-left: 0;
-}
-.nav ul li {
-float: left;
-margin-left: 10px;
-} 
-*/
+
 
 /* main content area */
 
