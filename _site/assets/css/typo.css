@@ -8,21 +8,22 @@ h1,h2,h3,h4,h5,h6 {font-size:bold;}
 
 a.logo, a.logo:visited  {
 font-family: "Trebuchet MS", Helvetica, sans-serif;
-font-size: 5rem;
+font-size: 3.5rem;
 font-weight: bold;
 text-decoration: none;
-line-height:1.3em;
+line-height:1.7em;
 text-transform: uppercase;
 }
 
 
-a.logo-small, a.logo-small:visited  {
+.logo-small  {
 font-family: "Trebuchet MS", Helvetica, sans-serif;
 font-size: 1.2rem;
 font-weight: bold;
 text-decoration: none;
 line-height:1.3em;
 text-transform: uppercase;
+color:#555;
 }
 
 
@@ -31,11 +32,28 @@ body {
   font-family: 'Lora', serif;  font-size: 1.7rem;
   line-height: 3rem;
   background-color: #ffffff;
-  color: #222222;
+  color: #333;
   margin: 0;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
+  
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  }
+
+::-moz-selection {
+  background: #2c3e50;
+  color: white;
+  text-shadow: none; 
 }
+
+::selection {
+  background: #2c3e50;
+  color: white;
+  text-shadow: none; 
+}
+
 
 .footer-bottom {
   font-size:1.4rem;

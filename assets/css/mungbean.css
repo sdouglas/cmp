@@ -1,24 +1,31 @@
 
-/* header */
-.header-top {
-height: 75px;
+/* Header */
+header {
+  position: fixed;
+  top: -5.5em;
+  left: 0;
+  z-index: 2;
+  width: 100%;
+  font-size: 87.5%;
 }
 
-a.logo{font-size:5rem;float:left;}
+a.logo{ float:left;height:40px;margin-top:5px;}
+/*
+
 a.logo-small, a.logo-small:visited  {
-margin: 25px 0 0 0;
+margin: 30px 0 0 0;
 z-index:2147483647;
 }
+*/
 
 
-.ucsf {
-  display:block; margin:8px 0 0 -10px;
+a.ucsf {
+  display:block; margin:12px 0 0 0px;height:40px; width:100px;float:left;
 }
-.ucsf a:link,.ucsf a:visited{opacity:1}
-.ucsf a:hover {opacity:.8;}
+a.ucsf{opacity:.2}
+a.ucsf:hover {opacity:.5;}
 
 
-/* main content area */
 
 
 

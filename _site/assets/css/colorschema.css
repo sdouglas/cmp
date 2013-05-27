@@ -24,20 +24,13 @@ a:active {
 
 
 
-/* Header */
-header {
-  position: fixed;
-  top: -5.5em;
-  left: 0;
-  z-index: 2;
-  width: 100%;
-  font-size: 87.5%;
-}
+
+
 
 #header{
-  background:#dc4e3c;
+  background:#f5f5f5;
 }
-.frontpage #header{background:#23a4e6;}
+.frontpage #header{background:#1a1a1a;}
 
 
 header a {
@@ -59,33 +52,38 @@ header a:focus {
 
 
 body.default a.logo-small, a.logo-small:visited  {color: #fff;}
-body.default .logo .small {color:#fff;}
+body.default .logo {color:#fff;}
 
+.footer-bottom {background:#1a1a1a;color:#555;}
 body.default .footer-bottom a.logo,
-body.default .footer-bottom a.logo:visited  {color: #ddd;}
-body.default .footer-bottom a.logo:hover {color:#ccc;}
+body.default .footer-bottom a.logo:visited  {color: #222;}
+body.default .footer-bottom a.logo:hover {color:#444;}
 
-body.frontpage {background:#fbfbfb;color:#111;}
+
+.footer-bottom a:link {color:#90a3bf;}
+
+body.frontpage {background:#fbfbfb;color:#333;}
 body.frontpage h1,
 body.frontpage h2,
 body.frontpage h3,
 body.frontpage h4,
 body.frontpage h5{color:#2F3235;}
 
-body.frontpage a.logo, a.logo:visited  {color: #444;}
+body.frontpage a.logo, a.logo:visited  {color: #ccc;}
+body.frontpage a.logo s:hover  {color: #fff;}
+
 body.frontpage .logo .small {color:#666;}
 
-.frontpage .header-top {background:#fbfbfb;}
-.frontpage .top{background:#fbfbfb;
+.frontpage .top{background:#1a1a1a;
 				color:#555;
-				padding:100px 0 10px;margin:-93px 0 10px;}
+				padding:97px 0 10px;margin:-160px 0 10px;}
 
-.frontpage .middle{background:#363f48;color:#bebebe;padding:20px 0;margin:-20px 0 30px 0;}
+.frontpage .middle{background:#f5f5f5;padding:235px 0 20px 0;margin:-235px 0 30px 0;}
 .frontpage .middle a:link,
 .frontpage .middle a:visited {color:#b5bdc8;font-weight:bold;}
-.frontpage .middle h2 {font-size:2.6rem;color:#f2f2f2;}
+.frontpage .middle h2 {font-size:2.6rem;}
 .frontpage .middle h2 em{color:#dc4e3c;font-style:normal;}
-.frontpage .middle h3 {font-size:1.6rem;color:#f2f2f2;}
+.frontpage .middle h3 {font-size:1.6rem;}
 .frontpage .middle #news {font-size:1.2rem;text-align: right;border-left:1px solid #bebebe;}
 .frontpage .middle #news ul {list-style: none}
 
@@ -126,6 +124,4 @@ body.frontpage .logo .small {color:#666;}
 /*
 .frontpage .flexslider {background:none; outline:0;}
 */
-.footer-bottom {  background:#eff2f4;color:#666;}
 
-.footer-bottom a:link {color:#90a3bf;}
