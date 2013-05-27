@@ -1,26 +1,26 @@
 ---
 layout: default
 ---
-<h2>{{ page.title }}</h2>
 
-<!--initialises email concealment js -->
-<script>(function($) {
-    $(document).ready( function() {
-        $('.e').emailLink();
-    } );
-})(jQuery);
+<div class="col five tablet-five mobile-full">
 
-</script>
+	<h2>{{ page.title }}</h2>
 
-Email address: <span class="e">{{ page.email_prefix }} / {{ page.email_suffix }} </span>
 
-<p>Position: {{ page.position }}</p>
-<p>Website:<a href="{{page.website}}">{{page.website}}</a></p>
-<p>Address: {{page.address}}</p>
-<p>Phone: {{page.phone}}</p>
-<p>Fax: {{page.fax}}</p>
+	Email address: <span class="e">{{ page.email_prefix }} / {{ page.email_suffix }} </span>
 
-<b>About {{ page.title }}</b>
-{{ content }}
+	<p>Position: {{ page.position }}</p>
+	<p>Website:<a href="{{page.website}}">{{page.website}}</a></p>
+	<p>Address: {{page.address}}</p>
+	<p>Phone: {{page.phone}}</p>
+	<p>Fax: {{page.fax}}</p>
 
+</div>
+
+<div class="col seven tablet-seven mobile-full">
+
+	<b>About</b>
+	{{ content }}
+
+</div>
 
