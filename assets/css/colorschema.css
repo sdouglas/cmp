@@ -70,7 +70,7 @@ body.default a.logo:hover  {color: #333;}
 
 .frontpage .top{background:#1a1a1a;
 				color:#555;
-				padding:70px 0 10px;margin:-160px 0 10px;}
+				}
 
 .middle{background:#f5f4f1;padding:235px 0 20px 0;margin:-235px 0 30px 0;}
 .middle a:link,

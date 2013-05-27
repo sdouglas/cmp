@@ -109,6 +109,8 @@ body.frontpage .top-margin {margin-top:110px;}
 body.default .top-margin {margin-top:80px;}
 body.contact .top-margin{margin-top:20px;}
 
+.frontpage .top {padding:100px 0 10px;margin:-160px 0 10px;}
+
 /* FIXES FOR MEDIA QUERIES */
 /* ==========================================================================
 /* -- Tablet Devices (Layout, Modifications, etc)
