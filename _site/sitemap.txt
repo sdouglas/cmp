@@ -21,6 +21,7 @@ http://stgabriel.github.io/mungbean/pages/teaching/index.html
 http://stgabriel.github.io/mungbean/rss.xml
 http://stgabriel.github.io/mungbean/sitemap.txt
 
+http://stgabriel.github.io/mungbean/blog/New-CMP-Site
 http://stgabriel.github.io/mungbean/blog/welcome-to-jekyll
 http://stgabriel.github.io/mungbean/faculty/kevan-shokat
 http://stgabriel.github.io/mungbean/faculty/henry-bourne
