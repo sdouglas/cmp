@@ -24,7 +24,7 @@ The jquery will process this and translate it in the browser as:
 
 <a href="mailto:kerri.santos@ucsf.edu " class="e-mail">kerri.santos@ucsf.edu </a>
 
-..
+....
 
 FINALLY:
 
