@@ -14,10 +14,13 @@ a,a:visited  {
 
 a:hover {
   color: #516C8A;
+  text-decoration: none; 
 }
+/*
 a:active {
   color: #373A3D;
 }
+*/
 
 
 
@@ -28,26 +31,12 @@ a:active {
 
 
 #header{
-  background:#f5f5f5;
+  background:#f5f4f1;
 }
-.frontpage #header{background:#1a1a1a;}
 
-
-header a {
-  color: #2C3E50;
-  text-decoration: auto; }
-
-header a:visited {
-  color: #2C3E50; }
-
-header a:hover {
-  color: #2C3E50;
-  text-decoration: none; }
-
-header a:focus {
-  color: #2C3E50; }
-
-
+/* on these pages, header is black/charcoal */
+body.frontpage #header,
+body.contact #header {background:#1a1a1a;}
 
 
 
@@ -81,12 +70,12 @@ body.default a.logo:hover  {color: #333;}
 
 .frontpage .top{background:#1a1a1a;
 				color:#555;
-				padding:97px 0 10px;margin:-160px 0 10px;}
+				padding:70px 0 10px;margin:-160px 0 10px;}
 
-.middle{background:#f5f5f5;padding:235px 0 20px 0;margin:-235px 0 30px 0;}
+.middle{background:#f5f4f1;padding:235px 0 20px 0;margin:-235px 0 30px 0;}
 .middle a:link,
 .middle a:visited {color:#b5bdc8;font-weight:bold;}
-.middle h2 {font-size:2.6rem;}
+.middle h2 {}
 .middle h2 em{color:#dc4e3c;font-style:normal;}
 .middle h3 {font-size:1.6rem;}
 .middle #news {font-size:1.2rem;border-left:1px solid #bebebe;text-align:right;}

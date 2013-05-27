@@ -1,3 +1,4 @@
+/* General overrides */
 
 /* Header */
 header {
@@ -47,10 +48,9 @@ a.ucsf {
 
 
 
-  /* misc */
-
-/* POSTS */
+ 
 /* tag_box */
+/*
 .tag_box {
   list-style: none;
   margin: 0;
@@ -85,9 +85,9 @@ a.ucsf {
   background: #57A957;
   border: 1px solid #4c964d;
   color: #FFF; }
-/*
-.frontpage .flex-control-nav {bottom:10px;} 
-*/
+
+  */
+
 
 /*
 .pagination{margin:20px 0;}
@@ -105,8 +105,9 @@ a.ucsf {
 /* fixes */
 
 body.contact .top-margin{margin-top:20px;}
-body.contact header#header{background:#1a1a1a;}
 
+body.frontpage .top-margin {margin-top:110px;}
+body.default .top-margin {margin-top:80px;}
 /* FIXES FOR MEDIA QUERIES */
 /* ==========================================================================
 /* -- Tablet Devices (Layout, Modifications, etc)
@@ -121,6 +122,17 @@ body.contact header#header{background:#1a1a1a;}
 @media only screen and (max-width: 761px) {
   header {height:70px;}
   nav h1 {font-size:2rem;}
+
+  .top-margin{margin-top:60px;}
+
+  h1 {font-size:3rem;line-height:3.5rem;margin:10px 0;}
+  h2 {font-size:1.8rem;}
+  /* front page */
+
+
+  /* news, latest blogs.. stops being on the right margin, text enlarges */
+  body.frontpage .middle #news {font-size:1.8rem;border:none;text-align:left;}
+  .middle #news ul {list-style: none;padding-left:0;}
 
   .footer-bottom {font-size:1.6rem;line-height:2.2rem;}
 
