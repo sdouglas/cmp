@@ -3,7 +3,6 @@ html { font-size: 62.5%; }
 
 
 
-h1,h2,h3,h4,h5,h6 {font-size:bold;}
 
 
 a.logo, a.logo:visited  {
@@ -23,8 +22,8 @@ body {
   font-family: "ff-tisa-web-pro",Georgia,Cambria,"Times New Roman",Times,serif;  line-height: 3rem;
   color: #333;
   margin: 0;
-  font-size:2.2rem;
-  line-height:3.1rem;
+  font-size:1.8rem;
+  line-height:2.7rem;
 
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -65,22 +64,42 @@ h4 {
 h1 {
   letter-spacing: -1px;
   font-size: 3.2rem;
-  line-height: 1.2;
-  padding-bottom: 5px;
+  line-height: 3.2rem;
+  padding-bottom: 0px;
 }
 }
 h2 {
   font-size: 3.2rem;
-  margin-bottom: 3.8rem;
+  line-height: 3.8rem;
 }
+/* front page stuff */
+.middle h2 {}
+.middle h2 em{color:#57ad68;font-style:normal;}
+
 h3 {
   font-size: 2.1rem;
   margin-bottom: 3px;
 }
+/* front page stuff */
+.middle h3 {font-size:1.7rem;}
+
 h4 {
   font-size: 1.9rem;
   margin-bottom: 4px;
 }
+h5 {
+  color: #333;
+  font-size:1.2rem;
+  margin-bottom:6px;
+}
+.middle #news {font-size:1.3rem;border-left:1px solid #bebebe;text-align:right;}
+.middle #news ul {list-style: none}
+/*
+body.frontpage h1,
+body.frontpage h2,
+body.frontpage h3,
+body.frontpage h4 {color:#2F3235;}
+*/
 
 /* 1.2 Paragraphs, block quotes, code, pre, etc
    ========================================================================== */
@@ -355,5 +374,6 @@ textarea {
 
 #details {
   font-size:1.6rem;
-  line-height:2.2srem;
+  line-height:2.2rem;
+  font-style:italic;
 }

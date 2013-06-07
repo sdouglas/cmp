@@ -42,7 +42,7 @@ p a {
 
 /* Navigation */
 nav {
-  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  font-family: Helvetica, sans-serif;
   position: fixed;
   top: -2000px;
   left: 0;
@@ -55,6 +55,8 @@ nav {
   -webkit-overflow-scrolling: touch;
   color: #57ad68;
   text-transform: uppercase; }
+
+nav time {color:#555;font-size:1.5rem;}
 
 .navigation {
   padding-top: 6em;

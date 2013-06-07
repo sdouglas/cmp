@@ -1,9 +1,18 @@
 To do:
 
-Dark logo top right.
-Experiment with styling an image caption (using html5 caption) into the slideshow. Or using another slideshow. The aliased text is too blurry.
-create a bio content type.
+make date visible in dropdown menu.
 
+improve date and headline font in block on front page
+
+make a #ccc color UCSF logo for the header so it looks good on #f7f7f7 and charcoal
+
+Experiment with styling an image caption (using html5 caption) into the slideshow. Or using another slideshow. The aliased text is too blurry.
+
+finish styling the bio #details section
+
+Add bio content.
+
+- tell shawn i think the Research and Administration headings on the front page, if they are to remain there, should be links
 
 __NOTES before PUTTING IN PROD	
 
