@@ -50,13 +50,13 @@ nav {
   width: 100%;
   height: 100px;
   min-height: 100%;
-  background-color: #1a1a1a;
+  background-color: #f7f7f7;
   overflow: auto;
   -webkit-overflow-scrolling: touch;
-  color: #57ad68;
+  color: #333;
   text-transform: uppercase; }
 
-nav time {color:#555;font-size:1.5rem;}
+nav time {color:#444;font-size:1.5rem;}
 
 .navigation {
   padding-top: 6em;
@@ -75,7 +75,7 @@ nav hr {
   display: block;
   height: 1px;
   border: 0;
-  border-top: 5px solid #57ad68;
+  border-top: 5px solid #bbb;
   margin: 1em 0;
   padding: 0; }
 
@@ -84,14 +84,14 @@ nav hr {
   margin-bottom: 2em;
   font-weight: bold;
   font-size: 0.77273em;
-  color: #57ad68; }
+  color: #bbb; }
 
 nav ul {
   margin: 1em 0;
   padding: 0; }
 
 nav li {
-  border-top: 2px solid #57ad68;
+  border-top: 2px solid #bbb;
   -moz-transition: all 0.2s ease-out;
   -o-transition: all 0.2s ease-out;
   -webkit-transition: all 0.2s ease-out;
@@ -101,7 +101,7 @@ nav li {
   font-weight: bold; }
 
 nav li:hover {
-  background: #57ad68;
+  background: #bbb;
   -moz-transition: all 0.2s ease-out;
   -o-transition: all 0.2s ease-out;
   -webkit-transition: all 0.2s ease-out;
@@ -109,10 +109,10 @@ nav li:hover {
   transition: all 0.2s ease-out; }
 
 nav li:last-child {
-  border-bottom: 2px solid #57ad68; }
+  border-bottom: 2px solid #bbb; }
 
 nav li a {
-  color: #eee;
+  color: #333;
   width: 100;
   display: block;
   margin: -0.6em;
@@ -120,7 +120,7 @@ nav li a {
   position: relative; }
 
 nav li a:visited {
-  color: #eee; }
+  color: #333; }
 
 nav li a:hover {
   color: #1a1a1a;

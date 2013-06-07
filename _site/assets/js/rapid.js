@@ -18,7 +18,7 @@ var supported = isPlaceholderSupported();
 // Document Ready Functions
 $(document).ready(function() {
 	// Menu Animation
-	$('header').delay(500).animate({'top': '0px'}, 'slow');
+	$('header').delay(0).animate({'top': '0px'}, 'slow');
 	
 	// Show Navigation and prevent scrolling
 	$('.menu').click(function(){

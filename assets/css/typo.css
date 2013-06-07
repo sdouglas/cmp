@@ -67,7 +67,7 @@ h1 {
   line-height: 3.2rem;
   padding-bottom: 0px;
 }
-}
+nav h1 {font-size:5rem;line-height: 6rem;color:#fff;}
 h2 {
   font-size: 3.2rem;
   line-height: 3.8rem;
