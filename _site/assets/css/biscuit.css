@@ -24,7 +24,10 @@ a.ucsf {
   display:block; margin:12px 0 0 0px;height:40px; width:100px;float:left;
 }
 
-
+/* this class wraps around the content column and keeps the footer from leaping up */
+#page {min-height:500px;}
+/* needed for front page to prevent a crazy top margin at top of page */
+body.frontpage #page {min-height:0;}
 
 
 
