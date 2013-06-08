@@ -1,14 +1,19 @@
 To do:
 
-the bullets in the footer look ridiculous.
+ensure bullets are good in all lists.
 
-the blog layout is too lopsided on the right. the distance between the date and h1 is too great.
+finalise a a:link color. green is just a niceish placeholder: ask shawn.
 
-make date visible in dropdown menu.
+ensure on bio page, it checks if there is content for a field (fax: etc) before drawing anything.
 
-improve date and headline font in block on front page
+get rid of weird margin on top of h1 on bio page. check h1 top margins everywhere.
 
-make a #ccc color UCSF logo for the header so it looks good on #f7f7f7 and charcoal
+
+
+
+
+
+
 
 Experiment with styling an image caption (using html5 caption) into the slideshow. Or using another slideshow. The aliased text is too blurry.
 
@@ -41,4 +46,4 @@ The jquery will process this and translate it in the browser as:
 
 FINALLY:
 
-Remove this file!
+Move this file out of git.
