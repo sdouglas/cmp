@@ -23,29 +23,20 @@ a:active {
 */
 
 
-body.default a.logo, a.logo:visited  {color: #555;}
-body.default a.logo:hover  {color: #333;}
 
-body.default a.ucsf{opacity:.85}
-body.default a.ucsf:hover {opacity:1;}
-
-body.frontpage a.logo, a.logo:visited  {color: #ddd;}
-body.frontpage a.logo:hover  {color: #fff;}
-
-body.frontpage a.ucsf{opacity:.3}
-body.frontpage a.ucsf:hover {opacity:.6;}
 
 
 
 
 
 #header{
-  background:#f7f7f7;
+/*  background:#f7f7f7;*/
+background:#5f554b;
 }
 
 /* on these pages, header is black/charcoal */
 body.frontpage #header,
-body.contact #header {background:#1a1a1a;}
+body.contact #header {background:#5f554b;}
 
 
 
@@ -71,7 +62,7 @@ body.frontpage {background:#fbfbfb;color:#333;}
 
 
 
-.frontpage .top{background:#1a1a1a;
+.frontpage .top{background:#5f554b;
 				color:#555;
 				}
 
