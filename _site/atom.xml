@@ -4,7 +4,7 @@
  <title></title>
  <link href="http://stgabriel.github.io/mungbean//atom.xml" rel="self"/>
  <link href="http://stgabriel.github.io/mungbean"/>
- <updated>2013-06-08T20:50:58+02:00</updated>
+ <updated>2013-06-08T21:56:27+02:00</updated>
  <id>http://stgabriel.github.io/mungbean</id>
  <author>
    <name></name>
@@ -304,10 +304,162 @@
  </entry>
  
  <entry>
+   <title>Vicky Chan</title>
+   <link href="http://stgabriel.github.io/mungbean/staff/vicky-chan"/>
+   <updated>2013-05-15T00:00:00+02:00</updated>
+   <id>http://stgabriel.github.io/mungbean/staff/vicky-chan</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Valerie Ohman</title>
+   <link href="http://stgabriel.github.io/mungbean/staff/valerie-ohman"/>
+   <updated>2013-05-15T00:00:00+02:00</updated>
+   <id>http://stgabriel.github.io/mungbean/staff/valerie-ohman</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Rebecca Wheeler</title>
+   <link href="http://stgabriel.github.io/mungbean/staff/rebecca-wheeler"/>
+   <updated>2013-05-15T00:00:00+02:00</updated>
+   <id>http://stgabriel.github.io/mungbean/staff/rebecca-wheeler</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Potter Wickware</title>
+   <link href="http://stgabriel.github.io/mungbean/staff/potter-wickware"/>
+   <updated>2013-05-15T00:00:00+02:00</updated>
+   <id>http://stgabriel.github.io/mungbean/staff/potter-wickware</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Phoebe Grigg</title>
+   <link href="http://stgabriel.github.io/mungbean/staff/phoebe-grigg"/>
+   <updated>2013-05-15T00:00:00+02:00</updated>
+   <id>http://stgabriel.github.io/mungbean/staff/phoebe-grigg</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Peter Werba</title>
+   <link href="http://stgabriel.github.io/mungbean/staff/peter-werba"/>
+   <updated>2013-05-15T00:00:00+02:00</updated>
+   <id>http://stgabriel.github.io/mungbean/staff/peter-werba</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Noleine Blizzard</title>
+   <link href="http://stgabriel.github.io/mungbean/staff/noleine-blizzard"/>
+   <updated>2013-05-15T00:00:00+02:00</updated>
+   <id>http://stgabriel.github.io/mungbean/staff/noleine-blizzard</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Ned Molyneaux</title>
+   <link href="http://stgabriel.github.io/mungbean/staff/ned-molyneaux"/>
+   <updated>2013-05-15T00:00:00+02:00</updated>
+   <id>http://stgabriel.github.io/mungbean/staff/ned-molyneaux</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Mia Morgan</title>
+   <link href="http://stgabriel.github.io/mungbean/staff/mia-morgan"/>
+   <updated>2013-05-15T00:00:00+02:00</updated>
+   <id>http://stgabriel.github.io/mungbean/staff/mia-morgan</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Melissa Salonga</title>
+   <link href="http://stgabriel.github.io/mungbean/staff/melissa-salonga"/>
+   <updated>2013-05-15T00:00:00+02:00</updated>
+   <id>http://stgabriel.github.io/mungbean/staff/melissa-salonga</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
    <title>Maggie Millett</title>
    <link href="http://stgabriel.github.io/mungbean/staff/maggie-millett"/>
    <updated>2013-05-15T00:00:00+02:00</updated>
    <id>http://stgabriel.github.io/mungbean/staff/maggie-millett</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Lissette Irizarry</title>
+   <link href="http://stgabriel.github.io/mungbean/staff/lissette-irizarry"/>
+   <updated>2013-05-15T00:00:00+02:00</updated>
+   <id>http://stgabriel.github.io/mungbean/staff/lissette-irizarry</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Jenny Banaszek</title>
+   <link href="http://stgabriel.github.io/mungbean/staff/jenny-banaszek"/>
+   <updated>2013-05-15T00:00:00+02:00</updated>
+   <id>http://stgabriel.github.io/mungbean/staff/jenny-banaszek</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Irma Rangel</title>
+   <link href="http://stgabriel.github.io/mungbean/staff/irma-rangel"/>
+   <updated>2013-05-15T00:00:00+02:00</updated>
+   <id>http://stgabriel.github.io/mungbean/staff/irma-rangel</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Henry Lezcano</title>
+   <link href="http://stgabriel.github.io/mungbean/staff/henry-lezcano"/>
+   <updated>2013-05-15T00:00:00+02:00</updated>
+   <id>http://stgabriel.github.io/mungbean/staff/henry-lezcano</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Cliff Perusse</title>
+   <link href="http://stgabriel.github.io/mungbean/staff/cliff-perusse"/>
+   <updated>2013-05-15T00:00:00+02:00</updated>
+   <id>http://stgabriel.github.io/mungbean/staff/cliff-perusse</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Christopher Reiger</title>
+   <link href="http://stgabriel.github.io/mungbean/staff/christopher-reiger"/>
+   <updated>2013-05-15T00:00:00+02:00</updated>
+   <id>http://stgabriel.github.io/mungbean/staff/christopher-reiger</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Ana Alvarado-Lopez</title>
+   <link href="http://stgabriel.github.io/mungbean/staff/ana-alvarado-lopez"/>
+   <updated>2013-05-15T00:00:00+02:00</updated>
+   <id>http://stgabriel.github.io/mungbean/staff/ana-alvarado-lopez</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Alma Velasco Tucker</title>
+   <link href="http://stgabriel.github.io/mungbean/staff/alma-velasco-tucker"/>
+   <updated>2013-05-15T00:00:00+02:00</updated>
+   <id>http://stgabriel.github.io/mungbean/staff/alma-velasco-tucker</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Aileen Paterson</title>
+   <link href="http://stgabriel.github.io/mungbean/staff/aileen-paterson"/>
+   <updated>2013-05-15T00:00:00+02:00</updated>
+   <id>http://stgabriel.github.io/mungbean/staff/aileen-paterson</id>
    <content type="html"></content>
  </entry>
  

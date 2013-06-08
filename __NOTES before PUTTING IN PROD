@@ -8,7 +8,7 @@ ensure on bio page, it checks if there is content for a field (fax: etc) before 
 
 get rid of weird margin on top of h1 on bio page. check h1 top margins everywhere.
 
-
+add vertical padding to table entries. they're a bit squished.
 
 
 
