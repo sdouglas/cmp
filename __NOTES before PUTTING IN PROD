@@ -10,16 +10,25 @@ get rid of weird margin on top of h1 on bio page. check h1 top margins everywher
 
 add vertical padding to table entries. they're a bit squished.
 
+add the remaining affiliated faculty post pages.
 
+clean the content on:
+ teaching page , 
+ students,
+ postdocs,
+ fellows
+ grants
+ cmp admin pages
+ (and see if there are any else)
+
+add the rss pull feature thingy.
 
 
 
 
 Experiment with styling an image caption (using html5 caption) into the slideshow. Or using another slideshow. The aliased text is too blurry.
 
-finish styling the bio #details section
 
-Add bio content.
 
 - tell shawn i think the Research and Administration headings on the front page, if they are to remain there, should be links
 
