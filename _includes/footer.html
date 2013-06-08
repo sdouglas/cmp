@@ -38,19 +38,23 @@
         <h5>Latest Posts</h5>
         <ul>
         {% for post in site.categories.blog limit:5 %}
-          <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+          <li>
+            <a href="{{ post.url }}">{{ post.title }}</a></br>
+            <time>{{ post.date | date_to_string }}</time> 
+          </li>
         {% endfor %}
         </ul>
 
       </div>
 
       <div class="col three notablet nomobile">
-                <a href="/" class="logo">cmp</a>
+                <a class="ucsf block" href="http://www.ucsf.edu"><img class="nomobile" src="/assets/css/images/ucsf-logo.png" /></a>
                 <br>
                 <br>
                 <br>
                 <br>
-                &copy; {{ site.time | date: '%Y' }}
+                &copy; {{ site.time | date: '%Y' }} All Rights Reserved.</br>
+                designed by <a href="http://muckypaw.com">muckypaw</a>
 
       </div>
 

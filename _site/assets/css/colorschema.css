@@ -42,18 +42,13 @@ body.contact #header {background:#5f554b;}
 
 
 
-.footer-bottom {background:#f7f7f7;color:#222;}
-
-
-
+.footer-bottom {background:#AB9987;color:#5f554b;}
 .footer-bottom a:link,
-.footer-bottom a:visited {color:#444;}
-.footer-bottom a:hover {color:#000;}
+.footer-bottom a:visited {color:#f0eae5;}
+.footer-bottom ul li {color:#bdae9f}
+.footer-bottom a:hover {color:#fff;}
+.footer-bottom time {color:#e5dfd8;font-size:1rem;}
 
-
-body.default .footer-bottom a.logo,
-body.default .footer-bottom a.logo:visited  {color: #222;}
-body.default .footer-bottom a.logo:hover {color:#444;}
 
 body.frontpage {background:#fbfbfb;color:#333;}
 
