@@ -51,7 +51,7 @@ $(document).ready(function() {
 function updateContainer() {
     var $containerWidth = $(window).width();
     if ($containerWidth <= 1280) {
-        $('header a').animate({color: '#2C3E50'}, 800);
-        $('header span').animate({backgroundColor: '#2C3E50'}, 800);
+        $('header .menu a').animate({color: '#2C3E50'}, 800);
+        $('header .menu span').animate({backgroundColor: '#2C3E50'}, 800);
     }
 }

@@ -2,15 +2,10 @@ To do:
 
 ensure bullets are good in all lists.
 
-finalise a a:link color. green is just a niceish placeholder: ask shawn.
 
-ensure on bio page, it checks if there is content for a field (fax: etc) before drawing anything.
+ensure on bio page, it checks if there is content for a field (fax:, about:, etc) before drawing anything.
 
-get rid of weird margin on top of h1 on bio page. check h1 top margins everywhere.
 
-add vertical padding to table entries. they're a bit squished.
-
-add the remaining affiliated faculty post pages.
 
 clean the content on:
  teaching page , 
@@ -22,6 +17,9 @@ clean the content on:
  (and see if there are any else)
 
 add the rss pull feature thingy.
+
+favicons.
+create a page that just lists blog entries.
 
 
 

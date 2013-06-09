@@ -57,7 +57,7 @@ nav {
   color: #333;
   text-transform: uppercase; }
 
-nav time {color:#444;font-size:1.5rem;}
+nav time {color:#AB9987;font-size:1.5rem;}
 
 .navigation {
   padding-top: 6em;
@@ -76,7 +76,7 @@ nav hr {
   display: block;
   height: 1px;
   border: 0;
-  border-top: 5px solid #bbb;
+  border-top: 5px solid #AB9987;
   margin: 1em 0;
   padding: 0; }
 
@@ -85,14 +85,14 @@ nav hr {
   margin-bottom: 2em;
   font-weight: bold;
   font-size: 0.77273em;
-  color: #bbb; }
+  color: #AB9987; }
 
 nav ul {
   margin: 1em 0;
   padding: 0; }
 
 nav li {
-  border-top: 2px solid #bbb;
+  border-top: 2px solid #AB9987;
   -moz-transition: all 0.2s ease-out;
   -o-transition: all 0.2s ease-out;
   -webkit-transition: all 0.2s ease-out;
@@ -102,7 +102,7 @@ nav li {
   font-weight: bold; }
 
 nav li:hover {
-  background: #bbb;
+  background: #5f554b;
   -moz-transition: all 0.2s ease-out;
   -o-transition: all 0.2s ease-out;
   -webkit-transition: all 0.2s ease-out;
@@ -110,10 +110,10 @@ nav li:hover {
   transition: all 0.2s ease-out; }
 
 nav li:last-child {
-  border-bottom: 2px solid #bbb; }
+  border-bottom: 2px solid #AB9987; }
 
 nav li a {
-  color: #333;
+  color: #5f554b;
   width: 100;
   display: block;
   margin: -0.6em;
@@ -121,8 +121,8 @@ nav li a {
   position: relative; }
 
 nav li a:visited {
-  color: #333; }
+  color: #5f554b; }
 
 nav li a:hover {
-  color: #1a1a1a;
+  color: #fff;
   text-decoration: none; }
