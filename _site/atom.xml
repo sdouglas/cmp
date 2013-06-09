@@ -4,7 +4,7 @@
  <title></title>
  <link href="http://stgabriel.github.io/mungbean//atom.xml" rel="self"/>
  <link href="http://stgabriel.github.io/mungbean"/>
- <updated>2013-06-09T10:33:42+02:00</updated>
+ <updated>2013-06-09T11:09:18+02:00</updated>
  <id>http://stgabriel.github.io/mungbean</id>
  <author>
    <name></name>
@@ -644,7 +644,9 @@
    <link href="http://stgabriel.github.io/mungbean/blog/ron-vale-wins-lasker-award"/>
    <updated>2012-12-27T11:39:23+01:00</updated>
    <id>http://stgabriel.github.io/mungbean/blog/ron-vale-wins-lasker-award</id>
-   <content type="html">&lt;p&gt;Congratulations to our own Ron Vale for winning the 2012 Albert Lasker Basic Medical Research Award! Ron receives this award with collaborators Michael Sheetz of Columbia University and James Spudich of Stanford University. The award was given for discoveries concerning cytoskeletal motor proteins, machines that move cargoes within cells, contract muscles, and enable cell movements.&lt;/p&gt;
+   <content type="html">&lt;h3 id='congratulations_to_our_own_ron_vale_for_winning_the_2012_albert_lasker_basic_medical_research_award'&gt;Congratulations to our own Ron Vale for winning the 2012 Albert Lasker Basic Medical Research Award!&amp;lt;&lt;/h3&gt;
+
+&lt;p&gt;Ron receives this award with collaborators Michael Sheetz of Columbia University and James Spudich of Stanford University. The award was given for discoveries concerning cytoskeletal motor proteins, machines that move cargoes within cells, contract muscles, and enable cell movements.&lt;/p&gt;
 &lt;a href='http://www.laskerfoundation.org/awards/2012basic.htm'&gt;read more&lt;/a&gt;</content>
  </entry>
  

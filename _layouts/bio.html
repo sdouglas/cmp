@@ -8,23 +8,28 @@ layout: default
 <div class="col five tablet-five mobile-full" id="details">
 
 	<h2>{{ page.title }}</h2>
+	{% if page.position %}<h4> {{ page.position }}</h4>{% endif %}
+	
+	<br><br><br>
 
 
-	Email address: <span class="e">{{ page.email_prefix }} / {{ page.email_suffix }} </span>
+ 	<p>
+	{% if page.website %}Website: <a href="{{page.website}}">{{page.website}}</a></br>{% endif %}
 
-	<p>Position: {{ page.position }}</p>
-	<p>Website:<a href="{{page.website}}">{{page.website}}</a></p>
-	<p>Address: {{page.address}}</p>
-	<p>Phone: {{page.phone}}</p>
-	<p>Fax: {{page.fax}}</p>
-	<p>Info: {{page.info}}</p>
+	{% if page.email_suffix %}Email: <span class="e"> {{ page.email_prefix }} / {{ page.email_suffix }} </span>{% endif %}
+	</p>
+
+
+	{% if page.address %}<p>{{page.address}}</p>{% endif %}
+	{% if page.phone %}<p>Phone: {{page.phone}}</p>{% endif %}
+	{% if page.fax %}<p>Fax: {{page.fax}}</p>{% endif %}
+	{% if page.info %}<p>{{page.info}}</p>{% endif %}
 
 
 </div>
 
 <div class="col seven tablet-seven mobile-full">
 
-	<b>About</b>
 	{{ content }}
 
 </div>

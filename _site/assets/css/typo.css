@@ -68,12 +68,13 @@ h1 {
   font-size: 3.2rem;
   line-height: 3.2rem;
   padding-bottom: 0px;
-  5f554b
 }
 nav h1 {font-size:5rem;line-height: 6rem;}
 h2 {
   font-size: 3.2rem;
   line-height: 3.8rem;
+  padding-bottom:0;
+  -webkit-margin-after:0;
 }
 /* front page stuff */
 .middle h2 {}
@@ -97,6 +98,9 @@ h3 {
 h4 {
   font-size: 1.9rem;
   margin-bottom: 4px;
+  -webkit-margin-before: 5px;
+  font-weight:500;
+  color:#AB9987;
 }
 h5 {
   color: #5f554b;
