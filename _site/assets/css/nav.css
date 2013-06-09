@@ -57,7 +57,7 @@ nav {
   color: #333;
   text-transform: uppercase; }
 
-nav time {color:#AB9987;font-size:1.5rem;}
+nav time {color:#ccc;font-size:1.5rem;}
 
 .navigation {
   padding-top: 6em;
@@ -102,12 +102,14 @@ nav li {
   font-weight: bold; }
 
 nav li:hover {
-  background: #5f554b;
+  background: #AB9987;
   -moz-transition: all 0.2s ease-out;
   -o-transition: all 0.2s ease-out;
   -webkit-transition: all 0.2s ease-out;
   -ms-transition: all 0.2s ease-out;
-  transition: all 0.2s ease-out; }
+  transition: all 0.2s ease-out; 
+  color:#fff;
+}
 
 nav li:last-child {
   border-bottom: 2px solid #AB9987; }
