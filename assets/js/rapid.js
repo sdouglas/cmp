@@ -18,7 +18,7 @@ var supported = isPlaceholderSupported();
 // Document Ready Functions
 $(document).ready(function() {
 	// Menu Animation
-	$('header').delay(0).animate({'top': '0px'}, 'slow');
+	$('#header').delay(0).animate({'top': '0px'}, 'slow');
 	
 	// Show Navigation and prevent scrolling
 	$('.menu').click(function(){
@@ -34,8 +34,8 @@ $(document).ready(function() {
 		} else {
 			$("nav").animate({top: "-2000px"}, 800);
 			$('html').css('overflowY', 'auto');
-			$('header a').animate({color: '#2C3E50'}, 800);
-			$('header span').animate({backgroundColor: '#2C3E50'}, 800);
+			$('#header a').animate({color: '#2C3E50'}, 800);
+			$('#header span').animate({backgroundColor: '#2C3E50'}, 800);
 		}
 		return false;
 	});
@@ -51,7 +51,7 @@ $(document).ready(function() {
 function updateContainer() {
     var $containerWidth = $(window).width();
     if ($containerWidth <= 1280) {
-        $('header .menu a').animate({color: '#2C3E50'}, 800);
-        $('header .menu span').animate({backgroundColor: '#2C3E50'}, 800);
+        $('#header .menu a').animate({color: '#2C3E50'}, 800);
+        $('#header .menu span').animate({backgroundColor: '#2C3E50'}, 800);
     }
 }
