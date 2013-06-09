@@ -4,7 +4,7 @@
  <title></title>
  <link href="http://stgabriel.github.io/mungbean//atom.xml" rel="self"/>
  <link href="http://stgabriel.github.io/mungbean"/>
- <updated>2013-06-08T22:09:55+02:00</updated>
+ <updated>2013-06-09T09:15:11+02:00</updated>
  <id>http://stgabriel.github.io/mungbean</id>
  <author>
    <name></name>
@@ -270,6 +270,86 @@
  </entry>
  
  <entry>
+   <title>Sophie Dumont</title>
+   <link href="http://stgabriel.github.io/mungbean/affiliated-faculty/sophie-dumont"/>
+   <updated>2013-05-18T00:00:00+02:00</updated>
+   <id>http://stgabriel.github.io/mungbean/affiliated-faculty/sophie-dumont</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Shaun Coughlin</title>
+   <link href="http://stgabriel.github.io/mungbean/affiliated-faculty/shaun-coughlin"/>
+   <updated>2013-05-18T00:00:00+02:00</updated>
+   <id>http://stgabriel.github.io/mungbean/affiliated-faculty/shaun-coughlin</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Ronald Miller</title>
+   <link href="http://stgabriel.github.io/mungbean/affiliated-faculty/ronald-miller"/>
+   <updated>2013-05-18T00:00:00+02:00</updated>
+   <id>http://stgabriel.github.io/mungbean/affiliated-faculty/ronald-miller</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Paul Ortiz de Montellano</title>
+   <link href="http://stgabriel.github.io/mungbean/affiliated-faculty/paul-ortiz-de-montellano"/>
+   <updated>2013-05-18T00:00:00+02:00</updated>
+   <id>http://stgabriel.github.io/mungbean/affiliated-faculty/paul-ortiz-de-montellano</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Pamela England</title>
+   <link href="http://stgabriel.github.io/mungbean/affiliated-faculty/pamela-england"/>
+   <updated>2013-05-18T00:00:00+02:00</updated>
+   <id>http://stgabriel.github.io/mungbean/affiliated-faculty/pamela-england</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Natalia Jura</title>
+   <link href="http://stgabriel.github.io/mungbean/affiliated-faculty/natalia-jura"/>
+   <updated>2013-05-18T00:00:00+02:00</updated>
+   <id>http://stgabriel.github.io/mungbean/affiliated-faculty/natalia-jura</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Michael Fried</title>
+   <link href="http://stgabriel.github.io/mungbean/affiliated-faculty/michel-fried"/>
+   <updated>2013-05-18T00:00:00+02:00</updated>
+   <id>http://stgabriel.github.io/mungbean/affiliated-faculty/michel-fried</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Michael Marletta</title>
+   <link href="http://stgabriel.github.io/mungbean/affiliated-faculty/michael-marletta"/>
+   <updated>2013-05-18T00:00:00+02:00</updated>
+   <id>http://stgabriel.github.io/mungbean/affiliated-faculty/michael-marletta</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Martin McMahon</title>
+   <link href="http://stgabriel.github.io/mungbean/affiliated-faculty/martin-mcmahon"/>
+   <updated>2013-05-18T00:00:00+02:00</updated>
+   <id>http://stgabriel.github.io/mungbean/affiliated-faculty/martin-mcmahon</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Mark von Zastrow</title>
+   <link href="http://stgabriel.github.io/mungbean/affiliated-faculty/mark-von-zastrow"/>
+   <updated>2013-05-18T00:00:00+02:00</updated>
+   <id>http://stgabriel.github.io/mungbean/affiliated-faculty/mark-von-zastrow</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
    <title>Kevan Shokat</title>
    <link href="http://stgabriel.github.io/mungbean/faculty/kevan-shokat"/>
    <updated>2013-05-18T00:00:00+02:00</updated>
@@ -280,11 +360,99 @@
  </entry>
  
  <entry>
+   <title>Kathleen Giacomini</title>
+   <link href="http://stgabriel.github.io/mungbean/affiliated-faculty/kathleen-giacomini"/>
+   <updated>2013-05-18T00:00:00+02:00</updated>
+   <id>http://stgabriel.github.io/mungbean/affiliated-faculty/kathleen-giacomini</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>John Kuriyan</title>
+   <link href="http://stgabriel.github.io/mungbean/affiliated-faculty/john-kuriyan"/>
+   <updated>2013-05-18T00:00:00+02:00</updated>
+   <id>http://stgabriel.github.io/mungbean/affiliated-faculty/john-kuriyan</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>JJ Miranda</title>
+   <link href="http://stgabriel.github.io/mungbean/affiliated-faculty/jj-miranda"/>
+   <updated>2013-05-18T00:00:00+02:00</updated>
+   <id>http://stgabriel.github.io/mungbean/affiliated-faculty/jj-miranda</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Jim McKerrow</title>
+   <link href="http://stgabriel.github.io/mungbean/affiliated-faculty/jim-mckerrow"/>
+   <updated>2013-05-18T00:00:00+02:00</updated>
+   <id>http://stgabriel.github.io/mungbean/affiliated-faculty/jim-mckerrow</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
    <title>Henry Bourne</title>
    <link href="http://stgabriel.github.io/mungbean/faculty/henry-bourne"/>
    <updated>2013-05-18T00:00:00+02:00</updated>
    <id>http://stgabriel.github.io/mungbean/faculty/henry-bourne</id>
    <content type="html">&lt;p&gt;Dr. Bourne received his MD degree from Johns Hopkins and took his postdoctoral training at the National Institutes of Health and UCSF. He came to UCSF in 1969, became a faculty member in the Department of Medicine in 1971, and served as chair of the Department of Pharmacology from 1984 to 1992. Dr. Bourne’s research for many years focused on trimeric G proteins and G protein coupled receptors. During the past five years he has turned his laboratory’s efforts toward dissecting the cellular signals responsible for polarity and direction-finding (chemotaxis) of human leukocytes. Using HL-60 leukemia cells, which can be induced to differentiate into mature neutrophils, Dr. Bourne’s laboratory has shown that attractants trigger polarity by activating opposed “frontness” and “backness” signaling pathways, mediated by different trimeric G proteins and Rho GTPases. These pathways trigger different actin assemblies, which then ‘self-organize’ to create cellular polarity. This polarity is apparently distinct from the neutrophil ‘compass’, which senses and interprets attractant gradients to orient the direction of polarity. At present the laboratory is focusing on the compass mechanism, using drugs, toxins, and RNAi to alter functions of candidate compass components and assessing their effects in attractant gradients created by micropipettes or in microfluidic devices, which create instantaneous, stable gradients of any desired slope or concentration.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Gerard Evan</title>
+   <link href="http://stgabriel.github.io/mungbean/affiliated-faculty/gerard-evan"/>
+   <updated>2013-05-18T00:00:00+02:00</updated>
+   <id>http://stgabriel.github.io/mungbean/affiliated-faculty/gerard-evan</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Frank McCormick</title>
+   <link href="http://stgabriel.github.io/mungbean/affiliated-faculty/frank-mccormick"/>
+   <updated>2013-05-18T00:00:00+02:00</updated>
+   <id>http://stgabriel.github.io/mungbean/affiliated-faculty/frank-mccormick</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>David Pearce</title>
+   <link href="http://stgabriel.github.io/mungbean/affiliated-faculty/david-pearce"/>
+   <updated>2013-05-18T00:00:00+02:00</updated>
+   <id>http://stgabriel.github.io/mungbean/affiliated-faculty/david-pearce</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>David Julius</title>
+   <link href="http://stgabriel.github.io/mungbean/affiliated-faculty/david-julius"/>
+   <updated>2013-05-18T00:00:00+02:00</updated>
+   <id>http://stgabriel.github.io/mungbean/affiliated-faculty/david-julius</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Dan Minor</title>
+   <link href="http://stgabriel.github.io/mungbean/affiliated-faculty/dan-minor"/>
+   <updated>2013-05-18T00:00:00+02:00</updated>
+   <id>http://stgabriel.github.io/mungbean/affiliated-faculty/dan-minor</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Charles Craik</title>
+   <link href="http://stgabriel.github.io/mungbean/affiliated-faculty/charles-craik"/>
+   <updated>2013-05-18T00:00:00+02:00</updated>
+   <id>http://stgabriel.github.io/mungbean/affiliated-faculty/charles-craik</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Carolyn Bertozzi</title>
+   <link href="http://stgabriel.github.io/mungbean/affiliated-faculty/carolyn-bertozzi"/>
+   <updated>2013-05-18T00:00:00+02:00</updated>
+   <id>http://stgabriel.github.io/mungbean/affiliated-faculty/carolyn-bertozzi</id>
+   <content type="html"></content>
  </entry>
  
  <entry>
@@ -301,6 +469,14 @@
    <updated>2013-05-18T00:00:00+02:00</updated>
    <id>http://stgabriel.github.io/mungbean/faculty/almira-correia</id>
    <content type="html">&lt;p&gt;Our overall research interests continue to center on the structure, function and regulation of two physiologically important classes of hepatic hemoproteins: Cytochromes P450 (P450s, CYPs) and tryptophan 2,3 dioxygenase (TDO). Our specific goals are to: (I) explore and mechanistically characterize the endoplasmic reticulum-associated degradation (ERAD) of proteins by exploiting P450s as cellular models; (II) explore the role of proteasomal processing of P450s in drug-induced immunotoxicity; (III) elucidate the role of heme, if any, on the regulation of P450 synthesis; and (IV) to examine the structure-function relationships and heme-mediated regulation of hepatic hemoprotein tryptophan 2,3 dioxygenase (TDO). A combination of approaches (enzymological, chemical, structural, cell biological, and molecular biological) are being employed in pursuit of these questions.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Alan Frankel</title>
+   <link href="http://stgabriel.github.io/mungbean/affiliated-faculty/alan-frankel"/>
+   <updated>2013-05-18T00:00:00+02:00</updated>
+   <id>http://stgabriel.github.io/mungbean/affiliated-faculty/alan-frankel</id>
+   <content type="html"></content>
  </entry>
  
  <entry>
