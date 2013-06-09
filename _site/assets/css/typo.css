@@ -397,3 +397,6 @@ textarea {
   line-height:2.2rem;
   font-style:italic;
 }
+
+#pages-menu {font-size:1.4rem;}
+#pages-menu ul {margin-bottom:20px;}

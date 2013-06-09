@@ -14,10 +14,10 @@ http://stgabriel.github.io/mungbean/pages/cmp-administration/staff.html
 http://stgabriel.github.io/mungbean/pages/contact/index.html
 http://stgabriel.github.io/mungbean/pages/faculty/affiliated.html
 http://stgabriel.github.io/mungbean/pages/faculty/index.html
-http://stgabriel.github.io/mungbean/pages/index.html
 http://stgabriel.github.io/mungbean/pages/postdocs/index.html
 http://stgabriel.github.io/mungbean/pages/students/index.html
 http://stgabriel.github.io/mungbean/pages/teaching/index.html
+http://stgabriel.github.io/mungbean/pages/what-is-this-index.html
 http://stgabriel.github.io/mungbean/rss.xml
 http://stgabriel.github.io/mungbean/sitemap.txt
 
