@@ -3,7 +3,9 @@ To do:
 ensure bullets are good in all lists.
 
 
-ensure on bio page, it checks if there is content for a field (fax:, about:, etc) before drawing anything.
+check that sitemap is behaving
+check that rss is behaving
+add the rss pull feature thingy.
 
 
 
@@ -16,7 +18,6 @@ clean the content on:
  cmp admin pages
  (and see if there are any else)
 
-add the rss pull feature thingy.
 
 favicons.
 create a page that just lists blog entries.
