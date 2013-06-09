@@ -46,8 +46,9 @@ body {
 
 
 .footer-bottom {
-  font-size:1.4rem;
-  line-height:1.9rem;
+  font-family: Helvetica,sans-serif;
+  font-size:1.3rem;
+  line-height:1.8rem;
 }
 .footer-bottom ul {padding-left:20px;}
 
