@@ -190,10 +190,11 @@ table {
   word-wrap: break-word;
   -ms-word-wrap: break-word;
   *white-space: normal;
+  font-size:1.5rem;
 }
 table th,
 table td {
-  padding: 8px;
+  padding: 11px 0;
   line-height: 18px;
   text-align: left;
   vertical-align: top;
