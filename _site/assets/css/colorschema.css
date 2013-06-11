@@ -34,9 +34,6 @@ a:active {
 background:#5f554b;
 }
 
-/* on these pages, header is black/charcoal */
-body.frontpage #header,
-body.contact #header {background:#5f554b;}
 
 
 
@@ -50,7 +47,7 @@ body.contact #header {background:#5f554b;}
 .footer-bottom time {color:#e5dfd8;font-size:1rem;}
 
 
-body.frontpage {background:#fbfbfb;color:#333;}
+body.frontpage {/*background:#fbfbfb;*/color:#333;}
 
 
 

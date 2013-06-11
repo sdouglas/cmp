@@ -411,14 +411,12 @@ textarea {
 }
 
 #pages-menu ul li {
-border-bottom:1px solid #eee;
 }
 #pages-menu ul ul {padding-left:10px;}
 #pages-menu ul ul li {margin-left:10px;list-style-type: square;color:#ddd;}
 
 
 #pages-menu ul li:last-child {
-  border: none;
 }
 #pages-menu ul li a {
   color:#777;display: block;
