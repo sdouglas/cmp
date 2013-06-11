@@ -1,6 +1,6 @@
 To do:
 
-ensure bullets are good in all lists.
+make a nice light grey square bullet for unordered lists.
 
 
 check that sitemap is behaving
@@ -23,9 +23,6 @@ favicons.
 create a page that just lists blog entries.
 
 
-
-
-Experiment with styling an image caption (using html5 caption) into the slideshow. Or using another slideshow. The aliased text is too blurry.
 
 
 
