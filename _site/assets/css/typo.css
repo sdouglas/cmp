@@ -400,5 +400,41 @@ textarea {
   font-style:italic;
 }
 
-#pages-menu {font-size:1.4rem;}
-#pages-menu ul {margin-bottom:20px;}
+#pages-menu {font-size:1.4rem;margin-top:30px;}
+#pages-menu ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  margin-bottom:20px;
+}
+
+#pages-menu ul li {
+border-bottom:1px solid #eee;
+}
+#pages-menu ul ul {padding-left:10px;}
+#pages-menu ul ul li {margin-left:10px;list-style-type: square;color:#ddd;}
+
+
+#pages-menu ul li:last-child {
+  border: none;
+}
+#pages-menu ul li a {
+  color:#777;display: block;
+  width: 100%;
+ 
+  -webkit-transition: font-size 0.3s ease, background-color 0.3s ease;
+  -moz-transition: font-size 0.3s ease, background-color 0.3s ease;
+  -o-transition: font-size 0.3s ease, background-color 0.3s ease;
+  -ms-transition: font-size 0.3s ease, background-color 0.3s ease;
+  transition: font-size 0.3s ease, background-color 0.3s ease;
+}
+#pages-menu ul li a:hover {
+  color:#444;
+
+  background: #f6f6f6;
+
+
+  font-size: 1.7rem;
+  background: #f6f6f6;
+
+}
