@@ -4,7 +4,7 @@
  <title></title>
  <link href="http://stgabriel.github.io/mungbean//atom.xml" rel="self"/>
  <link href="http://stgabriel.github.io/mungbean"/>
- <updated>2013-06-11T14:28:39+02:00</updated>
+ <updated>2013-10-29T16:44:48-04:00</updated>
  <id>http://stgabriel.github.io/mungbean</id>
  <author>
    <name></name>
@@ -15,7 +15,7 @@
  <entry>
    <title>Wendell Lim</title>
    <link href="http://stgabriel.github.io/mungbean/faculty/wendell-lim"/>
-   <updated>2013-06-07T00:00:00+02:00</updated>
+   <updated>2013-06-07T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/faculty/wendell-lim</id>
    <content type="html">&lt;p&gt;The Molecular Logic of Cellular Signaling Systems Signal transduction Protein-protein recognition Protein switches and networks Signaling protein and network evolution Systems biology Biological computation Synthetic biology Livings cells process vast amounts of environmental information to generate sophisticated responses such as movement, growth, and differentiation. Such decisions are made by complex networks of signal transduction proteins. One of the most challenging problems in modern biology is understanding how these networks of proteins act to carry out these remarkable behaviors. A striking commonality among eukaryotic signaling molecules is that they are composed of modular domains. Some domains carry our catalytic functions, but most mediate specific protein-protein interactions. This modular organization of signaling proteins suggests that a common toolkit of components has been used in a combinatorial fashion to evolve the complex signaling proteins and pathways we see today. We are therefore interested in understanding the logic by which simple protein components can be used to build complex information processing systems. We would like to answer this question at several hierarchical levels: 1. How do isolated protein interaction modules function? 2. How have modular domains been combined through evolution to build signaling switches and devices, capable of complex behavior such as high specificity communication, signal integration, and feedback control? 3. How are individual signaling proteins linked into networks that display complex and highly specific systems input/output behaviors? 4. Can we engineer synthetic signaling pathways that rewire and systematically alter cellular behavior? We are probing these questions by studying kinase and GTPase pathways involved in controlling cell movement and stress responses in yeast and mammalian cells. To achieve these goals we take a highly interdisciplinary approach that incorporates diverse techniques including: Mechanistic biochemistry Biophysical methods X-ray crystallography, NMR Molecular biology Cell biology Yeast genetics Protein, pathway engineering&lt;/p&gt;</content>
  </entry>
@@ -23,7 +23,7 @@
  <entry>
    <title>Shawn Douglas</title>
    <link href="http://stgabriel.github.io/mungbean/faculty/shawn-douglas"/>
-   <updated>2013-06-07T00:00:00+02:00</updated>
+   <updated>2013-06-07T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/faculty/shawn-douglas</id>
    <content type="html"></content>
  </entry>
@@ -31,7 +31,7 @@
  <entry>
    <title>Ron Vale</title>
    <link href="http://stgabriel.github.io/mungbean/faculty/ron-vale"/>
-   <updated>2013-06-07T00:00:00+02:00</updated>
+   <updated>2013-06-07T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/faculty/ron-vale</id>
    <content type="html">&lt;p&gt;Dr. Vale received a B.A. degree in biology and chemistry from the University of California, Santa Barbara, and a Ph.D. degree in neuroscience from Stanford University. His postdoctoral studies at the NIH Marine Biological Laboratory were on microtubule-based motors. Dr. Vale has been at UCSF since 1986 and currently is a Professor and the Chair of the CMP department. Dr. Vale also holds appointments as Investigator in the Howard Hughes Medical Institute and the W. K. Hamilton Distinguished Professor in the Dept. of Anesthesia (UCSF).&lt;/p&gt;
 
@@ -41,7 +41,7 @@
  <entry>
    <title>Roger Nicoll</title>
    <link href="http://stgabriel.github.io/mungbean/faculty/roger-nicoll"/>
-   <updated>2013-06-07T00:00:00+02:00</updated>
+   <updated>2013-06-07T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/faculty/roger-nicoll</id>
    <content type="html">&lt;p&gt;It is generally accepted that enduring changes in synaptic strength play a critical role in learning and memory. Long term potential (LTP), a phenomenon in which brief repetitive activation of excitatory synapses results in a long lasting enhancement in synaptic transmission, is the leading cellular model for learning and memory. After more than a decade of debate, there is now a consensus that the change in synaptic strength during LTP resides in the postsynaptic density (PSD). More specifically accumulating evidence indicates that LTP recruits AMPA receptors to the synapse. This research into synaptic plasticity has challenged the classical view of the synapse, in which receptors are firmly embedded in a rigid thicket of proteins in the PSD. Rather, the remarkably dynamic property of AMPA receptors rivals that usually associated with the presynaptic side of the synapse. In striking contrast, NMDA receptors, which intermingle with AMPA receptors, are relatively fixed components of the PSD.&lt;/p&gt;
 
@@ -51,7 +51,7 @@
  <entry>
    <title>Nevan Krogan</title>
    <link href="http://stgabriel.github.io/mungbean/faculty/nevan-krogan"/>
-   <updated>2013-06-07T00:00:00+02:00</updated>
+   <updated>2013-06-07T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/faculty/nevan-krogan</id>
    <content type="html">&lt;p&gt;&amp;#8220;My research group is involved in the generation and analysis of large-scale, quantitative genetic and protein-protein interaction maps in a variety of different organisms, including S. cerevisiae, S. pombe and E. coli. We primarily employ a systematic affinity tagging/purification/mass spectrometry approach to identify protein complexes and our E-MAP (epistatic miniarray profile) methodology is utilized to generate quantitative genetic interaction maps. We integrate this information together using a variety of analytical tools that we have developed and are also involved in creating appropriate software that allows for visualization of these large datasets.&lt;/p&gt;
 
@@ -63,7 +63,7 @@
  <entry>
    <title>Marieke Kruidering-Hall</title>
    <link href="http://stgabriel.github.io/mungbean/faculty/marieke-kruidering-hall"/>
-   <updated>2013-06-07T00:00:00+02:00</updated>
+   <updated>2013-06-07T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/faculty/marieke-kruidering-hall</id>
    <content type="html">&lt;p&gt;My position at UCSF is dedicated full time to teaching and facilitation of teaching Pharmacology to students in the Schools of Medicine, Pharmacy and Dentistry. I give lectures and am course director of courses in all three schools. The School of Medicine implements a significant amount of small group learning, which inspired a program that CMP runs together with the Department of Biochemistry, the Postdoctoral Teaching Fellowship.&lt;/p&gt;
 
@@ -73,7 +73,7 @@
  <entry>
    <title>Linda Brinen</title>
    <link href="http://stgabriel.github.io/mungbean/faculty/linda-Brinen"/>
-   <updated>2013-06-07T00:00:00+02:00</updated>
+   <updated>2013-06-07T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/faculty/linda-Brinen</id>
    <content type="html">&lt;p&gt;Dr. Brinen received a B.A. degree in chemistry from Wesleyan University, Middletown, Connecticut, and a Ph.D. degree in chemistry from Cornell University. Her postdoctoral studies at UCSF were on structural studies of lung surfactant proteins and serine proteases.&lt;/p&gt;
 
@@ -91,7 +91,7 @@
  <entry>
    <title>Keith Yamamoto</title>
    <link href="http://stgabriel.github.io/mungbean/faculty/keith-yamamoto"/>
-   <updated>2013-06-07T00:00:00+02:00</updated>
+   <updated>2013-06-07T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/faculty/keith-yamamoto</id>
    <content type="html">&lt;p&gt;Signaling and Transcriptional Regulation by Intracellular Receptors We study the activity of the intracellular receptors (IRs), including receptors for glucocorticoids (GR), androgens (AR) and thyroid hormone (TR), in signal transduction and transcriptional control. These hormone-receptor complexes bind to specific DNA sequences termed hormone response elements, which enhance or repress linked promoters.&lt;/p&gt;
 
@@ -105,7 +105,7 @@
  <entry>
    <title>Jonathan Weissman</title>
    <link href="http://stgabriel.github.io/mungbean/faculty/jonathan-weissman"/>
-   <updated>2013-06-07T00:00:00+02:00</updated>
+   <updated>2013-06-07T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/faculty/jonathan-weissman</id>
    <content type="html">&lt;p&gt;Proteomics, Protein Folding, and Prion-Based Inheritance in Disease and Normal Biology Summary: Jonathan Weissman is looking at how cells ensure that proteins fold into their correct shape, as well as the role of protein misfolding in disease and normal physiology. He is also developing methods for assaying the entire complement of proteins derived from an organism.&lt;/p&gt;
 
@@ -129,7 +129,7 @@
  <entry>
    <title>Jeffry Lansman</title>
    <link href="http://stgabriel.github.io/mungbean/faculty/jeffry-lansman"/>
-   <updated>2013-06-07T00:00:00+02:00</updated>
+   <updated>2013-06-07T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/faculty/jeffry-lansman</id>
    <content type="html"></content>
  </entry>
@@ -137,7 +137,7 @@
  <entry>
    <title>James Wells</title>
    <link href="http://stgabriel.github.io/mungbean/faculty/james-wells"/>
-   <updated>2013-06-07T00:00:00+02:00</updated>
+   <updated>2013-06-07T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/faculty/james-wells</id>
    <content type="html">&lt;p&gt;Dr. Wells received a B.A. degree in biochemistry from the University of California, Berkeley, and a Ph.D. degree in biochemistry from Washington State University. His postdoctoral studies were done at Stanford University Medical School, Department of Biochemistry. Dr. Wells was the founding member of the Protein Engineering Department at Genentech, Inc where he worked for 16 years. His research focused on designing new functional properties into enzymes and hormones and developing new technologies for engineering proteins. In 1998, Dr. Wells founded Sunesis Pharmaceuticals where he served as President and Chief Scientific Officer and developed a novel fragment discovery technology known as disulfide trapping or Tethering. In 2005, Dr. Wells joined UCSF as the Harry W. and Diana Hind Distinguished Professor in Pharmaceutical Sciences. He is a joint Professor in the Departments of Cellular &amp;amp; Molecular Pharmacology, and Pharmaceutical Chemistry.&lt;/p&gt;
 
@@ -147,7 +147,7 @@
  <entry>
    <title>Jack Taunton</title>
    <link href="http://stgabriel.github.io/mungbean/faculty/jack-taunton"/>
-   <updated>2013-06-07T00:00:00+02:00</updated>
+   <updated>2013-06-07T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/faculty/jack-taunton</id>
    <content type="html">&lt;p&gt;Research in my laboratory follows two intersecting trajectories: (1) a cell biology trajectory, in which we pursue a biochemical dissection of the signals that control actin assembly and force generation on the surface of cellular membranes; and (2) a chemistry trajectory, in which we synthesize small molecule tools to perturb and thereby illuminate cellular functions.&lt;/p&gt;
 
@@ -157,7 +157,7 @@
  <entry>
    <title>Holly Ingraham</title>
    <link href="http://stgabriel.github.io/mungbean/faculty/holly-ingraham"/>
-   <updated>2013-06-07T00:00:00+02:00</updated>
+   <updated>2013-06-07T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/faculty/holly-ingraham</id>
    <content type="html">&lt;p&gt;Our lab focuses on the development of endocrine and brain tissues important in energy balance and reproduction. We are defining regulatory mechanisms underlying these early developmental events using biochemistry and vertebrate animal model systems. We are now investigating how environmental factors impact the fetal endocrine and neuroendocrine systems. Click on our Research Page for more information&lt;/p&gt;</content>
  </entry>
@@ -165,7 +165,7 @@
  <entry>
    <title>Dyche Mullins</title>
    <link href="http://stgabriel.github.io/mungbean/faculty/dyche-mullins"/>
-   <updated>2013-06-07T00:00:00+02:00</updated>
+   <updated>2013-06-07T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/faculty/dyche-mullins</id>
    <content type="html">&lt;p&gt;My lab studies the regulation and dynamics of the eukaryotic cytoskeleton, particularly how motile cells establish polarity and use actin polymerization to propel themselves forward. This process, called amoeboid motility, is responsible for correct development of multicellular organisms; for wound healing; for proper function of the immune system; and for remodeling and regeneration in the nervous system. Loss of regulation of this process can contribute to invasion and metastasis of cancerous cells so understanding the mechanics and regulation of amoeboid motility is fundamental to understanding many basic biological processes.&lt;/p&gt;
 
@@ -177,7 +177,7 @@
  <entry>
    <title>Danica Galonic Fujimori</title>
    <link href="http://stgabriel.github.io/mungbean/faculty/danica-galonic-fujimori"/>
-   <updated>2013-06-07T00:00:00+02:00</updated>
+   <updated>2013-06-07T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/faculty/danica-galonic-fujimori</id>
    <content type="html">&lt;p&gt;Dr. Fujimori received a B.Sc. degree in chemistry from the University of Belgrade, Serbia, and a Ph.D. degree in chemistry from the University of Illinois-Urbana-Champaign. Prior to joining UCSF as Assistant Professor in 2008, she conducted her postdoctoral research in the lab of Christopher Walsh at Harvard Medical School. Among other awards, Dr. Fujimori is the recipient of an NIH Pathway to Independence Award and the Damon Runyon Cancer Research Foundation Postdoctoral Fellowship.&lt;/p&gt;
 
@@ -187,7 +187,7 @@
  <entry>
    <title>Bertram Katzung</title>
    <link href="http://stgabriel.github.io/mungbean/faculty/bertram-katzung"/>
-   <updated>2013-06-07T00:00:00+02:00</updated>
+   <updated>2013-06-07T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/faculty/bertram-katzung</id>
    <content type="html">&lt;p&gt;Cardiac electropharmacology and physiology. Dr. Katzung received his M.D. degree from State University of New York, Syracuse in 1957 and the Ph.D. in Pharmacology from University of California, San Francisco in 1962. After internship at Moffitt Hospital, he joined the Department of Pharmacology and Experimental Therapeutics (now CMP) at UCSF in 1958 and the faculty in 1962. He was Acting Chair of the Department from 1978 to 1981. His research focused on cardiac function, especially cardiac cellular electrical activity, as affected by drugs, including digitalis and antiarrhythmic agents.&lt;/p&gt;
 
@@ -197,7 +197,7 @@
  <entry>
    <title>Anthony Trevor</title>
    <link href="http://stgabriel.github.io/mungbean/faculty/anthony-trevor"/>
-   <updated>2013-06-07T00:00:00+02:00</updated>
+   <updated>2013-06-07T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/faculty/anthony-trevor</id>
    <content type="html"></content>
  </entry>
@@ -205,13 +205,13 @@
  <entry>
    <title>New CMP Site</title>
    <link href="http://stgabriel.github.io/mungbean/blog/New-CMP-Site"/>
-   <updated>2013-05-27T12:39:23+02:00</updated>
+   <updated>2013-05-27T06:39:23-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/blog/New-CMP-Site</id>
-   <content type="html">&lt;h1 id='mr_f'&gt;Mr. F&lt;/h1&gt;
+   <content type="html">&lt;h1 id=&#39;mr_f&#39;&gt;Mr. F&lt;/h1&gt;
 
 &lt;p&gt;What&amp;#8217;s Spanish for &amp;#8220;I know you speak English?&amp;#8221; I don&amp;#8217;t understand the question, and I won&amp;#8217;t respond to it. But I bought a yearbook ad from you, doesn&amp;#8217;t that mean anything anymore? No! I was ashamed to be SEEN with you. I like being with you.&lt;/p&gt;
 
-&lt;h2 id='exit_strategy'&gt;Exit Strategy&lt;/h2&gt;
+&lt;h2 id=&#39;exit_strategy&#39;&gt;Exit Strategy&lt;/h2&gt;
 
 &lt;p&gt;Not tricks, Michael, illusions. Bad news. Andy Griffith turned us down. He didn&amp;#8217;t like his trailer. Get me a vodka rocks. And a piece of toast. First place chick is hot, but has an attitude, doesn&amp;#8217;t date magicians.&lt;/p&gt;
 
@@ -221,11 +221,11 @@
 &lt;li&gt;Well, what do you expect, mother?&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id='let_em_eat_cake'&gt;Let &amp;#8216;Em Eat Cake&lt;/h3&gt;
+&lt;h3 id=&#39;let_em_eat_cake&#39;&gt;Let &amp;#8216;Em Eat Cake&lt;/h3&gt;
 
 &lt;p&gt;Oh, you&amp;#8217;re gonna be in a coma, all right. There&amp;#8217;s only one man I&amp;#8217;ve ever called a coward, and that&amp;#8217;s Brian Doyle Murray. No, what I&amp;#8217;m calling you is a television actor. Really? Did nothing cancel?&lt;/p&gt;
 
-&lt;h4 id='afternoon_delight'&gt;Afternoon delight&lt;/h4&gt;
+&lt;h4 id=&#39;afternoon_delight&#39;&gt;Afternoon delight&lt;/h4&gt;
 
 &lt;p&gt;Across from where? I don&amp;#8217;t criticize you! And if you&amp;#8217;re worried about criticism, sometimes a diet is the best defense. What&amp;#8217;s Spanish for &amp;#8220;I know you speak English?&amp;#8221; Whoa, this guy&amp;#8217;s straight? First place chick is hot, but has an attitude, doesn&amp;#8217;t date magicians. Whoa, this guy&amp;#8217;s straight?&lt;/p&gt;
 
@@ -239,7 +239,7 @@
 &lt;li&gt;Guy&amp;#8217;s a pro.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h5 id='good_grief'&gt;Good Grief!&lt;/h5&gt;
+&lt;h5 id=&#39;good_grief&#39;&gt;Good Grief!&lt;/h5&gt;
 
 &lt;p&gt;Say goodbye to these, because it&amp;#8217;s the last time! No, I did not kill Kitty. However, I am going to oblige and answer the nice officer&amp;#8217;s questions because I am an honest man with no secrets to hide. That&amp;#8217;s why you always leave a note! Say goodbye to these, because it&amp;#8217;s the last time! What&amp;#8217;s Spanish for &amp;#8220;I know you speak English?&amp;#8221; As you may or may not know, Lindsay and I have hit a bit of a rough patch.&lt;/p&gt;</content>
  </entry>
@@ -247,24 +247,24 @@
  <entry>
    <title>Welcome to Jekyll!</title>
    <link href="http://stgabriel.github.io/mungbean/blog/welcome-to-jekyll"/>
-   <updated>2013-05-18T12:39:23+02:00</updated>
+   <updated>2013-05-18T06:39:23-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/blog/welcome-to-jekyll</id>
    <content type="html">&lt;p&gt;You&amp;#8217;ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes! To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
 
 &lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-&lt;div class='highlight'&gt;&lt;pre&gt;&lt;code class='ruby'&gt;&lt;span class='k'&gt;def&lt;/span&gt; &lt;span class='nf'&gt;print_hi&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='nb'&gt;name&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
-  &lt;span class='nb'&gt;puts&lt;/span&gt; &lt;span class='s2'&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class='si'&gt;#{&lt;/span&gt;&lt;span class='nb'&gt;name&lt;/span&gt;&lt;span class='si'&gt;}&lt;/span&gt;&lt;span class='s2'&gt;&amp;quot;&lt;/span&gt;
-&lt;span class='k'&gt;end&lt;/span&gt;
-&lt;span class='n'&gt;print_hi&lt;/span&gt;&lt;span class='p'&gt;(&lt;/span&gt;&lt;span class='s1'&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class='p'&gt;)&lt;/span&gt;
-&lt;span class='c1'&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;
+&lt;div class=&#39;highlight&#39;&gt;&lt;pre&gt;&lt;code class=&#39;ruby&#39;&gt;&lt;span class=&#39;k&#39;&gt;def&lt;/span&gt; &lt;span class=&#39;nf&#39;&gt;print_hi&lt;/span&gt;&lt;span class=&#39;p&#39;&gt;(&lt;/span&gt;&lt;span class=&#39;nb&#39;&gt;name&lt;/span&gt;&lt;span class=&#39;p&#39;&gt;)&lt;/span&gt;
+  &lt;span class=&#39;nb&#39;&gt;puts&lt;/span&gt; &lt;span class=&#39;s2&#39;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&#39;si&#39;&gt;#{&lt;/span&gt;&lt;span class=&#39;nb&#39;&gt;name&lt;/span&gt;&lt;span class=&#39;si&#39;&gt;}&lt;/span&gt;&lt;span class=&#39;s2&#39;&gt;&amp;quot;&lt;/span&gt;
+&lt;span class=&#39;k&#39;&gt;end&lt;/span&gt;
+&lt;span class=&#39;n&#39;&gt;print_hi&lt;/span&gt;&lt;span class=&#39;p&#39;&gt;(&lt;/span&gt;&lt;span class=&#39;s1&#39;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&#39;p&#39;&gt;)&lt;/span&gt;
+&lt;span class=&#39;c1&#39;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;Check out the &lt;a href='http://jekyllrb.com'&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href='https://github.com/mojombo/jekyll'&gt;Jekyll&amp;#8217;s GitHub repo&lt;/a&gt;.&lt;/p&gt;</content>
+&lt;p&gt;Check out the &lt;a href=&#39;http://jekyllrb.com&#39;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&#39;https://github.com/mojombo/jekyll&#39;&gt;Jekyll&amp;#8217;s GitHub repo&lt;/a&gt;.&lt;/p&gt;</content>
  </entry>
  
  <entry>
    <title>Susan Masters</title>
    <link href="http://stgabriel.github.io/mungbean/faculty/susan-masters"/>
-   <updated>2013-05-18T00:00:00+02:00</updated>
+   <updated>2013-05-18T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/faculty/susan-masters</id>
    <content type="html">&lt;p&gt;Dr. Masters received a B.A. degree in biology and philosophy from Bowdoin College, and a Ph.D. degree in Physiology and Pharmacology from the University of California, San Diego. Her postdoctoral studies at the University of California, San Francisco explored the molecular mechanisms of G-protein linked signaling. Dr. Masters served as Scientific Director of the UCSF Human Genome Center from 1989 to 1992. In 1993, she joined CMP as a full time educator of UCSF professional students. She currently directs the IDS 107: Life Cycle course in the new UCSF curriculum (http://medschool.ucsf.edu/curriculum/index.asp), lectures on many topics in pharmacology in other medical and pharmacy courses, and serves on various curriculum committees. She is a member of the Haile T. Debas Academy of Medical Educators (http://medschool.ucsf.edu/academy/).&lt;/p&gt;</content>
  </entry>
@@ -272,7 +272,7 @@
  <entry>
    <title>Sophie Dumont</title>
    <link href="http://stgabriel.github.io/mungbean/affiliated-faculty/sophie-dumont"/>
-   <updated>2013-05-18T00:00:00+02:00</updated>
+   <updated>2013-05-18T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/affiliated-faculty/sophie-dumont</id>
    <content type="html"></content>
  </entry>
@@ -280,7 +280,7 @@
  <entry>
    <title>Shaun Coughlin</title>
    <link href="http://stgabriel.github.io/mungbean/affiliated-faculty/shaun-coughlin"/>
-   <updated>2013-05-18T00:00:00+02:00</updated>
+   <updated>2013-05-18T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/affiliated-faculty/shaun-coughlin</id>
    <content type="html"></content>
  </entry>
@@ -288,7 +288,7 @@
  <entry>
    <title>Ronald Miller</title>
    <link href="http://stgabriel.github.io/mungbean/affiliated-faculty/ronald-miller"/>
-   <updated>2013-05-18T00:00:00+02:00</updated>
+   <updated>2013-05-18T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/affiliated-faculty/ronald-miller</id>
    <content type="html"></content>
  </entry>
@@ -296,7 +296,7 @@
  <entry>
    <title>Paul Ortiz de Montellano</title>
    <link href="http://stgabriel.github.io/mungbean/affiliated-faculty/paul-ortiz-de-montellano"/>
-   <updated>2013-05-18T00:00:00+02:00</updated>
+   <updated>2013-05-18T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/affiliated-faculty/paul-ortiz-de-montellano</id>
    <content type="html"></content>
  </entry>
@@ -304,7 +304,7 @@
  <entry>
    <title>Pamela England</title>
    <link href="http://stgabriel.github.io/mungbean/affiliated-faculty/pamela-england"/>
-   <updated>2013-05-18T00:00:00+02:00</updated>
+   <updated>2013-05-18T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/affiliated-faculty/pamela-england</id>
    <content type="html"></content>
  </entry>
@@ -312,7 +312,7 @@
  <entry>
    <title>Natalia Jura</title>
    <link href="http://stgabriel.github.io/mungbean/affiliated-faculty/natalia-jura"/>
-   <updated>2013-05-18T00:00:00+02:00</updated>
+   <updated>2013-05-18T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/affiliated-faculty/natalia-jura</id>
    <content type="html"></content>
  </entry>
@@ -320,7 +320,7 @@
  <entry>
    <title>Michael Fried</title>
    <link href="http://stgabriel.github.io/mungbean/affiliated-faculty/michel-fried"/>
-   <updated>2013-05-18T00:00:00+02:00</updated>
+   <updated>2013-05-18T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/affiliated-faculty/michel-fried</id>
    <content type="html"></content>
  </entry>
@@ -328,7 +328,7 @@
  <entry>
    <title>Michael Marletta</title>
    <link href="http://stgabriel.github.io/mungbean/affiliated-faculty/michael-marletta"/>
-   <updated>2013-05-18T00:00:00+02:00</updated>
+   <updated>2013-05-18T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/affiliated-faculty/michael-marletta</id>
    <content type="html"></content>
  </entry>
@@ -336,7 +336,7 @@
  <entry>
    <title>Martin McMahon</title>
    <link href="http://stgabriel.github.io/mungbean/affiliated-faculty/martin-mcmahon"/>
-   <updated>2013-05-18T00:00:00+02:00</updated>
+   <updated>2013-05-18T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/affiliated-faculty/martin-mcmahon</id>
    <content type="html"></content>
  </entry>
@@ -344,7 +344,7 @@
  <entry>
    <title>Mark von Zastrow</title>
    <link href="http://stgabriel.github.io/mungbean/affiliated-faculty/mark-von-zastrow"/>
-   <updated>2013-05-18T00:00:00+02:00</updated>
+   <updated>2013-05-18T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/affiliated-faculty/mark-von-zastrow</id>
    <content type="html"></content>
  </entry>
@@ -352,7 +352,7 @@
  <entry>
    <title>Kevan Shokat</title>
    <link href="http://stgabriel.github.io/mungbean/faculty/kevan-shokat"/>
-   <updated>2013-05-18T00:00:00+02:00</updated>
+   <updated>2013-05-18T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/faculty/kevan-shokat</id>
    <content type="html">&lt;p&gt;Development of Novel Tools to Study Signal Transduction Research in our laboratory is focused on the development of novel chemically based tools to decipher signal transduction pathways on a genome-wide scale. We believe that small-molecule based methods for decoding cell-biology could provide information not currently accessible through solely genetic and biochemical techniques. The key problem with using chemicals (small-molecules) to control processes inside cells is that there are very few molecules that are highly specific for the most interesting proteins. Presently, small-molecules which alter the enzymatic activity or cellular localization of key biological macromolecules are derived from two sources: natural product screening (eg. Taxol, FK506, staurosporine, and others) and drug development efforts (eg. Aspirin, Raloxifine, SKB203580, and others). These two approaches require large commitments of time and resources to find even one specific inhibitor. Our lab has developed a third method for producing these valuable reagents using an approach combining protein design and chemical synthesis. We use protein design to engineer a functionally silent yet structurally significant mutation into the active site of the protein of interest. This mutation could be the substitution of a conserved large residue in the wild-type enzyme for a smaller residue thus creating a new &amp;#8220;pocket&amp;#8221; in the active site. The mutant enzyme is then tested in a relevant cellular system to ensure that it functions in all aspects like the wild-type enzyme.&lt;/p&gt;
 
@@ -362,7 +362,7 @@
  <entry>
    <title>Kathleen Giacomini</title>
    <link href="http://stgabriel.github.io/mungbean/affiliated-faculty/kathleen-giacomini"/>
-   <updated>2013-05-18T00:00:00+02:00</updated>
+   <updated>2013-05-18T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/affiliated-faculty/kathleen-giacomini</id>
    <content type="html"></content>
  </entry>
@@ -370,7 +370,7 @@
  <entry>
    <title>John Kuriyan</title>
    <link href="http://stgabriel.github.io/mungbean/affiliated-faculty/john-kuriyan"/>
-   <updated>2013-05-18T00:00:00+02:00</updated>
+   <updated>2013-05-18T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/affiliated-faculty/john-kuriyan</id>
    <content type="html"></content>
  </entry>
@@ -378,7 +378,7 @@
  <entry>
    <title>JJ Miranda</title>
    <link href="http://stgabriel.github.io/mungbean/affiliated-faculty/jj-miranda"/>
-   <updated>2013-05-18T00:00:00+02:00</updated>
+   <updated>2013-05-18T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/affiliated-faculty/jj-miranda</id>
    <content type="html"></content>
  </entry>
@@ -386,7 +386,7 @@
  <entry>
    <title>Jim McKerrow</title>
    <link href="http://stgabriel.github.io/mungbean/affiliated-faculty/jim-mckerrow"/>
-   <updated>2013-05-18T00:00:00+02:00</updated>
+   <updated>2013-05-18T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/affiliated-faculty/jim-mckerrow</id>
    <content type="html"></content>
  </entry>
@@ -394,7 +394,7 @@
  <entry>
    <title>Henry Bourne</title>
    <link href="http://stgabriel.github.io/mungbean/faculty/henry-bourne"/>
-   <updated>2013-05-18T00:00:00+02:00</updated>
+   <updated>2013-05-18T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/faculty/henry-bourne</id>
    <content type="html">&lt;p&gt;Dr. Bourne received his MD degree from Johns Hopkins and took his postdoctoral training at the National Institutes of Health and UCSF. He came to UCSF in 1969, became a faculty member in the Department of Medicine in 1971, and served as chair of the Department of Pharmacology from 1984 to 1992. Dr. Bourne’s research for many years focused on trimeric G proteins and G protein coupled receptors. During the past five years he has turned his laboratory’s efforts toward dissecting the cellular signals responsible for polarity and direction-finding (chemotaxis) of human leukocytes. Using HL-60 leukemia cells, which can be induced to differentiate into mature neutrophils, Dr. Bourne’s laboratory has shown that attractants trigger polarity by activating opposed “frontness” and “backness” signaling pathways, mediated by different trimeric G proteins and Rho GTPases. These pathways trigger different actin assemblies, which then ‘self-organize’ to create cellular polarity. This polarity is apparently distinct from the neutrophil ‘compass’, which senses and interprets attractant gradients to orient the direction of polarity. At present the laboratory is focusing on the compass mechanism, using drugs, toxins, and RNAi to alter functions of candidate compass components and assessing their effects in attractant gradients created by micropipettes or in microfluidic devices, which create instantaneous, stable gradients of any desired slope or concentration.&lt;/p&gt;</content>
  </entry>
@@ -402,7 +402,7 @@
  <entry>
    <title>Gerard Evan</title>
    <link href="http://stgabriel.github.io/mungbean/affiliated-faculty/gerard-evan"/>
-   <updated>2013-05-18T00:00:00+02:00</updated>
+   <updated>2013-05-18T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/affiliated-faculty/gerard-evan</id>
    <content type="html"></content>
  </entry>
@@ -410,7 +410,7 @@
  <entry>
    <title>Frank McCormick</title>
    <link href="http://stgabriel.github.io/mungbean/affiliated-faculty/frank-mccormick"/>
-   <updated>2013-05-18T00:00:00+02:00</updated>
+   <updated>2013-05-18T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/affiliated-faculty/frank-mccormick</id>
    <content type="html"></content>
  </entry>
@@ -418,7 +418,7 @@
  <entry>
    <title>David Pearce</title>
    <link href="http://stgabriel.github.io/mungbean/affiliated-faculty/david-pearce"/>
-   <updated>2013-05-18T00:00:00+02:00</updated>
+   <updated>2013-05-18T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/affiliated-faculty/david-pearce</id>
    <content type="html"></content>
  </entry>
@@ -426,7 +426,7 @@
  <entry>
    <title>David Julius</title>
    <link href="http://stgabriel.github.io/mungbean/affiliated-faculty/david-julius"/>
-   <updated>2013-05-18T00:00:00+02:00</updated>
+   <updated>2013-05-18T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/affiliated-faculty/david-julius</id>
    <content type="html"></content>
  </entry>
@@ -434,7 +434,7 @@
  <entry>
    <title>Dan Minor</title>
    <link href="http://stgabriel.github.io/mungbean/affiliated-faculty/dan-minor"/>
-   <updated>2013-05-18T00:00:00+02:00</updated>
+   <updated>2013-05-18T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/affiliated-faculty/dan-minor</id>
    <content type="html"></content>
  </entry>
@@ -442,7 +442,7 @@
  <entry>
    <title>Charles Craik</title>
    <link href="http://stgabriel.github.io/mungbean/affiliated-faculty/charles-craik"/>
-   <updated>2013-05-18T00:00:00+02:00</updated>
+   <updated>2013-05-18T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/affiliated-faculty/charles-craik</id>
    <content type="html"></content>
  </entry>
@@ -450,7 +450,7 @@
  <entry>
    <title>Carolyn Bertozzi</title>
    <link href="http://stgabriel.github.io/mungbean/affiliated-faculty/carolyn-bertozzi"/>
-   <updated>2013-05-18T00:00:00+02:00</updated>
+   <updated>2013-05-18T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/affiliated-faculty/carolyn-bertozzi</id>
    <content type="html"></content>
  </entry>
@@ -458,7 +458,7 @@
  <entry>
    <title>Bruce Conklin</title>
    <link href="http://stgabriel.github.io/mungbean/affiliated-faculty/bruce-conklin"/>
-   <updated>2013-05-18T00:00:00+02:00</updated>
+   <updated>2013-05-18T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/affiliated-faculty/bruce-conklin</id>
    <content type="html">&lt;p&gt;Bruce Conklin Professor Address: Gladstone Institute of Cardiovascular Disease&lt;/p&gt;</content>
  </entry>
@@ -466,7 +466,7 @@
  <entry>
    <title>Almira Correia</title>
    <link href="http://stgabriel.github.io/mungbean/faculty/almira-correia"/>
-   <updated>2013-05-18T00:00:00+02:00</updated>
+   <updated>2013-05-18T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/faculty/almira-correia</id>
    <content type="html">&lt;p&gt;Our overall research interests continue to center on the structure, function and regulation of two physiologically important classes of hepatic hemoproteins: Cytochromes P450 (P450s, CYPs) and tryptophan 2,3 dioxygenase (TDO). Our specific goals are to: (I) explore and mechanistically characterize the endoplasmic reticulum-associated degradation (ERAD) of proteins by exploiting P450s as cellular models; (II) explore the role of proteasomal processing of P450s in drug-induced immunotoxicity; (III) elucidate the role of heme, if any, on the regulation of P450 synthesis; and (IV) to examine the structure-function relationships and heme-mediated regulation of hepatic hemoprotein tryptophan 2,3 dioxygenase (TDO). A combination of approaches (enzymological, chemical, structural, cell biological, and molecular biological) are being employed in pursuit of these questions.&lt;/p&gt;</content>
  </entry>
@@ -474,7 +474,7 @@
  <entry>
    <title>Alan Frankel</title>
    <link href="http://stgabriel.github.io/mungbean/affiliated-faculty/alan-frankel"/>
-   <updated>2013-05-18T00:00:00+02:00</updated>
+   <updated>2013-05-18T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/affiliated-faculty/alan-frankel</id>
    <content type="html"></content>
  </entry>
@@ -482,7 +482,7 @@
  <entry>
    <title>Vicky Chan</title>
    <link href="http://stgabriel.github.io/mungbean/staff/vicky-chan"/>
-   <updated>2013-05-15T00:00:00+02:00</updated>
+   <updated>2013-05-15T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/staff/vicky-chan</id>
    <content type="html"></content>
  </entry>
@@ -490,7 +490,7 @@
  <entry>
    <title>Valerie Ohman</title>
    <link href="http://stgabriel.github.io/mungbean/staff/valerie-ohman"/>
-   <updated>2013-05-15T00:00:00+02:00</updated>
+   <updated>2013-05-15T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/staff/valerie-ohman</id>
    <content type="html"></content>
  </entry>
@@ -498,7 +498,7 @@
  <entry>
    <title>Rebecca Wheeler</title>
    <link href="http://stgabriel.github.io/mungbean/staff/rebecca-wheeler"/>
-   <updated>2013-05-15T00:00:00+02:00</updated>
+   <updated>2013-05-15T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/staff/rebecca-wheeler</id>
    <content type="html"></content>
  </entry>
@@ -506,7 +506,7 @@
  <entry>
    <title>Potter Wickware</title>
    <link href="http://stgabriel.github.io/mungbean/staff/potter-wickware"/>
-   <updated>2013-05-15T00:00:00+02:00</updated>
+   <updated>2013-05-15T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/staff/potter-wickware</id>
    <content type="html"></content>
  </entry>
@@ -514,7 +514,7 @@
  <entry>
    <title>Phoebe Grigg</title>
    <link href="http://stgabriel.github.io/mungbean/staff/phoebe-grigg"/>
-   <updated>2013-05-15T00:00:00+02:00</updated>
+   <updated>2013-05-15T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/staff/phoebe-grigg</id>
    <content type="html"></content>
  </entry>
@@ -522,7 +522,7 @@
  <entry>
    <title>Peter Werba</title>
    <link href="http://stgabriel.github.io/mungbean/staff/peter-werba"/>
-   <updated>2013-05-15T00:00:00+02:00</updated>
+   <updated>2013-05-15T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/staff/peter-werba</id>
    <content type="html"></content>
  </entry>
@@ -530,7 +530,7 @@
  <entry>
    <title>Noleine Blizzard</title>
    <link href="http://stgabriel.github.io/mungbean/staff/noleine-blizzard"/>
-   <updated>2013-05-15T00:00:00+02:00</updated>
+   <updated>2013-05-15T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/staff/noleine-blizzard</id>
    <content type="html"></content>
  </entry>
@@ -538,7 +538,7 @@
  <entry>
    <title>Ned Molyneaux</title>
    <link href="http://stgabriel.github.io/mungbean/staff/ned-molyneaux"/>
-   <updated>2013-05-15T00:00:00+02:00</updated>
+   <updated>2013-05-15T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/staff/ned-molyneaux</id>
    <content type="html"></content>
  </entry>
@@ -546,7 +546,7 @@
  <entry>
    <title>Mia Morgan</title>
    <link href="http://stgabriel.github.io/mungbean/staff/mia-morgan"/>
-   <updated>2013-05-15T00:00:00+02:00</updated>
+   <updated>2013-05-15T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/staff/mia-morgan</id>
    <content type="html"></content>
  </entry>
@@ -554,7 +554,7 @@
  <entry>
    <title>Melissa Salonga</title>
    <link href="http://stgabriel.github.io/mungbean/staff/melissa-salonga"/>
-   <updated>2013-05-15T00:00:00+02:00</updated>
+   <updated>2013-05-15T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/staff/melissa-salonga</id>
    <content type="html"></content>
  </entry>
@@ -562,7 +562,7 @@
  <entry>
    <title>Maggie Millett</title>
    <link href="http://stgabriel.github.io/mungbean/staff/maggie-millett"/>
-   <updated>2013-05-15T00:00:00+02:00</updated>
+   <updated>2013-05-15T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/staff/maggie-millett</id>
    <content type="html"></content>
  </entry>
@@ -570,7 +570,7 @@
  <entry>
    <title>Lissette Irizarry</title>
    <link href="http://stgabriel.github.io/mungbean/staff/lissette-irizarry"/>
-   <updated>2013-05-15T00:00:00+02:00</updated>
+   <updated>2013-05-15T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/staff/lissette-irizarry</id>
    <content type="html"></content>
  </entry>
@@ -578,7 +578,7 @@
  <entry>
    <title>Jenny Banaszek</title>
    <link href="http://stgabriel.github.io/mungbean/staff/jenny-banaszek"/>
-   <updated>2013-05-15T00:00:00+02:00</updated>
+   <updated>2013-05-15T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/staff/jenny-banaszek</id>
    <content type="html"></content>
  </entry>
@@ -586,7 +586,7 @@
  <entry>
    <title>Irma Rangel</title>
    <link href="http://stgabriel.github.io/mungbean/staff/irma-rangel"/>
-   <updated>2013-05-15T00:00:00+02:00</updated>
+   <updated>2013-05-15T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/staff/irma-rangel</id>
    <content type="html"></content>
  </entry>
@@ -594,7 +594,7 @@
  <entry>
    <title>Henry Lezcano</title>
    <link href="http://stgabriel.github.io/mungbean/staff/henry-lezcano"/>
-   <updated>2013-05-15T00:00:00+02:00</updated>
+   <updated>2013-05-15T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/staff/henry-lezcano</id>
    <content type="html"></content>
  </entry>
@@ -602,7 +602,7 @@
  <entry>
    <title>Cliff Perusse</title>
    <link href="http://stgabriel.github.io/mungbean/staff/cliff-perusse"/>
-   <updated>2013-05-15T00:00:00+02:00</updated>
+   <updated>2013-05-15T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/staff/cliff-perusse</id>
    <content type="html"></content>
  </entry>
@@ -610,7 +610,7 @@
  <entry>
    <title>Christopher Reiger</title>
    <link href="http://stgabriel.github.io/mungbean/staff/christopher-reiger"/>
-   <updated>2013-05-15T00:00:00+02:00</updated>
+   <updated>2013-05-15T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/staff/christopher-reiger</id>
    <content type="html"></content>
  </entry>
@@ -618,7 +618,7 @@
  <entry>
    <title>Ana Alvarado-Lopez</title>
    <link href="http://stgabriel.github.io/mungbean/staff/ana-alvarado-lopez"/>
-   <updated>2013-05-15T00:00:00+02:00</updated>
+   <updated>2013-05-15T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/staff/ana-alvarado-lopez</id>
    <content type="html"></content>
  </entry>
@@ -626,7 +626,7 @@
  <entry>
    <title>Alma Velasco Tucker</title>
    <link href="http://stgabriel.github.io/mungbean/staff/alma-velasco-tucker"/>
-   <updated>2013-05-15T00:00:00+02:00</updated>
+   <updated>2013-05-15T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/staff/alma-velasco-tucker</id>
    <content type="html"></content>
  </entry>
@@ -634,7 +634,7 @@
  <entry>
    <title>Aileen Paterson</title>
    <link href="http://stgabriel.github.io/mungbean/staff/aileen-paterson"/>
-   <updated>2013-05-15T00:00:00+02:00</updated>
+   <updated>2013-05-15T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/mungbean/staff/aileen-paterson</id>
    <content type="html"></content>
  </entry>
@@ -642,12 +642,12 @@
  <entry>
    <title>Ron Vale wins 2012 Albert Lasker Basic Medical Research Award</title>
    <link href="http://stgabriel.github.io/mungbean/blog/ron-vale-wins-lasker-award"/>
-   <updated>2012-12-27T11:39:23+01:00</updated>
+   <updated>2012-12-27T05:39:23-05:00</updated>
    <id>http://stgabriel.github.io/mungbean/blog/ron-vale-wins-lasker-award</id>
-   <content type="html">&lt;h3 id='congratulations_to_our_own_ron_vale_for_winning_the_2012_albert_lasker_basic_medical_research_award'&gt;Congratulations to our own Ron Vale for winning the 2012 Albert Lasker Basic Medical Research Award!&amp;lt;&lt;/h3&gt;
+   <content type="html">&lt;h3 id=&#39;congratulations_to_our_own_ron_vale_for_winning_the_2012_albert_lasker_basic_medical_research_award&#39;&gt;Congratulations to our own Ron Vale for winning the 2012 Albert Lasker Basic Medical Research Award!&amp;lt;&lt;/h3&gt;
 
 &lt;p&gt;Ron receives this award with collaborators Michael Sheetz of Columbia University and James Spudich of Stanford University. The award was given for discoveries concerning cytoskeletal motor proteins, machines that move cargoes within cells, contract muscles, and enable cell movements.&lt;/p&gt;
-&lt;a href='http://www.laskerfoundation.org/awards/2012basic.htm'&gt;read more&lt;/a&gt;</content>
+&lt;a href=&#39;http://www.laskerfoundation.org/awards/2012basic.htm&#39;&gt;read more&lt;/a&gt;</content>
  </entry>
  
  
