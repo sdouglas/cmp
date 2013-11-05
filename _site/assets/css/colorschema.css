@@ -56,9 +56,13 @@ body.frontpage {/*background:#fbfbfb;*/color:#333;}
 
 .frontpage .top{background:#5f554b;
 				color:#555;
-				}
+}
 
+.feature { 
+  padding: 1em; 
+  background: #ddd;
+  box-sizing: border-box;
+}
 .middle{background:#f5f4f1;}
-
-
+.highlighted{background-color: #b8b8b8;}
 
