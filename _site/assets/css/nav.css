@@ -14,7 +14,13 @@ nav ul, nav ol {
 /* media Queriess */
 /* Mobile Portrait */
 .menu {margin-top:20px;}
-
+.menu-column { position: relative; }
+.menu p {
+    position: absolute;
+    left: 0;
+    top: 0;
+    color: white;
+}
 
 p a {
   /* Optimized for touch devices */
