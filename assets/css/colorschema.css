@@ -30,8 +30,9 @@ a:active {
 
 
 #header{
-/*  background:#f7f7f7;*/
-background:#5f554b;
+/*  background:#f7f7f7;
+background:#5f554b;*/
+background:#404040; /* or #333 */
 }
 
 
@@ -54,8 +55,9 @@ body.frontpage {/*background:#fbfbfb;*/color:#333;}
 
 
 
-.frontpage .top{background:#5f554b;
-				color:#555;
+.frontpage .top{
+  background:#404040;
+	color:#555;
 }
 
 .feature { 
@@ -63,6 +65,6 @@ body.frontpage {/*background:#fbfbfb;*/color:#333;}
   background: #ddd;
   box-sizing: border-box;
 }
-.middle{background:#f5f4f1;}
-.highlighted{background-color: #b8b8b8;}
+.middle{background:#f2f2f2;}
+.highlighted{background-color: #ebebeb;}
 
