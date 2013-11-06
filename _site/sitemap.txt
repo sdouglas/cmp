@@ -1,5 +1,6 @@
 
 http://stgabriel.github.io/biscuit/atom.xml
+http://stgabriel.github.io/biscuit/blog/index.html
 http://stgabriel.github.io/biscuit/index.html
 http://stgabriel.github.io/biscuit/pages/ccbgrad/index.html
 http://stgabriel.github.io/biscuit/pages/cmp-administration/computer-support/desktop-support.html
