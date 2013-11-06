@@ -135,11 +135,22 @@ body.frontpage .highlighted {
   padding-bottom: 25px;
   margin-bottom: 20px;
 }
-.highlighted .col { 
+.feature { 
   box-sizing: border-box;
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
   min-height: 150px;
+  padding: 1em 1em 1em 96px;
+  position: relative;
+}
+.feature i {
+  font-size: 3em;
+  padding: 0 4px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  line-height: 2.2;
 }
 
 /* FIXES FOR MEDIA QUERIES */

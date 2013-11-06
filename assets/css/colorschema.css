@@ -61,9 +61,11 @@ body.frontpage {/*background:#fbfbfb;*/color:#333;}
 }
 
 .feature { 
-  padding: 1em; 
   background: #ddd;
-  box-sizing: border-box;
+}
+.feature i {
+  background: #ccc;
+  color: #ddd;
 }
 .middle{background:#f2f2f2;}
 .highlighted{background-color: #ebebeb;}
