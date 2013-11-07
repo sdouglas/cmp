@@ -60,13 +60,18 @@ body.frontpage {/*background:#fbfbfb;*/color:#333;}
 	color:#555;
 }
 
-.feature { 
-  background: #ddd;
-}
+.feature { background: #9b59b6; }
 .feature i {
-  background: #ccc;
+  background: #8e44ad;
   color: #ddd;
 }
+.feature.students { background: #f39c12; }
+.students i { background: #e67e22; }
+.students a { color: #e15225; }
+.feature.admin { background: #1abc9c; }
+.admin i { background: #16a085; }
+.admin a { color: #25e1c3; }
+
 .middle{background:#f2f2f2;}
 .highlighted{background-color: #ebebeb;}
 
