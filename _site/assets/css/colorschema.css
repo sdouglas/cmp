@@ -62,15 +62,13 @@ body.frontpage {/*background:#fbfbfb;*/color:#333;}
 
 .feature { background: #9DE1FD; }
 .feature i {
-  background: #25aae1;
+  background: #83CBE9;
   color: #ddd;
 }
-.feature.students { background: #EEA9D2; }
-.students i { background: #ec008c; }
-.students a { color: #e15225; }
-.feature.admin { background: #93E2A3; }
-.admin i { background: #57ad68; }
-.admin a { color: #25e1c3; }
+.feature.students { background: #93E2A3; }
+.students i { background: #86CE94; }
+.feature.admin { background: #ECCDE0; }
+.admin i { background: #EC8DC5; }
 
 .middle{background:#f2f2f2;}
 .highlighted{background-color: #ebebeb;}

@@ -112,9 +112,13 @@ nav li {
   -ms-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
   padding: 0.5em;
-  font-weight: bold; }
+  font-weight: bold; 
+  position: relative;
+}
 
-nav li:hover, nav li.view-all:hover {
+nav li:hover,
+nav li.view-all:hover,
+.nav-close span:hover {
   background: #AB9987;
   -moz-transition: all 0.2s ease-out;
   -o-transition: all 0.2s ease-out;
@@ -122,6 +126,13 @@ nav li:hover, nav li.view-all:hover {
   -ms-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out; 
   color:#fff;
+}
+nav li:hover:after { /* right angle bracket on right edge of menu item */
+  content: '\e805';
+  position: absolute;
+  right: 1em;
+  top: 0.65em;
+  font-family: 'cmpicons';
 }
 
 nav li:last-child {
@@ -146,3 +157,16 @@ nav li a:visited {
 nav li a:hover {
   color: #fff;
   text-decoration: none; }
+
+.nav-close {
+  text-align: center;
+  margin: 0;
+}
+.nav-close span {
+  background: #5f554b;
+  border-radius: 8px 8px 0 0;
+  color:#fff;
+  cursor: pointer;
+  display: inline-block;
+  padding: 10px 15px 5px;
+}

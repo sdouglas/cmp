@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'cmpicons';
-  src: url('../font/cmpicons.eot?74198969');
-  src: url('../font/cmpicons.eot?74198969#iefix') format('embedded-opentype'),
-       url('../font/cmpicons.woff?74198969') format('woff'),
-       url('../font/cmpicons.ttf?74198969') format('truetype'),
-       url('../font/cmpicons.svg?74198969#cmpicons') format('svg');
+  src: url('../font/cmpicons.eot?99470009');
+  src: url('../font/cmpicons.eot?99470009#iefix') format('embedded-opentype'),
+       url('../font/cmpicons.woff?99470009') format('woff'),
+       url('../font/cmpicons.ttf?99470009') format('truetype'),
+       url('../font/cmpicons.svg?99470009#cmpicons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -14,7 +14,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'cmpicons';
-    src: url('../font/cmpicons.svg?74198969#cmpicons') format('svg');
+    src: url('../font/cmpicons.svg?99470009#cmpicons') format('svg');
   }
 }
 */
@@ -39,6 +39,10 @@
   /* fix buttons height, for twitter bootstrap */
   line-height: 1em;
  
+  /* Animation center compensation - margins should be symmetric */
+  /* remove if not needed */
+  margin-left: .2em;
+ 
   /* you can be more comfortable with increased icons size */
   /* font-size: 120%; */
  
@@ -49,7 +53,7 @@
 .icon-mail:before { content: '\e808'; } /* '' */
 .icon-users:before { content: '\e800'; } /* '' */
 .icon-right-open:before { content: '\e805'; } /* '' */
-.icon-right-open-big:before { content: '\e806'; } /* '' */
+.icon-up-open-mini:before { content: '\e802'; } /* '' */
 .icon-right-thin:before { content: '\e807'; } /* '' */
 .icon-college:before { content: '\e803'; } /* '' */
 .icon-library:before { content: '\e804'; } /* '' */
