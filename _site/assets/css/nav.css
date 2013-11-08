@@ -114,7 +114,7 @@ nav li {
   padding: 0.5em;
   font-weight: bold; }
 
-nav li:hover {
+nav li:hover, nav li.view-all:hover {
   background: #AB9987;
   -moz-transition: all 0.2s ease-out;
   -o-transition: all 0.2s ease-out;
@@ -126,7 +126,12 @@ nav li:hover {
 
 nav li:last-child {
   border-bottom: 2px solid #AB9987; }
-
+nav li.view-all { /* link to blog index */
+  text-transform: none;
+  background: #F0EDEA;
+  position: relative;
+  left: -4px;
+}
 nav li a {
   color: #5f554b;
   width: 100;
