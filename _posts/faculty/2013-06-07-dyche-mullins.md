@@ -10,6 +10,7 @@ fax:
 website: http://mullinslab.ucsf.edu
 address: 600 16th Street, MC 2200</br>Genentech Hall, Room N312F</br>San Francisco, CA 94158-2280</br>
 info: Administrative Assistant Phoebe Grigg may be contacted on 415 502-6305 or at <span class="e">phoebe.grigg / cmp, ucsf, edu </span>
+image: mullins.jpg
 ---
 
 My lab studies the regulation and dynamics of the eukaryotic cytoskeleton, particularly how motile cells establish polarity and use actin polymerization to propel themselves forward. This process, called amoeboid motility, is responsible for correct development of multicellular organisms; for wound healing; for proper function of the immune system; and for remodeling and regeneration in the nervous system. Loss of regulation of this process can contribute to invasion and metastasis of cancerous cells so understanding the mechanics and regulation of amoeboid motility is fundamental to understanding many basic biological processes. 

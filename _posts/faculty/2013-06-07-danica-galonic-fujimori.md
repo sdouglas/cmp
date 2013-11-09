@@ -10,6 +10,7 @@ fax:
 website: http://fujimorilab.ucsf.edu
 address: 600 16th Street, MC 2280</br>Genentech Hall, Room N572E</br>San Francisco, CA 94158-2280</br>
 info: Administrative Assistant Rebecca Wheeler may be contacted on 415 514-1283 or at <span class="e">rebecca.wheeler / ucsf, edu </span>
+image: fujimori.jpg
 ---
 
 Dr. Fujimori received a B.Sc. degree in chemistry from the University of Belgrade, Serbia, and a Ph.D. degree in chemistry from the University of Illinois-Urbana-Champaign. Prior to joining UCSF as Assistant Professor in 2008, she conducted her postdoctoral research in the lab of Christopher Walsh at Harvard Medical School. Among other awards, Dr. Fujimori is the recipient of an NIH Pathway to Independence Award and the Damon Runyon Cancer Research Foundation Postdoctoral Fellowship.  

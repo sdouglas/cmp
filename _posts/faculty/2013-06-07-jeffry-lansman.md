@@ -10,5 +10,6 @@ fax:
 website: 
 address: 513 Parnassus Avenue</br>Med Sciences Building, Room S1272</br>San Francisco, CA 94143-0450
 info: 
+image: lansman_web.jpg
 ---
 

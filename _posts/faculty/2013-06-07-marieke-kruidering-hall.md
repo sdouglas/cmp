@@ -10,6 +10,7 @@ fax:
 website: 
 address: 513 Parnassus Avenue</br>Med Sciences Building, Room S1215</br>San Francisco, CA 94143-0450
 info: 
+image: kruidering.jpg
 ---
 
 My position at UCSF is dedicated full time to teaching and facilitation of teaching Pharmacology to students in the Schools of Medicine, Pharmacy and Dentistry. I give lectures and am course director of courses in all three schools. The School of Medicine implements a significant amount of small group learning, which inspired a program that CMP runs together with the Department of Biochemistry, the Postdoctoral Teaching Fellowship. 

@@ -10,6 +10,7 @@ fax: 415 514-4459
 website: http://ingrahamlab.ucsf.edu/
 address: 1550 4th Street, MC 2611</br>Rock Hall, Room 284E</br>San Francisco, CA 94158-2611</br>
 info: Administrative Assistant Ned Molyneaux may be contacted on 415 514-3792 or at <span class="e">ned.molyneaux / ucsf, edu </span>
+image: ingraham.jpg
 ---
 
 Our lab focuses on the development of endocrine and brain tissues important in energy balance and reproduction. We are defining regulatory mechanisms underlying these early developmental events using biochemistry and vertebrate animal model systems. We are now investigating how environmental factors impact the fetal endocrine and neuroendocrine systems. Click on our Research Page for more information

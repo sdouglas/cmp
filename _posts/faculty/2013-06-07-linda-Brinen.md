@@ -9,6 +9,7 @@ phone: 415 514-3426
 website: http://brinenlab.ucsf.edu/
 address: 1700 4th Street, MC 2550</br>Byers Hall, Room N508c</br>San Francisco, CA 94158-2550</br>
 info: 
+image: brinen.jpg
 ---
 
 Dr. Brinen received a B.A. degree in chemistry from Wesleyan University, Middletown, Connecticut, and a Ph.D. degree in chemistry from Cornell University. Her postdoctoral studies at UCSF were on structural studies of lung surfactant proteins and serine proteases. 

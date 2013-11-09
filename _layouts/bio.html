@@ -11,6 +11,9 @@ layout: default
 	<br><br><br>
 
 
+        {% if page.image %}
+        <img src="{{BASE_PATH}}/assets/images/faculty/{{page.image}}" />
+        {% endif %}
  	<p>
 	{% if page.website %}Website: <a href="{{page.website}}">{{page.website}}</a></br>{% endif %}
 

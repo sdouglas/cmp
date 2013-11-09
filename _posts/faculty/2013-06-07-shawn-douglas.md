@@ -10,5 +10,6 @@ fax:
 website: http://bionano.ucsf.edu
 address: 600 16th Street, MC 2200</br>Genentech Hall, Room N472C</br>San Francisco, CA 94158-2280</br>
 info: 
+image: shawn.png
 ---
 

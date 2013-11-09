@@ -10,6 +10,7 @@ fax:
 website:
 address: 1700 4th Street, MC 2552</br>Byers Hall, Room 503A</br>San Francisco, CA 94158-2552</br>
 info: Administrative Assistant Marja Tarr may be contacted on 415 514-4757 or at <span class="e">marja.tarr / cmp, ucsf, edu </span>
+image: wells.jpg
 ---
 
 Dr. Wells received a B.A. degree in biochemistry from the University of California, Berkeley, and a Ph.D. degree in biochemistry from Washington State University. His postdoctoral studies were done at Stanford University Medical School, Department of Biochemistry. Dr. Wells was the founding member of the Protein Engineering Department at Genentech, Inc where he worked for 16 years. His research focused on designing new functional properties into enzymes and hormones and developing new technologies for engineering proteins. In 1998, Dr. Wells founded Sunesis Pharmaceuticals where he served as President and Chief Scientific Officer and developed a novel fragment discovery technology known as disulfide trapping or Tethering. In 2005, Dr. Wells joined UCSF as the Harry W. and Diana Hind Distinguished Professor in Pharmaceutical Sciences. He is a joint Professor in the Departments of Cellular & Molecular Pharmacology, and Pharmaceutical Chemistry. 

@@ -9,6 +9,7 @@ phone: 415 514-0472
 website: http://shokatlab.ucsf.edu
 address: 600 16th Street, MC 2280</br>Genentech Hall Room N512D</br>San Francisco, CA 94158-2280</br>
 info: Administrative Assistant, phone Valerie Ohman	on 415 502-1475
+image: shokat.jpg
 ---
 
 

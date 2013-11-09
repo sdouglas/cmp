@@ -10,6 +10,7 @@ fax:
 website: 
 address: 1700 4th Street, MC 2530</br>Byers Hall, Room 308D</br>San Francisco, CA 94158-2530
 info: Administrative Assistant <span class="e">aileen.paterson / ucsf, edu </span>, 415 514-4847
+image: krogan.jpg
 ---
 
 "My research group is involved in the generation and analysis of large-scale, quantitative genetic and protein-protein interaction maps in a variety of different organisms, including S. cerevisiae, S. pombe and E. coli. We primarily employ a systematic affinity tagging/purification/mass spectrometry approach to identify protein complexes and our E-MAP (epistatic miniarray profile) methodology is utilized to generate quantitative genetic interaction maps. We integrate this information together using a variety of analytical tools that we have developed and are also involved in creating appropriate software that allows for visualization of these large datasets. 

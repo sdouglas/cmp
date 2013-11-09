@@ -10,6 +10,7 @@ fax:
 website: http://weissmanlab.ucsf.edu
 address: 1700 4th Street, MC 2542</br>Byers Hall, Room 403</br>San Francisco, CA 94158-2542</br>
 info: Administrative Assistant Christopher Reiger may be contacted on 415 514-1681 or at <span class="e">christopher.reiger / ucsf, edu </span>
+image: weissman.jpg
 ---
 
 Proteomics, Protein Folding, and Prion-Based Inheritance in Disease and Normal Biology 

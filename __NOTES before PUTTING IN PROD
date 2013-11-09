@@ -27,12 +27,14 @@ create a page that just lists blog entries. blog index page.
 
 /* misc
 
-faculty bios. pics?
+search? (referenced in administration paragraph)
 page sidebar link .current-page or something?
 applying: contact info. #details? styling
-images for /cmp-administration
 what's atom and rss error in js console with stgabriel.github?
 
+DONE:
+images for /cmp-administration
+faculty bios. pics?
 */
 
 
