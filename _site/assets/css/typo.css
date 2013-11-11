@@ -418,9 +418,12 @@ textarea {
 
 #pages-menu ul li:last-child {
 }
-#pages-menu ul li a {
+.pages-menu ul li a {
   color:#777;display: block;
   width: 100%;
+  padding: 0 0 0 6px;
+  position: relative;
+  left: -6px; /* pad and shift left, so text aligns with grid but bg on hover extends beyond */
  
   -webkit-transition: font-size 0.3s ease, background-color 0.3s ease;
   -moz-transition: font-size 0.3s ease, background-color 0.3s ease;
@@ -428,13 +431,51 @@ textarea {
   -ms-transition: font-size 0.3s ease, background-color 0.3s ease;
   transition: font-size 0.3s ease, background-color 0.3s ease;
 }
-#pages-menu ul li a:hover {
+.pages-menu ul li a:hover {
   color:#444;
-
   background: #f6f6f6;
-
-
   font-size: 1.7rem;
-  background: #f6f6f6;
-
 }
+
+/* sidebar menu: highlight current page */
+.Faculty:not(.Affiliates) .faculty,
+.Affiliates .affiliated,
+.Staff .staff,
+.Department .cmp-administration,
+.Grants .grants,
+.Fellowships .fellows,
+.Computer.Support .computer-support,
+.Email.Support .email-support,
+.Connecting.Fileservers .file-servers,
+.Desktop.Services .desktop-support,
+.Purchasing .purchasing,
+.Contact .contact,
+.Teaching .teaching,
+.Chemical.Graduate .ccbgrad,
+.Student .students {
+  background: #5f554b;
+  color: white;
+}
+.Faculty:not(.Affiliates) .faculty:hover,
+.Affiliates .affiliated:hover,
+.Staff .staff:hover,
+.Department .cmp-administration:hover,
+.Grants .grants:hover,
+.Fellowships .fellows:hover,
+.Computer.Support .computer-support:hover,
+.Email.Support .email-support:hover,
+.Connecting.Fileservers .file-servers:hover,
+.Desktop.Services .desktop-support:hover,
+.Purchasing .purchasing:hover,
+.Contact .contact:hover,
+.Teaching .teaching:hover,
+.Chemical.Graduate .ccbgrad:hover,
+.Student .students:hover {
+  background: #5f554b;
+  color: white;
+  font-size: 1.4rem;
+  cursor: default;
+}
+
+table.staff td { padding-right: 0.5em; }
+tr:hover { background-color: #f8f8f8; }
