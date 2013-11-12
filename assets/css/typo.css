@@ -477,5 +477,5 @@ textarea {
   cursor: default;
 }
 
-table.staff td { padding-right: 0.5em; }
+table.people td { padding-right: 0.5em; }
 tr:hover { background-color: #f8f8f8; }

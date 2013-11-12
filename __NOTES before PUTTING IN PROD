@@ -1,14 +1,13 @@
 To do:
 
 make slide backgrounds the light grey used on the front page.
-make a nice light grey square bullet for unordered lists.
-make nice ordered lists.
 
 check that sitemap is behaving
 check that rss is behaving
 add the rss pull feature thingy.
+rss. posts from blog only, yes?
 
-
+pagination?
 
 clean the content on:
  teaching page , 
@@ -21,20 +20,26 @@ clean the content on:
 
 
 favicons.
-icons. fontello or similar, for front page links, for administration page.
-create a page that just lists blog entries. blog index page.
 
 
 /* misc
 
+news content? Ron Vale, other stories?
 search? (referenced in administration paragraph)
-page sidebar link .current-page or something?
 applying: contact info. #details? styling
 what's atom and rss error in js console with stgabriel.github?
+
+DONE?
+make a nice light grey square bullet for unordered lists.
+make nice ordered lists.
+
 
 DONE:
 images for /cmp-administration
 faculty bios. pics?
+icons. fontello or similar, for front page links, for administration page.
+create a page that just lists blog entries. blog index page.
+page sidebar link .current-page or something?
 */
 
 
