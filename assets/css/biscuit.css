@@ -45,10 +45,12 @@ body.frontpage a.ucsf:hover {opacity:.6;}
 body.frontpage #page, body.contact #page {min-height:0;}
 
 
-
+.details {
+  background: url('/assets/images/ucsf_mission_bay.jpg') 38% bottom no-repeat;
+  padding-bottom:292px;
+}
 /* footer */
 .footer-bottom {
-	margin-top:50px;
 	padding:30px 0;
 }
 
@@ -128,6 +130,7 @@ body.default .top-margin {margin-top:80px;}
 body.contact .top-margin{margin-top:20px;}
 
 .frontpage .top {padding:100px 0 10px;margin:-160px 0 10px;}
+.icon-right-thin { position: relative; top: 2px; }
 
 body.frontpage .middle {padding:200px 0 20px 0;margin:-235px 0 0 0;}
 body.frontpage .highlighted { 
