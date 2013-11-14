@@ -16,6 +16,7 @@ clean the content on:
  grants
  cmp admin pages
  (and see if there are any else)
+        applying: contact info. #details? styling
 
 ? make slide backgrounds the light grey used on the front page.
 
@@ -27,8 +28,9 @@ examine on small screens
 
 news content: delete jekyll dummy post. new site launch post.
 search? (referenced in administration paragraph)
-applying: contact info. #details? styling
+date format
 what's atom and rss error in js console with stgabriel.github?
+"ref_id = psi"
 "syntaxhighlighter is not defined"
 minify and concatenate assets, files
 

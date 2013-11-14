@@ -392,6 +392,9 @@ input[type=tel] {
 textarea {
   width: 260px;
 }
+/* blog index page */
+.cmp-news h2 { margin-bottom: 5px; margin-top: 40px; }
+.author { margin-top: 0; color: #bbb; font-size: 1.5rem; }
 
 /* bio page */
 

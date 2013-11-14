@@ -7,8 +7,6 @@ published: true
 ---
 
 
-# Mr. F
-
 What's Spanish for "I know you speak English?" I don't understand the question, and I won't respond to it. But I bought a yearbook ad from you, doesn't that mean anything anymore? No! I was ashamed to be SEEN with you. I like being with you.
 
 ## Exit Strategy
