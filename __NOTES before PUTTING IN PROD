@@ -1,19 +1,20 @@
 To do:
 
-make slide backgrounds the light grey used on the front page.
 
-check that sitemap is behaving
-- add link
+color scheme
+
 check that rss is behaving
-- add the rss pull feature thingy.
-- rss. posts from blog only, yes?
+- rss. posts from blog only
 - add link
+- autodiscovery link. template header.
 
+pagination. unless tricky.
+blog index listing: typography/spacing
 
-pagination?
+Grants/Fellowships side menu both highlighted
 
 clean the content on:
- teaching page , 
+ teaching page , (image: float?)
  students,
  postdocs,
  fellows
@@ -21,6 +22,7 @@ clean the content on:
  cmp admin pages
  (and see if there are any else)
 
+? make slide backgrounds the light grey used on the front page.
 
 
 
@@ -28,12 +30,12 @@ clean the content on:
 
 examine on small screens
 
-minify and concatenate assets, files
-news content. delete jekyll dummy post.
+news content: delete jekyll dummy post. new site launch post.
 search? (referenced in administration paragraph)
 applying: contact info. #details? styling
 what's atom and rss error in js console with stgabriel.github?
 "syntaxhighlighter is not defined"
+minify and concatenate assets, files
 
 DONE?
 make a nice light grey square bullet for unordered lists.
@@ -41,6 +43,9 @@ make nice ordered lists.
 
 
 DONE:
+check that sitemap is behaving
+- uses 'production_url' to construct base url
+
 favicons.
 images for /cmp-administration
 faculty bios. pics?

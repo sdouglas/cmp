@@ -53,7 +53,13 @@ body.frontpage #page, body.contact #page {min-height:0;}
 .footer-bottom {
 	padding:30px 0;
 }
-
+#rss {
+  background: #fe9900 url('/assets/icons/logo-sprite.png') no-repeat scroll -190px 0;
+  border-radius: 2px;
+  height: 40px;
+  display: block;
+  width: 40px;
+}
 
 /* following not used yet */
 #back-to-top a {

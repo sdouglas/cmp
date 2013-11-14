@@ -9,5 +9,5 @@ permalink: /:categories/:title
 
 production_url : http://stgabriel.github.io/biscuit
 
-atom_path : /atom.xml
-rss_path : /rss.xml
+atom_path: /atom.xml
+rss_path: /rss.xml

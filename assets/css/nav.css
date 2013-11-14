@@ -100,6 +100,11 @@ nav hr {
   font-size: 0.77273em;
   color: #AB9987; }
 
+.headline a {
+float: right;
+padding-left: 20px;
+}
+
 nav ul {
   margin: 1em 0;
   padding: 0; }
