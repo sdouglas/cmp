@@ -3,9 +3,12 @@ To do:
 make slide backgrounds the light grey used on the front page.
 
 check that sitemap is behaving
+- add link
 check that rss is behaving
-add the rss pull feature thingy.
-rss. posts from blog only, yes?
+- add the rss pull feature thingy.
+- rss. posts from blog only, yes?
+- add link
+
 
 pagination?
 
@@ -19,15 +22,18 @@ clean the content on:
  (and see if there are any else)
 
 
-favicons.
 
 
 /* misc
 
-news content? Ron Vale, other stories?
+examine on small screens
+
+minify and concatenate assets, files
+news content. delete jekyll dummy post.
 search? (referenced in administration paragraph)
 applying: contact info. #details? styling
 what's atom and rss error in js console with stgabriel.github?
+"syntaxhighlighter is not defined"
 
 DONE?
 make a nice light grey square bullet for unordered lists.
@@ -35,6 +41,7 @@ make nice ordered lists.
 
 
 DONE:
+favicons.
 images for /cmp-administration
 faculty bios. pics?
 icons. fontello or similar, for front page links, for administration page.

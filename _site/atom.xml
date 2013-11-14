@@ -4,7 +4,7 @@
  <title></title>
  <link href="http://stgabriel.github.io/biscuit//atom.xml" rel="self"/>
  <link href="http://stgabriel.github.io/biscuit"/>
- <updated>2013-11-13T15:29:49-05:00</updated>
+ <updated>2013-11-13T17:46:10-05:00</updated>
  <id>http://stgabriel.github.io/biscuit</id>
  <author>
    <name></name>
@@ -17,7 +17,23 @@
    <link href="http://stgabriel.github.io/biscuit/faculty/wendell-lim"/>
    <updated>2013-06-07T00:00:00-04:00</updated>
    <id>http://stgabriel.github.io/biscuit/faculty/wendell-lim</id>
-   <content type="html">&lt;p&gt;The Molecular Logic of Cellular Signaling Systems Signal transduction Protein-protein recognition Protein switches and networks Signaling protein and network evolution Systems biology Biological computation Synthetic biology Livings cells process vast amounts of environmental information to generate sophisticated responses such as movement, growth, and differentiation. Such decisions are made by complex networks of signal transduction proteins. One of the most challenging problems in modern biology is understanding how these networks of proteins act to carry out these remarkable behaviors. A striking commonality among eukaryotic signaling molecules is that they are composed of modular domains. Some domains carry our catalytic functions, but most mediate specific protein-protein interactions. This modular organization of signaling proteins suggests that a common toolkit of components has been used in a combinatorial fashion to evolve the complex signaling proteins and pathways we see today. We are therefore interested in understanding the logic by which simple protein components can be used to build complex information processing systems. We would like to answer this question at several hierarchical levels: 1. How do isolated protein interaction modules function? 2. How have modular domains been combined through evolution to build signaling switches and devices, capable of complex behavior such as high specificity communication, signal integration, and feedback control? 3. How are individual signaling proteins linked into networks that display complex and highly specific systems input/output behaviors? 4. Can we engineer synthetic signaling pathways that rewire and systematically alter cellular behavior? We are probing these questions by studying kinase and GTPase pathways involved in controlling cell movement and stress responses in yeast and mammalian cells. To achieve these goals we take a highly interdisciplinary approach that incorporates diverse techniques including: Mechanistic biochemistry Biophysical methods X-ray crystallography, NMR Molecular biology Cell biology Yeast genetics Protein, pathway engineering&lt;/p&gt;</content>
+   <content type="html">&lt;p&gt;The Molecular Logic of Cellular Signaling Systems Signal transduction Protein-protein recognition Protein switches and networks Signaling protein and network evolution Systems biology Biological computation Synthetic biology&lt;/p&gt;
+
+&lt;p&gt;Livings cells process vast amounts of environmental information to generate sophisticated responses such as movement, growth, and differentiation. Such decisions are made by complex networks of signal transduction proteins. One of the most challenging problems in modern biology is understanding how these networks of proteins act to carry out these remarkable behaviors.&lt;/p&gt;
+
+&lt;p&gt;A striking commonality among eukaryotic signaling molecules is that they are composed of modular domains. Some domains carry our catalytic functions, but most mediate specific protein-protein interactions. This modular organization of signaling proteins suggests that a common toolkit of components has been used in a combinatorial fashion to evolve the complex signaling proteins and pathways we see today. We are therefore interested in understanding the logic by which simple protein components can be used to build complex information processing systems. We would like to answer this question at several hierarchical levels:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;How do isolated protein interaction modules function?&lt;/li&gt;
+
+&lt;li&gt;How have modular domains been combined through evolution to build signaling switches and devices, capable of complex behavior such as high specificity communication, signal integration, and feedback control?&lt;/li&gt;
+
+&lt;li&gt;How are individual signaling proteins linked into networks that display complex and highly specific systems input/output behaviors?&lt;/li&gt;
+
+&lt;li&gt;Can we engineer synthetic signaling pathways that rewire and systematically alter cellular behavior?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;We are probing these questions by studying kinase and GTPase pathways involved in controlling cell movement and stress responses in yeast and mammalian cells. To achieve these goals we take a highly interdisciplinary approach that incorporates diverse techniques including: Mechanistic biochemistry Biophysical methods X-ray crystallography, NMR Molecular biology Cell biology Yeast genetics Protein, pathway engineering&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -646,8 +662,8 @@
    <id>http://stgabriel.github.io/biscuit/blog/ron-vale-wins-lasker-award</id>
    <content type="html">&lt;h3 id='congratulations_to_our_own_ron_vale_for_winning_the_2012_albert_lasker_basic_medical_research_award'&gt;Congratulations to our own Ron Vale for winning the 2012 Albert Lasker Basic Medical Research Award!&amp;lt;&lt;/h3&gt;
 
-&lt;p&gt;Ron receives this award with collaborators Michael Sheetz of Columbia University and James Spudich of Stanford University. The award was given for discoveries concerning cytoskeletal motor proteins, machines that move cargoes within cells, contract muscles, and enable cell movements.&lt;/p&gt;
-&lt;a href='http://www.laskerfoundation.org/awards/2012basic.htm'&gt;read more&lt;/a&gt;</content>
+&lt;p&gt;Ron receives this award with collaborators Michael Sheetz of Columbia University and James Spudich of Stanford University. The award was given for discoveries concerning cytoskeletal motor proteins, machines that move cargoes within cells, contract muscles, and enable cell movements. &lt;a href='http://www.laskerfoundation.org/awards/2012basic.htm'&gt;read more&lt;/a&gt;&lt;/p&gt;
+&lt;img src='/assets/images/blog/ron-vale-lasker.jpg' /&gt;</content>
  </entry>
  
  
