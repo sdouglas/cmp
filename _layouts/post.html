@@ -5,9 +5,10 @@ layout: default
 	<div class="col four tablet-four mobile-full">
 	<h2>{{ page.title }}</h2>
 	<h4><date>{{ page.date | date_to_string }}</date></h4>
+        <a href="{{BASE_PATH}}/blog">&laquo; back to latest news</a>
 	</div>
 
-	<div class="col eight tablet-eight mobile-full">
+	<div class="col eight tablet-eight mobile-full post-content">
 	{{ content }}
 	</div>
 

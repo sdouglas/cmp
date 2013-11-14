@@ -5,7 +5,6 @@ color scheme
 
 
 pagination. unless tricky.
-blog index listing: typography/spacing
 
 
 clean the content on:
@@ -35,6 +34,7 @@ what's atom and rss error in js console with stgabriel.github?
 minify and concatenate assets, files
 
 DONE?
+blog index listing: typography/spacing
 make a nice light grey square bullet for unordered lists.
 make nice ordered lists.
 
