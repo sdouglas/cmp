@@ -3,15 +3,10 @@ To do:
 
 color scheme
 
-check that rss is behaving
-- rss. posts from blog only
-- add link
-- autodiscovery link. template header.
 
 pagination. unless tricky.
 blog index listing: typography/spacing
 
-Grants/Fellowships side menu both highlighted
 
 clean the content on:
  teaching page , (image: float?)
@@ -43,6 +38,11 @@ make nice ordered lists.
 
 
 DONE:
+Grants/Fellowships side menu both highlighted
+check that rss is behaving
+- rss. posts from blog only
+- add link
+- autodiscovery link. template header.
 check that sitemap is behaving
 - uses 'production_url' to construct base url
 
