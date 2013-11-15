@@ -451,13 +451,14 @@ textarea {
 .Grants .grants,
 .Fellowships:not(.Grants) .fellows,
 .Computer.Support .computer-support,
-.Email.Support .email-support,
-.Connecting.Fileservers .file-servers,
+.Email.Services .email-support,
+.Connecting.Fileserver .file-servers,
 .Desktop.Services .desktop-support,
 .Purchasing .purchasing,
 .Contact .contact,
 .Teaching .teaching,
 .Chemical.Graduate .ccbgrad,
+.Postdoctoral .postdocs,
 .Student .students {
   background: #5f554b;
   color: white;
@@ -469,13 +470,14 @@ textarea {
 .Grants .grants:hover,
 .Fellowships:not(.Grants) .fellows:hover,
 .Computer.Support .computer-support:hover,
-.Email.Support .email-support:hover,
-.Connecting.Fileservers .file-servers:hover,
+.Email.Services .email-support:hover,
+.Connecting.Fileserver .file-servers:hover,
 .Desktop.Services .desktop-support:hover,
 .Purchasing .purchasing:hover,
 .Contact .contact:hover,
 .Teaching .teaching:hover,
 .Chemical.Graduate .ccbgrad:hover,
+.Postdoctoral .postdocs:hover,
 .Student .students:hover {
   background: #5f554b;
   color: white;

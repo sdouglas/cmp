@@ -101,8 +101,9 @@ nav hr {
   color: #AB9987; }
 
 .headline a {
-float: right;
-padding-left: 20px;
+  float: right;
+  padding-left: 20px;
+  cursor: pointer;
 }
 
 nav ul {

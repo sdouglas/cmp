@@ -3,10 +3,6 @@ To do:
 
 color scheme
 
-
-pagination. unless tricky.
-
-
 clean the content on:
  teaching page , (image: float?)
  students,
@@ -16,6 +12,7 @@ clean the content on:
  cmp admin pages
  (and see if there are any else)
         applying: contact info. #details? styling
+link to graduate.ucsf broken
 
 ? make slide backgrounds the light grey used on the front page.
 
@@ -27,7 +24,6 @@ examine on small screens
 
 news content: delete jekyll dummy post. new site launch post.
 search? (referenced in administration paragraph)
-date format
 what's atom and rss error in js console with stgabriel.github?
 "ref_id = psi"
 "syntaxhighlighter is not defined"
