@@ -40,7 +40,7 @@ body.frontpage a.ucsf:hover {opacity:.6;}
 */
 
 /* this class wraps around the content column and keeps the footer from leaping up */
-#page {min-height:500px;}
+#page {min-height:500px; margin-bottom: 3em; }
 /* needed for front page and contact page to prevent a crazy top margin at top of page */
 body.frontpage #page, body.contact #page {min-height:0;}
 
@@ -161,6 +161,10 @@ body.frontpage .highlighted {
   height: 100%;
   line-height: 2.2;
 }
+
+/* images */
+.stretch { margin-right: 20px; }
+.stretch img { width: 100%; }
 
 /* FIXES FOR MEDIA QUERIES */
 /* ==========================================================================
