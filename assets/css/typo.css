@@ -229,7 +229,7 @@ table caption {
 ul {
   list-style: square;
   padding: 0 0 0 20px;
-  margin: 0;
+  margin: 0 0 20px;
 
 }
 ol {
@@ -392,6 +392,14 @@ input[type=tel] {
 textarea {
   width: 260px;
 }
+
+/* Addresses, Definitions, etc. */
+pre {
+  background: #E9E1D9;
+  padding: 0.2rem 1rem;
+  border-radius: 2px;
+}
+
 /* blog index page */
 
 .cmp-news h2 { margin-bottom: 5px; margin-top: 40px; }

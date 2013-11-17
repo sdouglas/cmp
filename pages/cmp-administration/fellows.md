@@ -5,14 +5,8 @@ title: CMP Fellowships
 --- 
 
 
-<table>
-<tbody><tr>
-<td>
-<a href="{{BASE_PATH}}/pages/cmp-administration/grants.html">Grants and Fellowships</a> - <a href="{{BASE_PATH}}/cmp-administration/fellows.html">Fellowships</a>
-</td>
-</tr>
-</tbody>
-</table>
+<a href="{{BASE_PATH}}/pages/cmp-administration/grants.html">Grants and Fellowships</a>
+<a href="{{BASE_PATH}}/cmp-administration/fellows.html">Fellowships</a>
 
 
 ### Application Submission Process
@@ -45,7 +39,7 @@ In your email, please copy (cc) your faculty mentor’s administrative assistant
 
 #### Agency-specific websites:
 
-<em>(Please note: This list is not exhaustive, rather represents fellowships commonly applied for by CMP postdoctoral fellows.)</em>
+*(Please note: This list is not exhaustive, rather represents fellowships commonly applied for by CMP postdoctoral fellows.)*
 
 <ul>
 <li><a href="http://www.cancer.org/Research/ResearchProgramsFunding/postdoctoral-fellowships?sitearea=RES" target="_blank">American Cancer Society </a></li>
@@ -73,187 +67,189 @@ In your email, please copy (cc) your faculty mentor’s administrative assistant
 <li><a href="http://www.ucop.edu/acadadv/ppfp/" target="_blank">UCOP – President’s Award</a></li>
 </ul>
 
-	*US citizenship not required. See agency website/guidelines for details.
+\* *US citizenship not required. See agency website/guidelines for details.*
 
 #### Searchable databases:
 
-list
-- &nbsp;<a href="http://or.ucsf.edu/cg/COS_Funding_Opportunities.html" target="_blank">Community of Science </a>
-- &nbsp;<a href="http://www.grants.gov/" target="_blank">Grants.gov</a>
+<ul>
+<li><a href="http://or.ucsf.edu/cg/COS_Funding_Opportunities.html" target="_blank">Community of Science </a></li>
+<li><a href="http://www.grants.gov/" target="_blank">Grants.gov</a></li>
+</ul>
 
 
 
+### NIH eRA Commons User IDs/Accounts
 
-#### NIH eRA Commons User IDs/Accounts
 
+Graduate students or postdoctoral fellows applying for an NIH F31, F32, or K-series award must be registered with NIH <a href="http://commons.era.nih.gov/" target="_blank">eRA Commons</a> in order to successfully submit an application. All postdoctoral fellows participating (paid or unpaid) on NIH-funded projects also must be registered with eRA Commons.
 
-Graduate students or postdoctoral fellows applying for an NIH F31, F32, or K-series award must be registered with NIH<a href="https://public.era.nih.gov/elf/jsp/commons/login.jsp?TYPE=33554433&amp;REALMOID=06-1edb031f-46c7-44b3-b803-60b537de74d2&amp;GUID=&amp;SMAUTHREASON=0&amp;METHOD=GET&amp;SMAGENTNAME=-SM-938PYmoLVb4VrDeXo04LZUDVDvc%2b3899ByInEAjuSUvWNIGfB2zRpWiCivYGCogG&amp;TARGET=-SM-http%3a%2f%2fpublic.era.nih.gov%2fcommons" target="_blank"> eRA Commons</a> in order to successfully submit an application. All postdoctoral fellows participating (paid or unpaid) on NIH-funded projects also must be registered with eRA Commons.
-
-To have an account activated, please send an email with your name and email address to 
- . In the subject line of the email, note "Request for eRA Commons Account".
+To have an account activated, please send an email with your name and email address to <span class="e">kerri.santos / ucsf, edu</span>. In the subject line of the email, note "Request for eRA Commons Account".
 
 More information on the NIH policy regarding postdoctoral fellows participating on NIH-funded projects can be located at the following link: 
 <a href="http://grants.nih.gov/grants/guide/notice-files/not-od-09-140.html" target="_blank">http://grants.nih.gov/grants/guide/notice-files/not-od-09-140.html </a>
 
 
 
-#### Cayuse
-
-Cayuse is a software solution that is required at  UCSF for the submission of most federally funded applications via Grants.gov. Cayuse is a hosted web application that can be accessed directly from a PC or Mac desktop.
-
-Bookmark the <a href="https://ucsf.cayuse424.com:8443/7/login.do" target="_blank">Cayuse Production Site</a> to your web browser. This is the link you will use to work in Cayuse/Grants.gov. 
-
-To activate a Cayuse user account, please contact Kerri Santos via email at 
-. In the subject line, write "Request for Cayuse Account". In the body of the email, please be sure to include your title and UCSF employee ID number.
-
-
+### NIH Kirschstein National Research Service Award (F32) Fellowship Award - Instructions, Forms and Resources For Preparing An Application
 #### Instructions, Forms and Resources For Preparing An Application
 
-<a href="http://grants.nih.gov/grants/guide/pa-files/pa-11-113.html" target="_blank">NIH Program Announcement </a>
+<ul>
+<li><a href="http://grants.nih.gov/grants/guide/pa-files/pa-11-113.html" target="_blank">NIH Program Announcement </a>
+(PA-11-113)</li>
 
-(PA-11-113)
+<li><a href="http://grants.nih.gov/grants/funding/424/" target="_blank">SF424 Fellowship Application Guide</a></li>
+<li><a href="http://grants.nih.gov/podcasts/All_About_Grants/episodes/PostDoc_May_2010.mp3" target="_blank">NIH Podcast "Postdocs Thinking About Independence"</a>
+(19 minutes)</li>
 
-<a href="http://grants.nih.gov/grants/funding/424/" target="_blank">SF424 Fellowship Application Guide</a>
-<a href="http://grants.nih.gov/podcasts/All_About_Grants/episodes/PostDoc_May_2010.mp3" target="_blank">NIH Podcast "Postdocs Thinking About Independence"</a> 
-(19 minutes)
-<a href="http://www.nigms.nih.gov/Training/IndivPostdoc/PostdocFellowsFAQ.htm" target="_blank">NIH (NIGMS) Individual Postdoctoral Fellowships FAQs Page</a>
-(please see the "NIH eRA Commons User IDs/Accounts" section above)
-<a href="http://grants.nih.gov/grants/guide/notice-files/NOT-OD-11-047.html" target="_blank">NIH Letters of Reference Due Date Policy</a>
-<a href="http://grants.nih.gov/grants/ElectronicReceipt/faq_full.htm#12" target="_blank">NIH Letters of Reference FAQs </a>
-<a href="http://grants.nih.gov/grants/funding/424/" target="_blank">"Letter of Reference" Reference Form</a> 
+<li><a href="http://www.nigms.nih.gov/Training/IndivPostdoc/PostdocFellowsFAQ.htm" target="_blank">NIH (NIGMS) Individual Postdoctoral Fellowships FAQs Page</a></li>
+<li>eRA Commons Registration (please see the "NIH eRA Commons User IDs/Accounts" section above)</li>
+<li><a href="http://grants.nih.gov/grants/guide/notice-files/NOT-OD-11-047.html" target="_blank">NIH Letters of Reference Due Date Policy</a></li>
+<li><a href="http://grants.nih.gov/grants/ElectronicReceipt/faq_full.htm#12" target="_blank">NIH Letters of Reference FAQs </a></li>
+<li><a href="http://grants.nih.gov/grants/funding/424/" target="_blank">"Letter of Reference" Reference Form</a>
+(scroll down to "Additional Format Pages - References for Fellowship Awards")</li>
 
-(scroll down to "Additional Format Pages - References for Fellowship Awards")
+<li><a href="http://grants.nih.gov/grants/funding/424/" target="_blank">Biographical Sketch Form for Applicant</a>
+(scroll down to "Additional Format Pages - Fellowship Applicant Biographical Sketch Format Page")</li>
 
-<a href="http://grants.nih.gov/grants/funding/424/" target="_blank">Biographical Sketch Form for Applicant</a> 
+<li><a href="http://grants.nih.gov/grants/funding/424/" target="_blank">Biographical Sketch Form for Sponsor/Co-Sponsors</a>
+(scroll down to "Additional Format Pages - Biographical Sketch Format Page – Adobe Forms Version B")</li>
 
-(scroll down to "Additional Format Pages - Fellowship Applicant Biographical Sketch Format Page")
+<li>Training in the Responsible Conduct of Research (please see the "Training in the Responsible Conduct of Research Resources" section below)</li>
+<li><a href="http://grants.nih.gov/grants/funding/416-9/phs416-9.htm" target="_blank">Kirschstein/NRSA Progress Report Instructions (PHS416-9)</a></li>
+</ul>
 
-<a href="http://grants.nih.gov/grants/funding/424/" target="_blank">Biographical Sketch Form for Sponsor/Co-Sponsors</a> 
+### NIH Pathway to Independence (K99/R00) Award - Instructions, Forms and Resources For Preparing An Application
 
-(scroll down to "Additional Format Pages - Biographical Sketch Format Page – Adobe Forms Version B")
+<ul>
+<li><a href="http://grants.nih.gov/grants/guide/pa-files/PA-11-197.html" target="_blank">NIH Program Announcement</a>
 
+(PA-11-197)</li>
 
-Training in the Responsible Conduct of Research (please see the "Training in the Responsible Conduct of Research Resources" section below)
-<a href="http://grants.nih.gov/grants/funding/416-9/phs416-9.htm" target="_blank">
-Kirschstein/NRSA Progress Report Instructions (PHS416-9)</a>
+<li><a href="http://grants.nih.gov/grants/funding/424/" target="_blank">SF424 "Grants.gov" Application Guide</a></li>
+<li><a href="http://grants.nih.gov/training/careerdevelopmentawards.htm" target="_blank">NIH "K Kiosk"</a></li>
+<li><a href="http://grants.nih.gov/grants/guide/contacts/parent_K99_R00.html" target="_blank">NIH K99/R00 Table of IC-Specific Information, Requirements and Staff Contacts</a></li>
+<li><a href="http://grants.nih.gov/podcasts/all_about_grants/episodes/Mentored_K_Awards_June_2010.mp3" target="_blank">NIH Podcast "Using Career Development Awards to Achieve Independence"</a>
 
+(12 mins)</li>
 
-#### NIH Pathway to Independence (K99/R00) Award - Instructions, Forms and Resources For Preparing An Application
+<li><a href="http://grants.nih.gov/grants/new_investigators/QsandAs.htm" target="_blank">NIH New Investigators Program FAQs Page </a></li>
 
-<a href="http://grants.nih.gov/grants/guide/pa-files/PA-11-197.html" target="_blank">NIH Program Announcement</a> 
+<li>eRA Commons Registration (please see the "NIH eRA Commons User IDs/Accounts" section above)</li>
 
-(PA-11-197)
+<li><a href="http://grants.nih.gov/grants/funding/424/" target="_blank">Letters of Reference - Referee Instructions</a>
 
-<a href="http://grants.nih.gov/grants/funding/424/" target="_blank">SF424 "Grants.gov" Application Guide</a>
-<a href="http://grants.nih.gov/training/careerdevelopmentawards.htm" target="_blank">NIH "K Kiosk"</a>
-<a href="http://grants.nih.gov/grants/guide/contacts/parent_K99_R00.html" target="_blank">NIH K99/R00 Table of IC-Specific Information, Requirements and Staff Contacts</a>
-<a href="http://grants.nih.gov/podcasts/all_about_grants/episodes/Mentored_K_Awards_June_2010.mp3" target="_blank">NIH Podcast "Using Career Development Awards to Achieve Independence"</a> 
+(scroll down to "Additional Format Pages - Referee Instructions for Mentored Career Development Awards")</li>
 
-(12 mins)
+<li><a href="http://grants.nih.gov/grants/ElectronicReceipt/faq_full.htm#12" target="_blank">NIH Letters of Reference FAQs </a></li>
+<li><a href="http://grants.nih.gov/grants/funding/424/" target="_blank">Biographical Sketch for Candidate, Mentor, Co-mentor, and Other Senior/Key Persons</a>
 
-<a href="http://grants.nih.gov/grants/new_investigators/QsandAs.htm" target="_blank">NIH New Investigators Program FAQs Page </a>
+(scroll down to "Additional Format Pages - Biographical Sketch Format Page – Adobe Forms Version B")</li>
 
-eRA Commons Registration (please see the "NIH eRA Commons User IDs/Accounts" section above)
+<li>Training in the Responsible Conduct of Research (please see the "Training in the Responsible Conduct of Research Resources" section below)</li>
+</ul>
 
-<a href="http://grants.nih.gov/grants/funding/424/" target="_blank">Letters of Reference - Referee Instructions</a> 
+### Training in the Responsible Conduct of Research - Policies, Courses and Resources
 
-(scroll down to "Additional Format Pages - Referee Instructions for Mentored Career Development Awards")
-
-<a href="http://grants.nih.gov/grants/ElectronicReceipt/faq_full.htm#12" target="_blank">NIH Letters of Reference FAQs </a>
-<a href="http://grants.nih.gov/grants/funding/424/" target="_blank">Biographical Sketch for Candidate, Mentor, Co-mentor, and Other Senior/Key Persons</a> 
-
-(scroll down to "Additional Format Pages - Biographical Sketch Format Page – Adobe Forms Version B")
-
-Training in the Responsible Conduct of Research (please see the "Training in the Responsible Conduct of Research Resources" section below)
-
-
-#### Training in the Responsible Conduct of Research - Policies, Courses and Resources
-
-<em>Federal agency policies:</em>
+#### Federal agency policies
 
 <a href="http://grants.nih.gov/grants/guide/notice-files/NOT-OD-10-019.html" target="_blank">NIH policy on instruction in the responsible conduct of research</a>
 <a href="http://edocket.access.gpo.gov/2009/E9-19930.htm" target="_blank">NSF policy on the instruction in the responsible conduct of research</a>
 
-<em>Training courses offered at UCSF:</em>
+#### Training courses offered at UCSF
+
 <ul>
 <li><a href="http://or.ucsf.edu/cg/6937-DSY.html" target="_blank">Office of Sponsored Research's “Responsible Conduct of Research” training via the Collaborative Institutional Training Initiative</a></li>
 <li><a href="http://www.epibiostat.ucsf.edu/courses/schedule/responsible_conduct.html" target="_blank">UCSF Training in Clinical Research Program</a></li>
 <li><a href="http://career.ucsf.edu/grad-students-postdocs/research-ethics" target="_blank">UCSF Office of Career &amp; Professional Development</a><a href="http://career.ucsf.edu/ethics.html" target="_blank"></a></li>
 </ul>
 
-<em>Other resources:</em>
+#### Other resources
 
-<a href="http://www.nigms.nih.gov/Training/responsibleconduct.htm" target="_blank">NIH - NIGMS "Guidance on Best Practices for Training in the Responsible Conduct of Research"</a>
-<a href="http://grants.nih.gov/podcasts/All_About_Grants/episodes/RCR_December_2010.mp3" target="_blank">NIH Podcast "Training in the Responsible Conduct of Research"</a> 
+<ul>
+<li><a href="http://www.nigms.nih.gov/Training/responsibleconduct.htm" target="_blank">NIH - NIGMS "Guidance on Best Practices for Training in the Responsible Conduct of Research"</a></li>
+<li><a href="http://grants.nih.gov/podcasts/All_About_Grants/episodes/RCR_December_2010.mp3" target="_blank">NIH Podcast "Training in the Responsible Conduct of Research"</a></li>
 
 (16 minutes)
 
-<a href="http://www.nationalpostdoc.org/publications/toolkits/rcr-toolkit" target="_blank">The National Postdoc Association's "Responsible Conduct of Research (RCR) Toolkit"</a>
-<a href="http://policies.ucsf.edu/100/10029.HTM" target="_blank">UCSF Campus Administrative Policy 100-29 "Integrity of Research"</a>
-<a href="http://bioethics.net/" target="_blank">The American Journal of Bioethics</a>
+<li><a href="http://www.nationalpostdoc.org/publications/toolkits/rcr-toolkit" target="_blank">The National Postdoc Association's "Responsible Conduct of Research (RCR) Toolkit"</a></li>
+<li><a href="http://policies.ucsf.edu/100/10029.HTM" target="_blank">UCSF Campus Administrative Policy 100-29 "Integrity of Research"</a></li>
+<li><a href="http://bioethics.net/" target="_blank">The American Journal of Bioethics</a></li>
+</ul>
 
 
 #### NIH Public Access Policy and PubMed Central
 
 The NIH Public Access Policy ensures that the public has access to the published results of NIH funded research. It requires scientists to submit final peer-reviewed journal manuscripts that arise from NIH funds to the digital archive PubMed Central upon acceptance for publication. The policy applies to any manuscript that:
-<ul>
-<li>Is peer-reviewed;</li>
-<li>And, is accepted for publication in a journal on or after April 7, 2008;</li>
-<li>And, arises from any direct funding from an NIH grant, fellowship, or cooperative agreement active in Fiscal Year 2008 or beyond, or;</li>
-<li>Any direct funding from an NIH contract signed on or after April 7, 2008.</li>
-</ul>
-<em>For more information, please see:</em>
-<a href="http://grants.nih.gov/grants/guide/notice-files/NOT-OD-08-033.html" target="_blank">NIH Notice for Public Access</a>
-<a href="http://www.ncbi.nlm.nih.gov/pmc/about/public-access-info/" target="_blank">PMCID, PMID, NIHMSID - What's the Difference?</a>
-<a href="http://publicaccess.nih.gov/FAQ.htm" target="_blank">NIH Public Access Policy FAQ Page </a>
-<a href="http://www.ncbi.nlm.nih.gov/pmc/" target="_blank">PubMed Central (PMC) Homepage </a>
-<a href="http://www.nihms.nih.gov/" target="_blank">NIH Manuscript System (NIHMS) Homepage </a>
-<a href="http://www.ncbi.nlm.nih.gov/pmc/pmctopmid/" target="_blank">PMID: PMCID Converter</a>
-<a href="http://www.ncbi.nlm.nih.gov/sites/myncbi/" target="_blank">My NCBI</a>
 
+- Is peer-reviewed;
+- And, is accepted for publication in a journal on or after April 7, 2008;
+- And, arises from any direct funding from an NIH grant, fellowship, or cooperative agreement active in Fiscal Year 2008 or beyond, or;
+- Any direct funding from an NIH contract signed on or after April 7, 2008.
+
+*For more information, please see:*
+<ul>
+<li><a href="http://grants.nih.gov/grants/guide/notice-files/NOT-OD-08-033.html" target="_blank">NIH Notice for Public Access</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pmc/about/public-access-info/" target="_blank">PMCID, PMID, NIHMSID - What's the Difference?</a></li>
+<li><a href="http://publicaccess.nih.gov/FAQ.htm" target="_blank">NIH Public Access Policy FAQ Page </a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pmc/" target="_blank">PubMed Central (PMC) Homepage </a></li>
+<li><a href="http://www.nihms.nih.gov/" target="_blank">NIH Manuscript System (NIHMS) Homepage </a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pmc/pmctopmid/" target="_blank">PMID: PMCID Converter</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/sites/myncbi/" target="_blank">My NCBI</a></li>
+</ul>
 
 #### Resource/Data Sharing Plans (NIH and NSF Proposals)
 
-<a href="http://grants.nih.gov/grants/guide/notice-files/NOT-OD-03-032.html" target="_blank">NIH Data Sharing Policy</a>
-<a href="http://www.nsf.gov/bfa/dias/policy/dmp.jsp" target="_blank">NSF Data Sharing Policy</a>
-<a href="http://www.cdlib.org/services/uc3/datamanagement/" target="_blank">University of California – California Digital Library Job Aids</a>
+<ul>
+<li><a href="http://grants.nih.gov/grants/guide/notice-files/NOT-OD-03-032.html" target="_blank">NIH Data Sharing Policy</a></li>
+<li><a href="http://www.nsf.gov/bfa/dias/policy/dmp.jsp" target="_blank">NSF Data Sharing Policy</a></li>
+<li><a href="http://www.cdlib.org/services/uc3/datamanagement/" target="_blank">University of California – California Digital Library Job Aids</a>
 
 (for writing Data Management and Sharing plans)
 
-<a href="http://grants.nih.gov/podcasts/All_About_Grants/episodes/Resource_Sharing_May_2011.mp3" target="_blank">NIH Podcast "Sharing in the Research Sandbox"</a>
+</li>
+
+<li><a href="http://grants.nih.gov/podcasts/All_About_Grants/episodes/Resource_Sharing_May_2011.mp3" target="_blank">NIH Podcast "Sharing in the Research Sandbox"</a>
 
 (6 minutes)
 
-<a href="http://grants1.nih.gov/grants/policy/data_sharing/data_sharing_guidance.htm#ex" target="_blank">Sample NIH Data Sharing Plan</a>
-<a href="http://grants.nih.gov/grants/policy/data_sharing/data_sharing_faqs.htm" target="_blank">NIH Data Sharing FAQs Page</a>
-<a href="http://grants.nih.gov/grants/policy/data_sharing/" target="_blank">NIH Data Sharing Policy &amp; Guidance Page</a>
-<a href="http://grants.nih.gov/grants/policy/model_organism/" target="_blank">NIH Sharing Model Organism Information Page (includes sample plans)</a>
+</li>
 
+<li><a href="http://grants1.nih.gov/grants/policy/data_sharing/data_sharing_guidance.htm#ex" target="_blank">Sample NIH Data Sharing Plan</a></li>
+<li><a href="http://grants.nih.gov/grants/policy/data_sharing/data_sharing_faqs.htm" target="_blank">NIH Data Sharing FAQs Page</a></li>
+<li><a href="http://grants.nih.gov/grants/policy/data_sharing/" target="_blank">NIH Data Sharing Policy &amp; Guidance Page</a></li>
+<li><a href="http://grants.nih.gov/grants/policy/model_organism/" target="_blank">NIH Sharing Model Organism Information Page (includes sample plans)</a></li>
+</ul>
 
 #### Standard Proposal Information
 
+<pre>
 Fed Tax ID (TIN) Number: 94-6036493
 Fed Tax ID (TIN) Number for NIH Proposals: 1946036493A6
 Dun and Bradstreet (DUNS) Number: 09-487-8337
 Congressional District: 12 (CA-012 for NIH grants)
 Cognizant Fed Agency: DHHS (Contact: Janette Lu / (415) 437-7820)
 Type of institution: Public, nonprofit educational institution exempt under Section 501(c)(3) of IRS code
+</pre>
 
+*Institutional Review Board (IRB) assurance numbers:*
 
-
-Institutional Review Board (IRB) assurance numbers:
-Committee on Human Research: FWA 00000068 
+<pre>
+Committee on Human Research: FWA 00000068
 Animal Care and Use Committee: A3400-01
+</pre>
 
 Formal institutional name and address:
+<pre>
 The Regents of the University of California
 c/o Office of Sponsored Research
 3333 California Street, Suite 315
 San Francisco, CA 94143-0962 
 (use 94118-6215 for overnight mail)
+</pre>
 
-Institutional Official To List On Fellowship Applications
-Michelle Kim
+Institutional Official To List On Fellowship Applications:
+<pre>
+Michelle Kim Stevens
 Contracts and Grants Officer
 Office of Sponsored Research, Contracts and Grants
 University of California, San Francisco
@@ -261,10 +257,11 @@ University of California, San Francisco
 San Francisco, CA 94143-0962 
 Phone: (415) 476-9730
 Fax: (415) 502-8775
-Email: 
+Email: <span class="e">Michelle.Stevens / ucsf, edu</span>
+</pre>
 
-
-Institutional Official To List If Award Is Made
+Institutional Official To List If Award Is Made:
+<pre>
 Regnier Jurado
 Contract and Grants Officer
 Office of Sponsored Research, Contracts and Grants
@@ -273,31 +270,34 @@ University of California, San Francisco
 San Francisco, CA 94143-0962
 Telephone: (415) 476-2977
 Fax: (415) 476-8158
-Email: 
+Email: <span class="e">CGAwardTeam / ucsf, edu</span>
+</pre>
 
 Financial Official Contact Information:
+<pre>
 Jean DeMartini
 Manager, Controller's Office
 Phone: (415) 476-9641
+Email: <span class="e">jean.demartini / ucsf, edu</span> or <span class="e">controlleroffice / ucsf, edu</span>
+</pre>
 
-
-Email: 
 Checks should be made payable to:
-The Regents of the University of California
+<pre>The Regents of the University of California</pre>
 
 Checks for all awards should be mailed to:
+<pre>
 Controller’s Office, UCSF
 1855 Folsom Street, Suite 425, Box 0897
 San Francisco, CA 94143
 (use 94103 for courier service)
+</pre>
 
 Wire transfer of funds:
+<pre>
 Bank of America NA
 100 West 33rd Street
 New York, NY 10001
 Account #: 1233523601
-Routing #:&nbsp;&nbsp; 026009593
+Routing #: 026009593
 Swift Code: BOFAUS3N
-&nbsp;
-
- 
+</pre>
