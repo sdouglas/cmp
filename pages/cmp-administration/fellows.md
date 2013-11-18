@@ -14,7 +14,7 @@ title: CMP Fellowships
 
 Pre-award support for the Department of Cellular and Molecular Pharmacology is provided by UCSF Research Management Services (RMS).
 
-If you are interested in applying for a fellowship award, please notify your assigned RMS Research Services Coordinator (listed below) at least 30 days prior to the sponsor deadline. For larger fellowship applications, such as the NIH F32 or K99/R00 award applications, please allow at least 60 days advance notice.
+If you are interested in applying for a fellowship award, please notify your assigned RMS Research Services Coordinator (listed below) at least 30 days prior to the sponsor deadline. For larger fellowship applications, such as the NIH F32 or K99/R00 award applications, please allow at least 60 days advance notice. If the 30- or 60-day window has passed, please still contact your Research Services Coordinator and RMS will make every effort to accommodate your plans.
 
 <ul>
 <li>For postdoctoral fellows in the Douglas, Fujimori, and Weissman Labs, please contact Tracy Hamto via email at <span class="e">Patricia.Hamto / ucsf, edu</span>
@@ -85,12 +85,11 @@ Graduate students or postdoctoral fellows applying for an NIH F31, F32, or K-ser
 
 To have an account activated, please send an email with your name and email address to <span class="e">kerri.santos / ucsf, edu</span>. In the subject line of the email, note "Request for eRA Commons Account".
 
-More information on the NIH policy regarding postdoctoral fellows participating on NIH-funded projects can be located at the following link: 
-<a href="http://grants.nih.gov/grants/guide/notice-files/not-od-09-140.html" target="_blank">http://grants.nih.gov/grants/guide/notice-files/not-od-09-140.html </a>
+More information on the NIH policy regarding postdoctoral fellows participating on NIH-funded projects can be located at the following link: <a href="http://grants.nih.gov/grants/guide/notice-files/not-od-09-140.html" target="_blank">http://grants.nih.gov/grants/guide/notice-files/not-od-09-140.html </a>
 
 
 
-### NIH Kirschstein National Research Service Award (F32) Fellowship Award - Instructions, Forms and Resources For Preparing An Application
+### NIH Kirschstein National Research Service Award (F32) Fellowship Award
 #### Instructions, Forms and Resources For Preparing An Application
 
 <ul>
@@ -102,7 +101,7 @@ More information on the NIH policy regarding postdoctoral fellows participating 
 (19 minutes)</li>
 
 <li><a href="http://www.nigms.nih.gov/Training/IndivPostdoc/PostdocFellowsFAQ.htm" target="_blank">NIH (NIGMS) Individual Postdoctoral Fellowships FAQs Page</a></li>
-<li>eRA Commons Registration (please see the "NIH eRA Commons User IDs/Accounts" section above)</li>
+<li>eRA Commons Registration (please see the "<a href="#nih_era_commons_user_idsaccounts">NIH eRA Commons User IDs/Accounts</a>" section above)</li>
 <li><a href="http://grants.nih.gov/grants/guide/notice-files/NOT-OD-11-047.html" target="_blank">NIH Letters of Reference Due Date Policy</a></li>
 <li><a href="http://grants.nih.gov/grants/ElectronicReceipt/faq_full.htm#12" target="_blank">NIH Letters of Reference FAQs </a></li>
 <li><a href="http://grants.nih.gov/grants/funding/424/" target="_blank">"Letter of Reference" Reference Form</a>
@@ -118,7 +117,9 @@ More information on the NIH policy regarding postdoctoral fellows participating 
 <li><a href="http://grants.nih.gov/grants/funding/416-9/phs416-9.htm" target="_blank">Kirschstein/NRSA Progress Report Instructions (PHS416-9)</a></li>
 </ul>
 
-### NIH Pathway to Independence (K99/R00) Award - Instructions, Forms and Resources For Preparing An Application
+
+### NIH Pathway to Independence (K99/R00) Award
+#### Instructions, Forms and Resources For Preparing An Application
 
 <ul>
 <li><a href="http://grants.nih.gov/grants/guide/pa-files/PA-11-197.html" target="_blank">NIH Program Announcement</a>
@@ -134,7 +135,7 @@ More information on the NIH policy regarding postdoctoral fellows participating 
 
 <li><a href="http://grants.nih.gov/grants/new_investigators/QsandAs.htm" target="_blank">NIH New Investigators Program FAQs Page </a></li>
 
-<li>eRA Commons Registration (please see the "NIH eRA Commons User IDs/Accounts" section above)</li>
+<li>eRA Commons Registration (please see the "<a href="#nih_era_commons_user_idsaccounts">NIH eRA Commons User IDs/Accounts</a>" section above)</li>
 
 <li><a href="http://grants.nih.gov/grants/funding/424/" target="_blank">Letters of Reference - Referee Instructions</a>
 
@@ -152,8 +153,10 @@ More information on the NIH policy regarding postdoctoral fellows participating 
 
 #### Federal agency policies
 
-<a href="http://grants.nih.gov/grants/guide/notice-files/NOT-OD-10-019.html" target="_blank">NIH policy on instruction in the responsible conduct of research</a>
-<a href="http://edocket.access.gpo.gov/2009/E9-19930.htm" target="_blank">NSF policy on the instruction in the responsible conduct of research</a>
+<ul>
+<li><a href="http://grants.nih.gov/grants/guide/notice-files/NOT-OD-10-019.html" target="_blank">NIH policy on instruction in the responsible conduct of research</a></li>
+<li><a href="http://edocket.access.gpo.gov/2009/E9-19930.htm" target="_blank">NSF policy on the instruction in the responsible conduct of research</a></li>
+</ul>
 
 #### Training courses offered at UCSF
 
@@ -220,84 +223,4 @@ The NIH Public Access Policy ensures that the public has access to the published
 <li><a href="http://grants.nih.gov/grants/policy/model_organism/" target="_blank">NIH Sharing Model Organism Information Page (includes sample plans)</a></li>
 </ul>
 
-#### Standard Proposal Information
-
-<pre>
-Fed Tax ID (TIN) Number: 94-6036493
-Fed Tax ID (TIN) Number for NIH Proposals: 1946036493A6
-Dun and Bradstreet (DUNS) Number: 09-487-8337
-Congressional District: 12 (CA-012 for NIH grants)
-Cognizant Fed Agency: DHHS (Contact: Janette Lu / (415) 437-7820)
-Type of institution: Public, nonprofit educational institution exempt under Section 501(c)(3) of IRS code
-</pre>
-
-*Institutional Review Board (IRB) assurance numbers:*
-
-<pre>
-Committee on Human Research: FWA 00000068
-Animal Care and Use Committee: A3400-01
-</pre>
-
-Formal institutional name and address:
-<pre>
-The Regents of the University of California
-c/o Office of Sponsored Research
-3333 California Street, Suite 315
-San Francisco, CA 94143-0962 
-(use 94118-6215 for overnight mail)
-</pre>
-
-Institutional Official To List On Fellowship Applications:
-<pre>
-Michelle Kim Stevens
-Contracts and Grants Officer
-Office of Sponsored Research, Contracts and Grants
-University of California, San Francisco
-3333 California Street, Suite 315
-San Francisco, CA 94143-0962 
-Phone: (415) 476-9730
-Fax: (415) 502-8775
-Email: <span class="e">Michelle.Stevens / ucsf, edu</span>
-</pre>
-
-Institutional Official To List If Award Is Made:
-<pre>
-Regnier Jurado
-Contract and Grants Officer
-Office of Sponsored Research, Contracts and Grants
-University of California, San Francisco
-3333 California Street, Suite 315
-San Francisco, CA 94143-0962
-Telephone: (415) 476-2977
-Fax: (415) 476-8158
-Email: <span class="e">CGAwardTeam / ucsf, edu</span>
-</pre>
-
-Financial Official Contact Information:
-<pre>
-Jean DeMartini
-Manager, Controller's Office
-Phone: (415) 476-9641
-Email: <span class="e">jean.demartini / ucsf, edu</span> or <span class="e">controlleroffice / ucsf, edu</span>
-</pre>
-
-Checks should be made payable to:
-<pre>The Regents of the University of California</pre>
-
-Checks for all awards should be mailed to:
-<pre>
-Controller’s Office, UCSF
-1855 Folsom Street, Suite 425, Box 0897
-San Francisco, CA 94143
-(use 94103 for courier service)
-</pre>
-
-Wire transfer of funds:
-<pre>
-Bank of America NA
-100 West 33rd Street
-New York, NY 10001
-Account #: 1233523601
-Routing #: 026009593
-Swift Code: BOFAUS3N
-</pre>
+{% include standardproposal.md %}
