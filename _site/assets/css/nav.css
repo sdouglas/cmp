@@ -13,20 +13,21 @@ nav ul, nav ol {
 
 /* media Queriess */
 /* Mobile Portrait */
-.menu {margin-top:20px;}
+.menu {margin-top:26px;}
 .menu-column { position: relative; }
 .menu p {
-  background: none repeat scroll 0 0 #333333;
+
   border-radius: 4px 4px 4px 4px;
-  color: #CBCBCB;
-  font-family: "freight-sans-pro","times new roman";
+
   font-size: 22px;
   letter-spacing: 3px;
   padding: 0 7px 2px 11px;
   position: absolute;
   right: 45px;
   text-transform: uppercase;
-  top: -4px;
+  top: 4px;
+
+  font-size:18px;
 }
 
 p a {
@@ -50,8 +51,9 @@ p a {
   height: 4px;
   margin-bottom: 6px;
   border-radius: 1000px;
-  background: #a6a19b;
-  display: block; }
+  display: block; 
+  top:4px;
+}
 
 
 /* Navigation */

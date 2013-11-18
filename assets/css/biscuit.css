@@ -19,11 +19,11 @@ z-index:2147483647;
 */
 
 a.logo{ /*float:left;height:40px;margin-top:5px;*/
- display:block; margin:6px 0 0 0px;height:26px; width:79;float:left;
+ display:block; margin:17px 0 0 0px;height:26px; width:79;float:left;
  }
 
 a.ucsf {
-  display:block; margin:13px 0 0 6px;height:40px; width:100px;float:left;
+  display:block; margin:24px 0 0 6px;height:40px; width:100px;float:left;
 }
 
 a.logo{opacity:.85}
@@ -135,7 +135,7 @@ body.frontpage .top-margin {margin-top:110px;}
 body.default .top-margin {margin-top:80px;}
 body.contact .top-margin{margin-top:20px;}
 
-.frontpage .top {padding:100px 0 10px;margin:-160px 0 10px;}
+.frontpage .top {padding:100px 0 10px;margin:-200px 0 10px;}
 .icon-right-thin { position: relative; top: 2px; }
 
 body.frontpage .middle {padding:200px 0 20px 0;margin:-235px 0 0 0;}
@@ -149,12 +149,12 @@ body.frontpage .highlighted {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
   min-height: 150px;
-  padding: 1em 1em 1em 96px;
+  padding: 1em 1em 1em 105px;
   position: relative;
 }
 .feature i {
   font-size: 3em;
-  padding: 0 4px 0 14px;
+  padding: 0px 4px 0 28px;
   position: absolute;
   top: 0;
   left: 0;
