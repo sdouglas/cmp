@@ -6,12 +6,10 @@ html { font-size: 62.5%; }
 
 
 a.logo, a.logo:visited  {
-font-family: "Trebuchet MS", Helvetica, sans-serif;
-font-size: 3.5rem;
-font-weight: bold;
-text-decoration: none;
-line-height:1.7em;
-text-transform: uppercase;
+  font-weight: bold;
+  text-decoration: none;
+  line-height:1.7em;
+  text-transform: uppercase;
 }
 
 
@@ -19,17 +17,24 @@ text-transform: uppercase;
 /* Body */
 body {
   background-color: #ffffff;
-  font-family: "ff-tisa-web-pro",Georgia,Cambria,"Times New Roman",Times,serif;  line-height: 3rem;
-  color: #333;
+  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  
+  font-weight: 400;
+  font-style: normal;
+  font-size:20px;
+  line-height:30px;
+
+
+  color: #303030;
   margin: 0;
-  font-size:1.8rem;
-  line-height:2.7rem;
+
 
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
   font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
+
   }
 
 ::-moz-selection {
@@ -46,8 +51,7 @@ body {
 
 
 .footer-bottom {
-  font-family: "freight-sans-pro","Myriad Pro","Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Verdana,sans-serif;
-  font-weight:500;
+ 
   font-size:1.4rem;
   line-height:1.9rem;
 }
@@ -59,7 +63,6 @@ h1,
 h2,
 h3,
 h4 {
-  font-family: "freight-sans-pro","Myriad Pro","Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Verdana,sans-serif;
   font-weight: 700;
   font-style: normal;
   color:#5f554b;
@@ -67,8 +70,8 @@ h4 {
 
 h1 {
   letter-spacing: -1px;
-  font-size: 3.2rem;
-  line-height: 3.2rem;
+  font-size: 40rem;
+  line-height: 40rem;
   padding-bottom: 0px;
 }
 nav h1 {font-size:5rem;line-height: 6rem;}

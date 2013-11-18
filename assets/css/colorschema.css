@@ -60,15 +60,16 @@ body.frontpage {/*background:#fbfbfb;*/color:#333;}
 	color:#555;
 }
 
-.feature { background: #9DE1FD; }
+.feature { background: #e65d5d; }
 .feature i {
-  background: #83CBE9;
-  color: #ddd;
+  background: #c43434;
+  color: #fff;
 }
-.feature.students { background: #93E2A3; }
-.students i { background: #86CE94; }
-.feature.admin { background: #ECCDE0; }
-.admin i { background: #EC8DC5; }
+.feature p { color:#fff;}
+.feature.students { background: #6fc1d2; }
+.students i { background: #428e9e; }
+.feature.admin { background: #7dc692; }
+.admin i { background: #508b61; }
 
 .middle{background:#f2f2f2;}
 .highlighted{background-color: #ebebeb;}
