@@ -496,7 +496,7 @@ pre {
 }
 
 /* page-specific fixes */
-.Fellowships ul { margin: 0.5em 0; }
+.Fellowships ul { margin: 0.2em 0 1em; }
 
 table.people td { padding-right: 0.5em; }
 tr:hover { background-color: #f8f8f8; }

@@ -9,10 +9,10 @@ http://stgabriel.github.io/biscuit/pages/students/index.html
 http://stgabriel.github.io/biscuit/pages/faculty/index.html
 http://stgabriel.github.io/biscuit/pages/faculty/affiliated.html
 http://stgabriel.github.io/biscuit/pages/contact/index.html
-http://stgabriel.github.io/biscuit/pages/cmp-administration/grants.html
 http://stgabriel.github.io/biscuit/pages/cmp-administration/staff.html
 http://stgabriel.github.io/biscuit/pages/cmp-administration/index.html
 http://stgabriel.github.io/biscuit/pages/cmp-administration/purchasing.html
+http://stgabriel.github.io/biscuit/pages/cmp-administration/grants.html
 http://stgabriel.github.io/biscuit/pages/cmp-administration/computer-support/desktop-support.html
 http://stgabriel.github.io/biscuit/pages/cmp-administration/computer-support/index.html
 http://stgabriel.github.io/biscuit/pages/cmp-administration/computer-support/file-servers.html
