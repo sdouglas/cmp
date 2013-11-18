@@ -7,13 +7,13 @@ light-grey: #f2f2f2;
 
 /* Links */
 a,a:visited  {
-  color: #25aae1;
+  color: #2980b9;
   text-decoration: none;
   /*font-weight: bold;*/
 }
 
 a:hover {
-  color: #1D75BB;
+  color: #3498db;
   text-decoration: none; 
 }
 /*
@@ -32,21 +32,27 @@ a:active {
 #header{
 /*  background:#f7f7f7;
 background:#5f554b;*/
-background:#404040; /* or #333 */
+background:#2980b9; /* or #333 */
 }
 
 
 
+.menu p {
+ /* background: none repeat scroll 0 0 #3498db;*/
+  color: #77addb;
+}
+.menu span {
+    background: #62a2cb;
+}
 
 
-
-.footer-bottom {background:rgb(46, 41, 35);color:#5f554b;}
+.footer-bottom {background:#1c1c1c;color:#fff;}
 .footer-bottom a:link,
-.footer-bottom a:visited {color:#f0eae5;}
-.footer-bottom ul li {color:#bdae9f}
+.footer-bottom a:visited {color:#F2D984;}
+.footer-bottom ul li {color:#eee}
 .footer-bottom a:hover {color:#fff;}
-.footer-bottom time {color:#e5dfd8;font-size:1rem;}
-
+.footer-bottom time {color:#eee;font-size:1rem;}
+.footer-bottom h5 {color:#fff;}
 
 body.frontpage {/*background:#fbfbfb;*/color:#333;}
 
@@ -56,21 +62,30 @@ body.frontpage {/*background:#fbfbfb;*/color:#333;}
 
 
 .frontpage .top{
-  background:#404040;
+  background:#2980b9;
 	color:#555;
 }
 
-.feature { background: #e65d5d; }
+.feature {
+ background: #e65d5d;
+ line-height:25px;
+ font-size:17px;
+}
 .feature i {
-  background: #c43434;
+  background: #e65d5d; 
   color: #fff;
 }
-.feature p { color:#fff;}
-.feature.students { background: #6fc1d2; }
-.students i { background: #428e9e; }
-.feature.admin { background: #7dc692; }
-.admin i { background: #508b61; }
+.feature p { 
+  color:#fff;
+  margin-bottom:5px;
+  line-height:25px;
+}
 
-.middle{background:#f2f2f2;}
+.feature.students { background: #dfbc42; }
+.students i { background: #dfbc42; }
+.feature.admin { background: #6fc1d2; }
+.admin i { background: #6fc1d2; }
+
+.middle{background:#f5f5f5;}
 .highlighted{background-color: #ebebeb;}
 

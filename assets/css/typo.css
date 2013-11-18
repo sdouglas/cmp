@@ -65,7 +65,7 @@ h3,
 h4 {
   font-weight: 700;
   font-style: normal;
-  color:#5f554b;
+  color:#303030;
 }
 
 h1 {
@@ -84,7 +84,7 @@ h2 {
 }
 /* front page stuff */
 .middle h2 {}
-.middle h2 em{color:#57ad68;font-style:normal;}
+.middle h2 em{color:#e74c3c;font-style:normal;}
 
 h3 {
   font-size: 2.1rem;
