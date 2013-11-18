@@ -81,11 +81,14 @@ body.frontpage {/*background:#fbfbfb;*/color:#333;}
   line-height:25px;
 }
 
+.feature a {
+  color:#0F2E42;
+}
+
 .feature.students { background: #dfbc42; }
 .students i { background: #dfbc42; }
 .feature.admin { background: #6fc1d2; }
 .admin i { background: #6fc1d2; }
 
 .middle{background:#f5f5f5;}
-.highlighted{background-color: #ebebeb;}
 
