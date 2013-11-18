@@ -449,8 +449,8 @@ pre {
   transition: font-size 0.3s ease, background-color 0.3s ease;
 }
 .pages-menu ul li a:hover {
-  color:#444;
-  background: #f6f6f6;
+  color:#fff;
+  background: #62a2cb;
   font-size: 1.7rem;
 }
 
@@ -471,7 +471,7 @@ pre {
 .Chemical.Graduate .ccbgrad,
 .Postdoctoral .postdocs,
 .Student .students {
-  background: #5f554b;
+  background: #62a2cb;
   color: white;
 }
 .Faculty:not(.Affiliates) .faculty:hover,
@@ -490,7 +490,7 @@ pre {
 .Chemical.Graduate .ccbgrad:hover,
 .Postdoctoral .postdocs:hover,
 .Student .students:hover {
-  background: #5f554b;
+  background: #62a2cb;
   color: white;
   font-size: 1.4rem;
   cursor: default;

@@ -91,7 +91,7 @@ nav hr {
   display: block;
   height: 1px;
   border: 0;
-  border-top: 5px solid #AB9987;
+  border-top: 5px solid #2980b9;
   margin: 1em 0;
   padding: 0; }
 
@@ -100,7 +100,7 @@ nav hr {
   margin-bottom: 2em;
   font-weight: bold;
   font-size: 0.77273em;
-  color: #AB9987; }
+  color: #2980b9; }
 
 .headline a {
   float: right;
@@ -113,7 +113,7 @@ nav ul {
   padding: 0; }
 
 nav li {
-  border-top: 2px solid #AB9987;
+  border-top: 2px solid #2980b9;
   -moz-transition: all 0.2s ease-out;
   -o-transition: all 0.2s ease-out;
   -webkit-transition: all 0.2s ease-out;
@@ -127,7 +127,7 @@ nav li {
 nav li:hover,
 nav li.view-all:hover,
 .nav-close span:hover {
-  background: #AB9987;
+  background: #2980b9;
   -moz-transition: all 0.2s ease-out;
   -o-transition: all 0.2s ease-out;
   -webkit-transition: all 0.2s ease-out;
@@ -144,7 +144,7 @@ nav li:hover:after { /* right angle bracket on right edge of menu item */
 }
 
 nav li:last-child {
-  border-bottom: 2px solid #AB9987; }
+  border-bottom: 2px solid #2980b9; }
 nav li.view-all { /* link to blog index */
   text-transform: none;
   background: #F0EDEA;
@@ -152,7 +152,7 @@ nav li.view-all { /* link to blog index */
   left: -4px;
 }
 nav li a {
-  color: #5f554b;
+  color: #2980b9;
   width: 100;
   display: block;
   margin: -0.6em;
@@ -160,7 +160,7 @@ nav li a {
   position: relative; }
 
 nav li a:visited {
-  color: #5f554b; }
+  color: #2980b9; }
 
 nav li a:hover {
   color: #fff;
@@ -171,7 +171,7 @@ nav li a:hover {
   margin: 0;
 }
 .nav-close span {
-  background: #5f554b;
+  background: #2980b9;
   border-radius: 8px 8px 0 0;
   color:#fff;
   cursor: pointer;
