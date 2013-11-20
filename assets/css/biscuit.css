@@ -172,22 +172,26 @@ th.sort-header::selection {
   background:transparent;
   }
 table th.sort-header:after {
-  content:'';
+  content:'[sort]';
+  font-size: 1.3rem;
   float:right;
-  margin-top:7px;
-  border-width:0 4px 4px;
-  border-style:solid;
-  border-color:#404040 transparent;
-  visibility:hidden;
+  margin-right: 14px;
+  opacity:0.4;
   }
 table th.sort-header:hover:after {
-  visibility:visible;
+  opacity:1;
   }
 table th.sort-up:after,
 table th.sort-down:after,
 table th.sort-down:hover:after {
-  visibility:visible;
+  content:'';
+  margin-top:7px;
+  margin-right:14px;
+  border-width:0 4px 4px;
+  border-style:solid;
+  border-color:#404040 transparent;
   opacity:0.4;
+  visibility:visible;
   }
 table th.sort-up:after {
   border-bottom:none;

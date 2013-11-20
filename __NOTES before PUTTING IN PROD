@@ -1,20 +1,28 @@
 To do:
 
+sortable tables: th arrow
+sort algorithm glitch?
 
-color scheme
+use _include to reduce duplication in staff tables
+
+breadcrumbs (blog pages done. faculty?)
+close nav - spacing, size
 
 clean the content on:
  - teaching page , (image: float?)
  - students,
  - postdocs,
  - fellows
- grants
+ - grants
  cmp admin pages
+        computer support [desktop, email, file, index]
+        index
+        purchasing
+        
  (and see if there are any else)
         applying: contact info. #details? styling
 link to graduate.ucsf broken
 
-? make slide backgrounds the light grey used on the front page.
 
 
 
@@ -25,12 +33,15 @@ examine on small screens
 news content: delete jekyll dummy post. new site launch post.
 search? (referenced in administration paragraph)
 what's atom and rss error in js console with stgabriel.github?
-"ref_id = psi"
+maruku on console: "ref_id = psi"
 "syntaxhighlighter is not defined"
 "Conversion error: There was an error converting '_posts/blog/2013-05-27-ron-vale-wins-lasker-award.markdown/#excerpt'."
+
 minify and concatenate assets, files
+        use grunt or uglify?
 
 DONE?
+? make slide backgrounds the light grey used on the front page.
 blog index listing: typography/spacing
 make a nice light grey square bullet for unordered lists.
 make nice ordered lists.
