@@ -1,6 +1,5 @@
 To do:
 
-sortable tables: th arrow
 sort algorithm glitch?
 
 use _include to reduce duplication in staff tables
@@ -20,6 +19,7 @@ clean the content on:
         purchasing
         
  (and see if there are any else)
+        bio pages?
         applying: contact info. #details? styling
 link to graduate.ucsf broken
 

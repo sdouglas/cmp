@@ -6,13 +6,14 @@ title: Department of Cellular and Molecular Pharmacology
 
 ### Chair:
 
-Kevan Shokat
+[Kevan Shokat]({{ BASE_URL }}/faculty/kevan-shokat)
 
 ### Vice Chairs:
 
-Wendell Lim<br>
-Ron Vale<br>
-Jonathan Weissman and Holly Ingraham
+[Wendell Lim]({{ BASE_URL }}/faculty/wendell-lim)<br>
+[Ron Vale]({{ BASE_URL }}/faculty/ron-vale)<br>
+[Jonathan Weissman]({{ BASE_URL }}/faculty/jonathan-weissman)<br>
+[Holly Ingraham]({{ BASE_URL }}/faculty/holly-ingraham)
 
 ### Address
 
@@ -22,9 +23,8 @@ Mission Bay Campus<br>
 Genentech Hall, Room S-222<br>
 San Francisco, CA 94158-2140<br>
 
-<p><i class="icon-phone">&nbsp;</i> 415 476-514-9746</p>
-
-<p><i class="icon-print">&nbsp;</i> Fax: 415 476-5292</p>
+<p><i class="icon-phone">&nbsp;</i> 415 476-514-9746<br>
+<i class="icon-print">&nbsp;</i> Fax: 415 476-5292</p>
 
 
 ### Directions
