@@ -148,8 +148,10 @@ nav li:last-child {
 nav li.view-all { /* link to blog index */
   text-transform: none;
   background: #F0EDEA;
+}
+nav li.view-all a {
   position: relative;
-  left: -4px;
+  left: -6px;
 }
 nav li a {
   color: #2980b9;
@@ -168,7 +170,7 @@ nav li a:hover {
 
 .nav-close {
   text-align: center;
-  margin: 0;
+  margin: 4rem 0 0;
 }
 .nav-close span {
   background: #2980b9;
@@ -176,5 +178,6 @@ nav li a:hover {
   color:#fff;
   cursor: pointer;
   display: inline-block;
+  font-size: 1.4rem;
   padding: 10px 15px 5px;
 }
