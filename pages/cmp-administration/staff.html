@@ -5,19 +5,20 @@ title: CMP Staff
 --- 
 
 
-<table class="people sortable">
+<table class="people sortable" id="sortable">
   <thead>
         <tr>
-        <th class="sort">Name <i class="icon-up-open-mini"></i></th>
-        <th class="sort">Position <i class="icon-up-open-mini"></i></th>
+        <th class="sort">Name</th>
+        <th class="sort">Position</th>
         <th>E-mail</th>
         <th>Phone</th>
         </tr>
   </thead>
   <tbody>
     {% for x in site.categories.staff %}
-  <tr>
-  <td><a href="{{ x.url }}">{{ x.title }}</a></td>
+        {% assign names = x.title | split: ' ' %}
+	<tr>
+	<td data-sort="{{ names.last }}"><a href="{{ x.url }}">{{ x.title }}</a></td>
   <td>{{ x.position }}</td>
   <td><span class="e">{{ x.email_prefix }} / {{ x.email_suffix }} </span></td>
   <td>{{ x.phone }}</td>
@@ -26,5 +27,7 @@ title: CMP Staff
 </tbody>
 </table>
 
-<script src="{{ BASE_URL }}/assets/js/jquery.sortElements.js"></script>
 <script src="{{ BASE_URL }}/assets/js/tablesort.js"></script>
+<script>
+  new Tablesort(document.getElementById('sortable'));
+</script>
