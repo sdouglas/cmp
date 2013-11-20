@@ -29,4 +29,8 @@ title: Faculty Affiliates
 <script src="{{ BASE_URL }}/assets/js/tablesort.js"></script>
 <script>
   new Tablesort(document.getElementById('sortable'));
+  /* repeat three times due to glitch in initial ascending sort - on this page only */
+  $('thead tr th:first-child').click();
+  $('thead tr th:first-child').click();
+  $('thead tr th:first-child').click();
 </script>

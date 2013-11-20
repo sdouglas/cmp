@@ -451,7 +451,7 @@ pre {
   transition: font-size 0.3s ease, background-color 0.3s ease;
 }
 .pages-menu ul li a:hover {
-  color:#fff;
+  color:#aaa;
   background: #62a2cb;
   font-size: 1.7rem;
 }
