@@ -4,7 +4,7 @@ categories: faculty
 title: Susan Masters
 position: Professor, Teaching Faculty
 email_prefix: susan.masters
-email_suffix: ucsf / edu
+email_suffix: ucsf, edu
 phone: 415 476-4541
 fax: 
 website: 

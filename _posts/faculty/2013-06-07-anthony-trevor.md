@@ -4,7 +4,7 @@ categories: faculty
 title: Anthony Trevor
 position: Professor Emeritus
 email_prefix: ajtrevor
-email_suffix: gmail / com
+email_suffix: gmail, com
 phone: 
 fax: 
 website: 
