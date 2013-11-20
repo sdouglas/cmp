@@ -72,7 +72,7 @@ body.frontpage #page, body.contact #page {min-height:0;}
 #back-to-top a:hover {
   background: url("/images/icon_sprites.png") no-repeat 0 -320px; }
 
-
+th.sort:hover { cursor: pointer; }
 
  
 /* tag_box */

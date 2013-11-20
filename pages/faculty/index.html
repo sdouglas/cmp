@@ -7,7 +7,15 @@ title: Faculty Members
 
 
 
-<table class="people">
+<table class="people sortable">
+  <thead>
+        <tr>
+        <th class="sort">Name <i class="icon-up-open-mini"></i></th>
+        <th class="sort">Position <i class="icon-up-open-mini"></i></th>
+        <th>E-mail</th>
+        <th>Phone</th>
+        </tr>
+  </thead>
   <tbody>
     {% for x in site.categories.faculty %}
 	<tr>
@@ -19,3 +27,6 @@ title: Faculty Members
 	{% endfor %}
 </tbody>
 </table>
+
+<script src="{{ BASE_URL }}/assets/js/jquery.sortElements.js"></script>
+<script src="{{ BASE_URL }}/assets/js/tablesort.js"></script>

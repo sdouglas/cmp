@@ -52,7 +52,7 @@
         <link rel="apple-touch-icon" sizes="72x72" href="/assets/icons/apple-touch-icon-72x72.png">
         <link rel="apple-touch-icon" sizes="114x114" href="/assets/icons/apple-touch-icon-114x114.png">
 
-        <link href="http://stgabriel.github.io/mungbean/rss.xml" rel="alternate" title="RSS" type="application/rss+xml" />
+        <link href="http://stgabriel.github.io/biscuit/rss.xml" rel="alternate" title="RSS" type="application/rss+xml" />
 
     </head>
     <body class="default Faculty Members">
@@ -214,7 +214,15 @@
 
 	<div class="col nine tablet-nine mobile-full">
 	<h2>Faculty Members</h2>
-	<table class="people">
+	<table class="people sortable">
+  <thead>
+        <tr>
+        <th class="sort">Name <i class="icon-up-open-mini"></i></th>
+        <th class="sort">Position <i class="icon-up-open-mini"></i></th>
+        <th>E-mail</th>
+        <th>Phone</th>
+        </tr>
+  </thead>
   <tbody>
     
 	<tr>
@@ -367,6 +375,9 @@
 </tbody>
 </table>
 
+<script src="/assets/js/jquery.sortElements.js"></script>
+<script src="/assets/js/tablesort.js"></script>
+
 	</div>
 
 </section>
@@ -442,7 +453,7 @@
                 designed by <a href="http://muckypaw.com">muckypaw</a>
                 <br>
                 <br>
-                <a href="http://stgabriel.github.io/mungbean/rss.xml" id="rss"></a>
+                <a href="http://stgabriel.github.io/biscuit/rss.xml" id="rss"></a>
       </div>
 
   </section>
