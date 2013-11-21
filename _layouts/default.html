@@ -7,43 +7,19 @@
         <!-- Enable responsive viewport -->
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+        <!-- Custom CSS and Fonts
+        ================================================== -->
+        <link rel="stylesheet" href="/assets/css/bundled.css">
+        <link href='http://fonts.googleapis.com/css?family=Lato:400,700,400italic' rel='stylesheet' type='text/css'>
+
+        <!-- Scripts
+        ================================================== -->
+
         <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
         <!--[if lt IE 9]>
           <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
         <![endif]-->
-
-        <!--
-        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-        -->
-
-        <!-- load jquery locally for local dev speed -->
-        <script src="/assets/js/jquery.1.9.1.min.js"></script>
-      
-
-        <script src="/assets/js/default.js"></script>
-
-        <!-- rapid.js for navigation -->
-        <script src="/assets/js/rapid.js"></script>
-
-
-        <!-- https://github.com/bjornjohansen/jQuery-Email-Link -->
-        <script src="/assets/js/concealemail.js"></script>
-
-        <!--initialises email concealment js -->
-        <script>(function($) {
-          $(document).ready( function() {
-          $('.e').emailLink();
-            } );
-          })(jQuery);
-        </script>
-
-        <!-- syntax highlighting CSS -->
-        <link rel="stylesheet" href="/assets/css/syntax.css">
-
-        <!-- Custom CSS -->
-        <link rel="stylesheet" href="/assets/css/main.css">
-
-        <link href='http://fonts.googleapis.com/css?family=Lato:400,700,400italic' rel='stylesheet' type='text/css'>
+        <script src="/assets/js/bundled.js"></script>
         
         <!-- Favicons
         ================================================== -->
@@ -52,6 +28,8 @@
         <link rel="apple-touch-icon" sizes="72x72" href="/assets/icons/apple-touch-icon-72x72.png">
         <link rel="apple-touch-icon" sizes="114x114" href="/assets/icons/apple-touch-icon-114x114.png">
 
+        <!-- RSS Feed
+        ================================================== -->
         <link href="{{ site.production_url }}{{ site.rss_path }}" rel="alternate" title="RSS" type="application/rss+xml" />
 
     </head>

@@ -2,6 +2,8 @@
 http://stgabriel.github.io/biscuit/index.html
 http://stgabriel.github.io/biscuit/blog/index.html
 http://stgabriel.github.io/biscuit/rss.xml
+http://stgabriel.github.io/biscuit/assets/css/bundled.css
+http://stgabriel.github.io/biscuit/assets/js/bundled.js
 http://stgabriel.github.io/biscuit/atom.xml
 http://stgabriel.github.io/biscuit/sitemap.txt
 http://stgabriel.github.io/biscuit/pages/teaching/index.html

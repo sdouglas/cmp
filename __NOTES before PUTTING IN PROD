@@ -22,6 +22,7 @@ clean the content on:
         applying: contact info. #details? styling
 link to graduate.ucsf broken
 
+front page: spacing on icon's of feature boxes, hover opacity change
 
 
 
@@ -33,11 +34,13 @@ news content: delete jekyll dummy post. new site launch post.
 search? (referenced in administration paragraph)
 what's atom and rss error in js console with stgabriel.github?
 maruku on console: "ref_id = psi"
-"syntaxhighlighter is not defined" - script on site index page, also unused css
+"syntaxhighlighter is not defined" - script on site index page, also unused css syntax.css
 "Conversion error: There was an error converting '_posts/blog/2013-05-27-ron-vale-wins-lasker-award.markdown/#excerpt'."
 
+jquery cached or CDN trick
 minify and concatenate assets, files
         use grunt or uglify?
+script files at end?
 
 DONE?
 ? make slide backgrounds the light grey used on the front page.
