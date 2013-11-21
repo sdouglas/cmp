@@ -4,18 +4,6 @@ To do:
 use _include to reduce duplication in staff tables
 
 breadcrumbs (blog pages done. faculty?)
-drop-down menu ''close'' nav - spacing, size
-
-clean the content on:
- - teaching page , (image: float?)
- - students,
- - postdocs,
- - fellows
- - grants
- cmp admin pages
-        computer support [desktop, email, file, index]
-        index
-        purchasing
         
  (and see if there are any else)
         bio pages?
@@ -41,6 +29,7 @@ jquery cached or CDN trick
 minify and concatenate assets, files
         use grunt or uglify?
 script files at end?
+slider without jquery? (save 92k)
 
 DONE?
 ? make slide backgrounds the light grey used on the front page.

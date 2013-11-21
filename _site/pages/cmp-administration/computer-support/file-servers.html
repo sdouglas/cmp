@@ -192,17 +192,39 @@
 
 	<div class="col nine tablet-nine mobile-full">
 	<h2>Connecting to the CMP Fileserver</h2>
-	<h2>How to connect to cmp file server from Windows OS (Windows XP)</h2> 
+	<h3 id='how_to_connect_to_cmp_file_server_from_windows_os_windows_xp'>How to connect to cmp file server from Windows OS (Windows XP)</h3>
 
-1.&nbsp;&nbsp;&nbsp; Right-click on "My Computer" (note this can vary on the version of windows you are on.. if not on the desktop please look in the "Start" menu.<br> 2.&nbsp;&nbsp;&nbsp; Select the option "map network drive"<br> 3.&nbsp;&nbsp;&nbsp; A window will appear the default drive map will be Z: (note you can change this if you wish, best to leave the default)<br> 4.&nbsp;&nbsp;&nbsp; In the field labeled "Folder:" please type the path to the network share that you are trying to connect to eg: \\servername.ucsf.edu\share_point<br> 5.&nbsp;&nbsp;&nbsp; Depending on your options either select or disselect the "Reconnect at logon" box NOTE: if this is a share you use every day this is a good option.<br> 6.&nbsp;&nbsp;&nbsp; If you are not bound to the server or the password differs from your login please choose the option "Connect using a differnet user name" "different user name" is a hyperlink if selected you get a box to type your username and pass into.<br> 7.&nbsp;&nbsp;&nbsp; Type your username and password and then choose "Finish" this will give you access to the share.. you should now see the Z: drive mounted under your computer.<br>
+<ol>
+<li>Right-click on &#8220;My Computer&#8221; (note this can vary on the version of windows you are on.. if not on the desktop please look in the &#8220;Start&#8221; menu.</li>
 
+<li>Select the option &#8220;map network drive&#8221;</li>
 
-<h3>How to connect to the CMP File Server from Windows OS (VISTA OR WIN7)</h3>
+<li>A window will appear the default drive map will be Z: (<em>NOTE: you can change this if you wish, it&#8217;s best to leave the default</em>)</li>
 
- NOTE: If you are running Windows Vista or Windows 7 you will have to make the following changes to the Windows Security Policy. The default setup<br>allows you to connect to a bound windows server… Please make the following changes<br>Open <br>Control Panel - Administrative Tools - Local Security Policy <br><br>Local Policies - Security Options <br><br>Network security: LAN Manager authentication level <br>Send LM &amp; NTLM responses <br><br>Minimum session security for NTLM SSP <br>Disable Require 128-bit encryption<br><br>After you make the following changes you should be able to follow steps 1-7 above and connect to the server.</p>
-<p>&nbsp;</p>
+<li>In the field labeled &#8220;Folder:&#8221; please type the path to the network share that you are trying to connect to eg: <code>\\servername.ucsf.edu\share_point</code></li>
 
+<li>Depending on your options either select or deselect the &#8220;Reconnect at logon&#8221; box (<em>NOTE: if this is a share you use every day this is a good option.</em>)</li>
 
+<li>If you are not bound to the server or the password differs from your login please choose the option &#8220;Connect using a differnet user name&#8221; &#8220;different user name&#8221; is a hyperlink if selected you get a box to type your username and pass into.</li>
+
+<li>Type your username and password and then choose &#8220;Finish&#8221; this will give you access to the share.. you should now see the Z: drive mounted under your computer.</li>
+</ol>
+
+<h3 id='how_to_connect_to_the_cmp_file_server_from_windows_os_vista_or_win7'>How to connect to the CMP File Server from Windows OS (VISTA OR WIN7)</h3>
+
+<p>NOTE: If you are running Windows Vista or Windows 7 you will have to make the following changes to the Windows Security Policy. The default setup allows you to connect to a bound windows server … Please make the following changes</p>
+<code>
+Open Control Panel - Administrative Tools - Local Security Policy 
+
+Local Policies - Security Options 
+
+Network security: LAN Manager authentication level 
+Send LM &amp; NTLM responses 
+
+Minimum session security for NTLM SSP 
+Disable Require 128-bit encryption
+</code>
+<p>After you make the following changes you should be able to follow steps 1-7 above and connect to the server.</p>
 	</div>
 
 </section>
