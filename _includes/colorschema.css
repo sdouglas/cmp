@@ -46,7 +46,7 @@ background:#2980b9; /* or #333 */
 }
 
 
-.footer-bottom {background:#1c1c1c;color:#fff;}
+.footer-bottom {background-color:#1c1c1c;color:#fff;}
 .footer-bottom a:link,
 .footer-bottom a:visited {color:#F2D984;}
 .footer-bottom ul li {color:#eee}

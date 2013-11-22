@@ -155,7 +155,7 @@ nav li.view-all a {
 }
 nav li a {
   color: #2980b9;
-  width: 100;
+  width: 100%;
   display: block;
   margin: -0.6em;
   padding: 0.6em;

@@ -19,7 +19,7 @@ z-index:2147483647;
 */
 
 a.logo{ /*float:left;height:40px;margin-top:5px;*/
- display:block; margin:17px 0 0 0px;height:26px; width:79;float:left;
+ display:block; margin:17px 0 0 0px;height:26px; width:79px;float:left;
  }
 
 a.ucsf {
@@ -163,20 +163,39 @@ table th.sort-up:after {
 /* -- Mobile Devices (Layout, Modifications, etc)
    ========================================================================== */
 @media only screen and (max-width: 761px) {
-  header {height:70px;}
-  nav h1 {font-size:2rem;}
+  header {height:70px; line-height: 1.5}
+  nav h1 {font-size:2rem; line-height: 1.5}
 
   .top-margin{margin-top:60px;}
 
   h1 {font-size:3rem;line-height:3.5rem;margin:10px 0;}
-  h2 {font-size:1.8rem;}
+  h2 {font-size:1.8rem; line-height:1.4;}
+  
   /* front page */
 
-
+  .frontpage #page { display: none; }
+  body.frontpage .middle {
+    margin: 3rem 0 0;
+    padding: 1rem 0 0.5rem;
+  }
   /* news, latest blogs.. stops being on the right margin, text enlarges */
-  body.frontpage .middle #news {font-size:1.8rem;border:none;text-align:left;}
+  body.frontpage .middle #news {
+    font-size:1.8rem;
+    border:none;
+    text-align:left;
+  }
+  #more-news {
+    display: block;
+    float: right;
+    margin-top: -10px;
+  }
   .middle #news ul {list-style: none;padding-left:0;}
 
+  body.frontpage .highlighted { margin: 0; padding: 0; }
+  .content-inner.features { padding: 0; }
+  
+  .details { margin-top: -2rem; padding-bottom: 160px; }
+  
   .footer-bottom {font-size:1.6rem;line-height:2.2rem;}
 
 }
