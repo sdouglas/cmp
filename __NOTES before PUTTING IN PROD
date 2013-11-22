@@ -1,12 +1,12 @@
-To do:
+To check/discuss:
         
 Kruidering bio page: text says 'link given above' -- there is none
 Front page: administration paragraph says 'search this Web Site'
+- tell shawn i think the Research and Administration headings on the front page, if they are to remain there, should be links
 Contact page: gave #map a max-height instead of height. ok?
 
-/* misc
 
-examine on small screens
+/* misc
 
 news content: delete jekyll dummy post. new site launch post.
 what's atom and rss error in js console with stgabriel.github?
@@ -16,33 +16,6 @@ jquery cached or CDN trick
 script files at end?
 slider without jquery? (save 92k)
 
-DONE?
-? make slide backgrounds the light grey used on the front page.
-blog index listing: typography/spacing
-make a nice light grey square bullet for unordered lists.
-make nice ordered lists.
-
-
-DONE:
-Grants/Fellowships side menu both highlighted
-check that rss is behaving
-- rss. posts from blog only
-- add link
-- autodiscovery link. template header.
-check that sitemap is behaving
-- uses 'production_url' to construct base url
-
-favicons.
-images for /cmp-administration
-faculty bios. pics?
-icons. fontello or similar, for front page links, for administration page.
-create a page that just lists blog entries. blog index page.
-page sidebar link .current-page or something?
-*/
-
-
-
-- tell shawn i think the Research and Administration headings on the front page, if they are to remain there, should be links
 
 __NOTES before PUTTING IN PROD	
 

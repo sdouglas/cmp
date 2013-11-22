@@ -146,8 +146,15 @@ table th.sort-up:after {
   border-width:4px 4px 0;
   }
   
-  
-/* images */
+.post-more {
+  font-size: 1.6rem;
+  margin-bottom: 6rem;
+}
+.post-more a {
+  float: right;
+  margin: -2em 0em 0em;
+}
+/* images: class to wrap full-width responsive images or images sized by column */
 .stretch { margin-right: 20px; }
 .stretch img { width: 100%; }
 
