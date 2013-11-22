@@ -13,4 +13,4 @@ info: Administrative Assistant Ned Molyneaux may be contacted on 415 514-3792 or
 image: ingraham.jpg
 ---
 
-Our lab focuses on the development of endocrine and brain tissues important in energy balance and reproduction. We are defining regulatory mechanisms underlying these early developmental events using biochemistry and vertebrate animal model systems. We are now investigating how environmental factors impact the fetal endocrine and neuroendocrine systems. Click on our Research Page for more information
+Our lab focuses on the development of endocrine and brain tissues important in energy balance and reproduction. We are defining regulatory mechanisms underlying these early developmental events using biochemistry and vertebrate animal model systems. We are now investigating how environmental factors impact the fetal endocrine and neuroendocrine systems. Click on our Research Page for more information.

@@ -13,10 +13,12 @@ info: Administrative Assistant Jennifer Banaszek may be contacted on 415 476-844
 image: yamamoto.jpg
 ---
 
-Signaling and Transcriptional Regulation by Intracellular Receptors 
+### Signaling and Transcriptional Regulation by Intracellular Receptors 
+
 We study the activity of the intracellular receptors (IRs), including receptors for glucocorticoids (GR), androgens (AR) and thyroid hormone (TR), in signal transduction and transcriptional control. These hormone-receptor complexes bind to specific DNA sequences termed hormone response elements, which enhance or repress linked promoters. 
 
 Our goal is to understand the molecular and cellular logic by which IRs integrate multiple signaling inputs to produce specific, distinct and coherentresponses. 
+
 We have defined IR domains for hormone and DNA binding, dimerization, nuclear localization, phosphorylation, interaction with various cellular factors and transcriptional regulation. IRs functions faithfully when expressed in simpler organisms such as yeast and Drosophila, thus facilitating genetic analyses of their actions and identification of other factors involved in its activities. Studies of IRs in C. elegans permit analyses of developmental and physiologic control by these factors in an experimentally accessible metazoan. 
 
 We are also pursuing 3D structure analyses of various domains of the receptor, and we employ biochemical strategies with purified components for mechanistic analyses. Thus, using genetic, structural, molecular and biochemical approaches, we use IRs as "biological probes" to define how a single regulatory protein can specify diverse patterns of specific gene expression in different cellular contexts. 

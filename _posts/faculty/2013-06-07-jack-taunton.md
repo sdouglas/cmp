@@ -13,7 +13,9 @@ info: Administrative Assistant Valerie Ohman may be contacted on 415 502-1475 or
 image: taunton.jpg
 ---
 
-Research in my laboratory follows two intersecting trajectories: 
-(1) a cell biology trajectory, in which we pursue a biochemical dissection of the signals that control actin assembly and force generation on the surface of cellular membranes; and (2) a chemistry trajectory, in which we synthesize small molecule tools to perturb and thereby illuminate cellular functions. 
+
+Research in my laboratory follows two intersecting trajectories:
+1. a cell biology trajectory, in which we pursue a biochemical dissection of the signals that control actin assembly and force generation on the surface of cellular membranes; and 
+2. a chemistry trajectory, in which we synthesize small molecule tools to perturb and thereby illuminate cellular functions. 
 
 We have used a structural bioinformatics approach to design ultra-specific protein kinase inhibitors. In addition, we have synthesized cotransin, a macrocyclic depsipeptide with potent anti-inflammatory activity. Biochemical and cell biological experiments have revealed its molecular target and mechanism of action.

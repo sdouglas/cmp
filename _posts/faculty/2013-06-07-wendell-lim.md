@@ -13,7 +13,14 @@ info: Administrative Assistant Noleine Blizzard may be contacted on 415 514-4137
 image: lim.jpg
 ---
 
-The Molecular Logic of Cellular Signaling Systems Signal transduction Protein-protein recognition Protein switches and networks Signaling protein and network evolution Systems biology Biological computation Synthetic biology 
+**The Molecular Logic of Cellular Signaling Systems**  
+**Signal transduction**  
+**Protein-protein recognition**  
+**Protein switches and networks**  
+**Signaling protein and network evolution**  
+**Systems biology**  
+**Biological computation**  
+**Synthetic biology**  
 
 Livings cells process vast amounts of environmental information to generate sophisticated responses such as movement, growth, and differentiation. Such decisions are made by complex networks of signal transduction proteins. One of the most challenging problems in modern biology is understanding how these networks of proteins act to carry out these remarkable behaviors. 
 
