@@ -18,14 +18,13 @@ title: Faculty Members
   </thead>
   <tbody>
     {% for x in site.categories.faculty %}
-        {% assign names = x.title | split: ' ' %}
 	<tr>
-	<td data-sort="{{ names.last }}"><a href="{{ x.url }}">{{ x.title }}</a></td>
+	<td><a href="{{ x.url }}">{{ x.title }}</a></td>
 	<td>{{ x.position }}</td>
 	<td><span class="e">{{ x.email_prefix }} / {{ x.email_suffix }} </span></td>
 	<td>{{ x.phone }}</td>
 	</tr>
-	{% endfor %}
+    {% endfor %}
 </tbody>
 </table>
 

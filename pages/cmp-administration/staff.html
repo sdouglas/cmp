@@ -16,15 +16,14 @@ title: CMP Staff
   </thead>
   <tbody>
     {% for x in site.categories.staff %}
-        {% assign names = x.title | split: ' ' %}
-	<tr>
-	<td data-sort="{{ names.last }}"><a href="{{ x.url }}">{{ x.title }}</a></td>
-  <td>{{ x.position }}</td>
-  <td><span class="e">{{ x.email_prefix }} / {{ x.email_suffix }} </span></td>
-  <td>{{ x.phone }}</td>
-  </tr>
-  {% endfor %}
-</tbody>
+      <tr>
+      <td><a href="{{ x.url }}">{{ x.title }}</a></td>
+      <td>{{ x.position }}</td>
+      <td><span class="e">{{ x.email_prefix }} / {{ x.email_suffix }} </span></td>
+      <td>{{ x.phone }}</td>
+      </tr>
+    {% endfor %}
+  </tbody>
 </table>
 
 <script src="{{ BASE_URL }}/assets/js/tablesort.js"></script>

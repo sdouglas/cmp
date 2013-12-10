@@ -3,10 +3,10 @@
 <channel>
         <title></title>
         <description> - </description>
-        <link>http://stgabriel.github.io/biscuit/rss.xml</link>
-        <link>http://stgabriel.github.io/biscuit</link>
-        <lastBuildDate>2013-11-21T23:51:08-05:00</lastBuildDate>
-        <pubDate>2013-11-21T23:51:08-05:00</pubDate>
+        <link>http://sdouglas.github.io/cmp/rss.xml</link>
+        <link>http://sdouglas.github.io/cmp</link>
+        <lastBuildDate>2013-12-10T18:00:03-05:00</lastBuildDate>
+        <pubDate>2013-12-10T18:00:03-05:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -45,8 +45,8 @@
 &lt;h5 id='good_grief'&gt;Good Grief!&lt;/h5&gt;
 
 &lt;p&gt;Say goodbye to these, because it&amp;#8217;s the last time! No, I did not kill Kitty. However, I am going to oblige and answer the nice officer&amp;#8217;s questions because I am an honest man with no secrets to hide. That&amp;#8217;s why you always leave a note! Say goodbye to these, because it&amp;#8217;s the last time! What&amp;#8217;s Spanish for &amp;#8220;I know you speak English?&amp;#8221; As you may or may not know, Lindsay and I have hit a bit of a rough patch.&lt;/p&gt;</description>
-                <link>http://stgabriel.github.io/biscuit/blog/New-CMP-Site</link>
-                <guid>http://stgabriel.github.io/biscuit/blog/New-CMP-Site</guid>
+                <link>http://sdouglas.github.io/cmp/blog/New-CMP-Site</link>
+                <guid>http://sdouglas.github.io/cmp/blog/New-CMP-Site</guid>
                 <pubDate>2013-05-27T06:39:23-04:00</pubDate>
         </item>
 
@@ -62,8 +62,8 @@
 &lt;span class='c1'&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;Check out the &lt;a href='http://jekyllrb.com'&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href='https://github.com/mojombo/jekyll'&gt;Jekyll&amp;#8217;s GitHub repo&lt;/a&gt;.&lt;/p&gt;</description>
-                <link>http://stgabriel.github.io/biscuit/blog/welcome-to-jekyll</link>
-                <guid>http://stgabriel.github.io/biscuit/blog/welcome-to-jekyll</guid>
+                <link>http://sdouglas.github.io/cmp/blog/welcome-to-jekyll</link>
+                <guid>http://sdouglas.github.io/cmp/blog/welcome-to-jekyll</guid>
                 <pubDate>2013-05-18T06:39:23-04:00</pubDate>
         </item>
 
@@ -73,8 +73,8 @@
 
 &lt;p&gt;Ron receives this award with collaborators Michael Sheetz of Columbia University and James Spudich of Stanford University. The award was given for discoveries concerning cytoskeletal motor proteins, machines that move cargoes within cells, contract muscles, and enable cell movements. &lt;a href='http://www.laskerfoundation.org/awards/2012basic.htm'&gt;read more&lt;/a&gt;&lt;/p&gt;
 &lt;img src='/assets/images/blog/ron-vale-lasker.jpg' /&gt;</description>
-                <link>http://stgabriel.github.io/biscuit/blog/ron-vale-wins-lasker-award</link>
-                <guid>http://stgabriel.github.io/biscuit/blog/ron-vale-wins-lasker-award</guid>
+                <link>http://sdouglas.github.io/cmp/blog/ron-vale-wins-lasker-award</link>
+                <guid>http://sdouglas.github.io/cmp/blog/ron-vale-wins-lasker-award</guid>
                 <pubDate>2012-12-27T05:39:23-05:00</pubDate>
         </item>
 

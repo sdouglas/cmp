@@ -7,7 +7,7 @@ pygments: true
 # permalink: /:categories/:year/:month/:day/:title 
 permalink: /:categories/:title 
 
-production_url : http://stgabriel.github.io/biscuit
+production_url : http://sdouglas.github.io/cmp
 
 atom_path: /atom.xml
 rss_path: /rss.xml

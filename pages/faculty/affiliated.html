@@ -15,22 +15,19 @@ title: Faculty Affiliates
   </thead>
   <tbody>
     {% for x in site.categories.affiliated-faculty %}
-        {% assign names = x.title | split: ' ' %}
 	<tr>
-	<td data-sort="{{ names.last }}"><a href="{{ x.url }}">{{ x.title }}</a></td>
+	<td><a href="{{ x.url }}">{{ x.title }}</a></td>
 	<td>{{ x.position }}</td>
 	<td><span class="e">{{ x.email_prefix }} / {{ x.email_suffix }} </span></td>
 	<td>{{ x.phone }}</td>
 	</tr>
-	{% endfor %}
+    {% endfor %}
 </tbody>
 </table>
 
 <script src="{{ BASE_URL }}/assets/js/tablesort.js"></script>
 <script>
   new Tablesort(document.getElementById('sortable'));
-  /* repeat three times due to glitch in initial ascending sort - on this page only */
-  $('thead tr th:first-child').click();
-  $('thead tr th:first-child').click();
+  /* glitch in initial ascending sort - on this page only, 'John' instead of 'Alan' first before 'Bruce' */
   $('thead tr th:first-child').click();
 </script>
