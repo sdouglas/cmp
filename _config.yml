@@ -7,7 +7,7 @@ pygments: true
 # permalink: /:categories/:year/:month/:day/:title 
 permalink: /:categories/:title 
 
-production_url : http://sdouglas.github.io/cmp
+production_url : http://cmp-dev.ucsf.edu
 
 atom_path: /atom.xml
 rss_path: /rss.xml
