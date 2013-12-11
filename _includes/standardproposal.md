@@ -5,8 +5,11 @@ Fed Tax ID (TIN) Number: 94-6036493
 Fed Tax ID (TIN) Number for NIH Proposals: 1946036493A6
 Dun and Bradstreet (DUNS) Number: 09-487-8337
 Congressional District: 12 (CA-012 for NIH grants)
-Cognizant Fed Agency: DHHS (Contact: Janette Lu / (415) 437-7820)
-Type of institution: Public, nonprofit educational institution exempt under Section 501(c)(3) of IRS code
+Cognizant Fed Agency: 
+DHHS (Contact: Janette Lu / (415) 437-7820)
+Type of institution: 
+Public, nonprofit educational institution 
+exempt under Section 501(c)(3) of IRS code
 </pre>
 
 #### Institutional Review Board (IRB) assurance numbers:
