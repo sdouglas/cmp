@@ -24,6 +24,7 @@ http://sdouglas.github.io/cmp/pages/what-is-this-index.html
 http://sdouglas.github.io/cmp/rss.xml
 http://sdouglas.github.io/cmp/sitemap.txt
 
+http://sdouglas.github.io/cmp/blog/New-CMP-Site
 http://sdouglas.github.io/cmp/faculty/wendell-lim
 http://sdouglas.github.io/cmp/faculty/shawn-douglas
 http://sdouglas.github.io/cmp/faculty/ron-vale
@@ -41,8 +42,6 @@ http://sdouglas.github.io/cmp/faculty/dyche-mullins
 http://sdouglas.github.io/cmp/faculty/danica-galonic-fujimori
 http://sdouglas.github.io/cmp/faculty/bertram-katzung
 http://sdouglas.github.io/cmp/faculty/anthony-trevor
-http://sdouglas.github.io/cmp/blog/New-CMP-Site
-http://sdouglas.github.io/cmp/blog/welcome-to-jekyll
 http://sdouglas.github.io/cmp/faculty/susan-masters
 http://sdouglas.github.io/cmp/affiliated-faculty/sophie-dumont
 http://sdouglas.github.io/cmp/affiliated-faculty/shaun-coughlin
