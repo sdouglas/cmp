@@ -1,0 +1,110 @@
+---
+layout: page
+category: page
+title: Faculty Publications
+---
+
+<p>Recent Journal Articles by members of the department of Cellular and Molecular Pharmacology</p>
+
+<div id="output">
+	<ul>
+	</ul>
+</div>
+
+
+<!--script src="{{ BASE_URL }}/assets/js/tablesort.js"></script-->
+<script src="http://yui.yahooapis.com/3.14.1/build/yui/yui-min.js"></script>
+<script>
+YUI({ filter:'raw' }).use("io-xdr", "json-parse", "node",
+    function(Y) {
+
+        //Data fetched will be displayed in a UL in the
+        //element #output:
+        var output = Y.one("#output ul");
+
+        //Event handler called when the transaction begins:
+        var handleStart = function(id, a) {
+            Y.log("io:start firing.", "info", "example");
+            output.set("innerHTML", "<li>Loading news stories via Yahoo! Pipes feed...</li>");
+        }
+
+        //Event handler for the success event -- use this handler to write the fetched
+        //RSS items to the page.
+        var handleSuccess = function(id, o, a) {
+
+            //We use JSON.parse to sanitize the JSON (as opposed to simply performing an
+            //JavaScript eval of the data):
+            //var oRSS 
+			oRSS = Y.JSON.parse(o.responseText);
+			console.log(oRSS);
+
+            //From here, we simply access the JSON data from where it's provided
+            //in the Yahoo! Pipes output:
+            if (oRSS && oRSS.count) {
+
+                var s = "<!--begin news stories fetched via Yahoo! Pipes-->",
+                    //t in this case is our simple template; this is fed to
+                    //Y.Lang.sub() as we loop through RSS items:
+                    t = "<li><p>{author}. <a href='{link}'>{title}</a>. <em>{journal}</em></p></li>",
+					t2 = "{cmpresults[1].content}";
+
+                for (var i=0; i<oRSS.count; i++) {
+					cmpr = oRSS.value.items[i].cmpresults;
+					oCMP = {
+						author : cmpr[3].content.substring(9),
+						journal : cmpr[2].content,
+						title : cmpr[1].content,
+						link : oRSS.value.items[i].link
+					};
+                    s += Y.Lang.sub(t, oCMP);
+                }
+
+                //Output the string to the page:
+                output.set("innerHTML", s);
+                output.addClass("yui-null");
+
+            } else {
+                //No news stories were found in the feed.
+                var s = "<li>The RSS feed did not return any items.</li>";
+            }
+        }
+
+        //In the event that the HTTP status returned does not resolve to,
+        //HTTP 2xx, a failure is reported and this function is called:
+        var handleFailure = function(id, o, a) {
+            Y.log("ERROR " + id + " " + a, "info", "example");
+        }
+
+        //With all the apparatus in place, we can now configure our
+        //IO call.  The method property is defined, but if omitted,
+        //IO will default to HTTP GET.
+        var cfg = {
+            method: "GET",
+            xdr: {
+                use:'native'
+            },
+            on: {
+                //Our event handlers previously defined:
+                start: handleStart,
+                success: handleSuccess,
+                failure: handleFailure
+            }
+        };
+
+        var getPipeOutput = function(o) {
+            Y.log("Beginning Yahoo! Pipes io request", "info", "example");
+	    // Remove the default "X-Requested-With" header as this will
+	    // prevent the request from succeeding; the Pipes
+	    // resource will not accept user-defined HTTP headers.
+	    Y.io.header('X-Requested-With');
+            var obj = Y.io(
+                //PubMed RSS passed through Yahoo Pipe created by Byron:
+                "http://pipes.yahooapis.com/pipes/pipe.run?_id=990b35874ebd134b1e7be96a2c4ae177&_render=json",
+                cfg
+            );
+        }
+
+		getPipeOutput();
+    }
+);
+</script>
