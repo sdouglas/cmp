@@ -1,7 +1,7 @@
 ---
 layout: page
 category: page
-title: Faculty Publications
+title: Publications
 ---
 
 <p>Recent Journal Articles by members of the department of Cellular and Molecular Pharmacology</p>
@@ -25,7 +25,7 @@ YUI({ filter:'raw' }).use("io-xdr", "json-parse", "node",
         //Event handler called when the transaction begins:
         var handleStart = function(id, a) {
             Y.log("io:start firing.", "info", "example");
-            output.set("innerHTML", "<li>Loading news stories via Yahoo! Pipes feed...</li>");
+            output.set("innerHTML", "<li>Loading news stories from PubMed feed...</li>");
         }
 
         //Event handler for the success event -- use this handler to write the fetched
@@ -34,19 +34,16 @@ YUI({ filter:'raw' }).use("io-xdr", "json-parse", "node",
 
             //We use JSON.parse to sanitize the JSON (as opposed to simply performing an
             //JavaScript eval of the data):
-            //var oRSS 
-			oRSS = Y.JSON.parse(o.responseText);
-			console.log(oRSS);
+            var oRSS = Y.JSON.parse(o.responseText);
 
             //From here, we simply access the JSON data from where it's provided
             //in the Yahoo! Pipes output:
             if (oRSS && oRSS.count) {
 
-                var s = "<!--begin news stories fetched via Yahoo! Pipes-->",
+                var s = "<!--begin publications filtered through Yahoo! Pipes-->",
                     //t in this case is our simple template; this is fed to
                     //Y.Lang.sub() as we loop through RSS items:
-                    t = "<li><p>{author}. <a href='{link}'>{title}</a>. <em>{journal}</em></p></li>",
-					t2 = "{cmpresults[1].content}";
+                    t = "<li><p>{author}. <a href='{link}'>{title}</a>. <em>{journal}</em></p></li>";
 
                 for (var i=0; i<oRSS.count; i++) {
 					cmpr = oRSS.value.items[i].cmpresults;
@@ -91,20 +88,16 @@ YUI({ filter:'raw' }).use("io-xdr", "json-parse", "node",
             }
         };
 
-        var getPipeOutput = function(o) {
-            Y.log("Beginning Yahoo! Pipes io request", "info", "example");
 	    // Remove the default "X-Requested-With" header as this will
 	    // prevent the request from succeeding; the Pipes
 	    // resource will not accept user-defined HTTP headers.
 	    Y.io.header('X-Requested-With');
-            var obj = Y.io(
-                //PubMed RSS passed through Yahoo Pipe created by Byron:
-                "http://pipes.yahooapis.com/pipes/pipe.run?_id=990b35874ebd134b1e7be96a2c4ae177&_render=json",
-                cfg
-            );
-        }
+        var obj = Y.io(
+            //PubMed RSS passed through Yahoo Pipe created by Byron:
+            "http://pipes.yahooapis.com/pipes/pipe.run?_id=990b35874ebd134b1e7be96a2c4ae177&_render=json",
+            cfg
+        );
 
-		getPipeOutput();
     }
 );
 </script>

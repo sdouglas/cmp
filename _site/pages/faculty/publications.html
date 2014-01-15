@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Faculty Publications</title>
+        <title>Publications</title>
         <!-- Enable responsive viewport -->
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -33,7 +33,7 @@
         <link href="http://cmp-dev.ucsf.edu/rss.xml" rel="alternate" title="RSS" type="application/rss+xml" />
 
     </head>
-    <body class="default Faculty Publications">
+    <body class="default Publications">
       
       <header id="header">
   <div class="container content-inner">
@@ -84,6 +84,7 @@
 			    <ul>
 					<li><a href="/pages/faculty"><span>Faculty</span></a></li>
 					<li><a href="/pages/faculty/affiliated.html">Affiliated Faculty</a></li>
+					<li><a href="/pages/faculty/publications.html">Publications</a></li>
 					
 					<li> <a href="/pages/teaching">Teaching</a> </li>
        
@@ -155,6 +156,7 @@
 		<li><a class="faculty" href="/pages/faculty">Faculty</a></li>
 		<li><a class="affiliated" href="/pages/faculty/affiliated.html">Affiliated Faculty</a></li>
 		<li><a class="staff" href="/pages/cmp-administration/staff.html">Staff Lists</a></li>
+		<li><a class="publications" href="/pages/faculty/publications.html">Publications</a></li>
 	</ul>
 	<ul>
 		<li><a class="cmp-administration" href="/pages/cmp-administration"><span>Central Admin</span></a></li>
@@ -185,7 +187,7 @@
 	</div>
 
 	<div class="col nine tablet-nine mobile-full">
-	<h2>Faculty Publications</h2>
+	<h2>Publications</h2>
 	<p>Recent Journal Articles by members of the department of Cellular and Molecular Pharmacology</p>
 
 <div id="output">
@@ -207,7 +209,7 @@ YUI({ filter:'raw' }).use("io-xdr", "json-parse", "node",
         //Event handler called when the transaction begins:
         var handleStart = function(id, a) {
             Y.log("io:start firing.", "info", "example");
-            output.set("innerHTML", "<li>Loading news stories via Yahoo! Pipes feed...</li>");
+            output.set("innerHTML", "<li>Loading news stories from PubMed feed...</li>");
         }
 
         //Event handler for the success event -- use this handler to write the fetched
@@ -216,19 +218,16 @@ YUI({ filter:'raw' }).use("io-xdr", "json-parse", "node",
 
             //We use JSON.parse to sanitize the JSON (as opposed to simply performing an
             //JavaScript eval of the data):
-            //var oRSS 
-			oRSS = Y.JSON.parse(o.responseText);
-			console.log(oRSS);
+            var oRSS = Y.JSON.parse(o.responseText);
 
             //From here, we simply access the JSON data from where it's provided
             //in the Yahoo! Pipes output:
             if (oRSS && oRSS.count) {
 
-                var s = "<!--begin news stories fetched via Yahoo! Pipes-->",
+                var s = "<!--begin publications filtered through Yahoo! Pipes-->",
                     //t in this case is our simple template; this is fed to
                     //Y.Lang.sub() as we loop through RSS items:
-                    t = "<li><p>{author}. <a href='{link}'>{title}</a>. <em>{journal}</em></p></li>",
-					t2 = "{cmpresults[1].content}";
+                    t = "<li><p>{author}. <a href='{link}'>{title}</a>. <em>{journal}</em></p></li>";
 
                 for (var i=0; i<oRSS.count; i++) {
 					cmpr = oRSS.value.items[i].cmpresults;
@@ -273,20 +272,16 @@ YUI({ filter:'raw' }).use("io-xdr", "json-parse", "node",
             }
         };
 
-        var getPipeOutput = function(o) {
-            Y.log("Beginning Yahoo! Pipes io request", "info", "example");
 	    // Remove the default "X-Requested-With" header as this will
 	    // prevent the request from succeeding; the Pipes
 	    // resource will not accept user-defined HTTP headers.
 	    Y.io.header('X-Requested-With');
-            var obj = Y.io(
-                //PubMed RSS passed through Yahoo Pipe created by Byron:
-                "http://pipes.yahooapis.com/pipes/pipe.run?_id=990b35874ebd134b1e7be96a2c4ae177&_render=json",
-                cfg
-            );
-        }
+        var obj = Y.io(
+            //PubMed RSS passed through Yahoo Pipe created by Byron:
+            "http://pipes.yahooapis.com/pipes/pipe.run?_id=990b35874ebd134b1e7be96a2c4ae177&_render=json",
+            cfg
+        );
 
-		getPipeOutput();
     }
 );
 </script>
