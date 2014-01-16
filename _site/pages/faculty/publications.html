@@ -195,6 +195,7 @@
 	</ul>
 </div>
 
+<p>View the <a href="http://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&amp=&term=((Correia,+Maria+Almira%5BAuthor%5D)+OR+(Fujimori,+Danica+Galonic%5BAuthor%5D)+OR+(Mullins,+Dyche%5BAuthor%5D)+OR+(Bourne,+Henry%5BAuthor%5D)+OR+(Ingraham,+Holly%5BAuthor%5D)+OR+(Taunton,+Jack%5BAuthor%5D)+OR+(Wells,+James%5BAuthor%5D)+OR+(Lansman,+Jeffry%5BAuthor%5D)+OR+(Weissman,+Jonathan%5BAuthor%5D)+OR+(Yamamoto,+Keith%5BAuthor%5D)+OR+(Shokat,+Kevan%5BAuthor%5D)+OR+(Brinen,+Linda%5BAuthor%5D)+OR+(Kruidering-Hall,+Marieke%5BAuthor%5D)+OR+(Krogan,+Nevan%5BAuthor%5D)+OR+(Nicoll,+Roger%5BAuthor%5D)+OR+(Vale,+Ronald%5BAuthor%5D)+OR+(Douglas,+Shawn+M%5BAuthor%5D)+OR+(Masters,+Susan%5BAuthor%5D)+OR+(Lim,+Wendell%5BAuthor%5D))+AND+san+francisco%5BAffiliation%5D">complete list of Faculty Publications</a> on PubMed.</p>
 
 <!--script src="/assets/js/tablesort.js"></script-->
 <script src="http://yui.yahooapis.com/3.14.1/build/yui/yui-min.js"></script>
@@ -227,7 +228,7 @@ YUI({ filter:'raw' }).use("io-xdr", "json-parse", "node",
                 var s = "<!--begin publications filtered through Yahoo! Pipes-->",
                     //t in this case is our simple template; this is fed to
                     //Y.Lang.sub() as we loop through RSS items:
-                    t = "<li><p>{author}. <a href='{link}'>{title}</a>. <em>{journal}</em></p></li>";
+                    t = "<li><p>{author}. <a href='{link}'>{title}</a> <em>{journal}</em></p></li>";
 
                 for (var i=0; i<oRSS.count; i++) {
 					cmpr = oRSS.value.items[i].cmpresults;
