@@ -188,105 +188,63 @@
 
 	<div class="col nine tablet-nine mobile-full">
 	<h2>Publications</h2>
-	<p>Recent Journal Articles by members of the department of Cellular and Molecular Pharmacology</p>
+	<p>Recent Journal Articles by members of the department of Cellular and Molecular Pharmacology. <span id="article-count"></span></p>
 
-<div id="output">
-	<ul>
+<div>
+	<ul id="output">
 	</ul>
 </div>
 
 <p>View the <a href="http://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&amp=&term=((Correia,+Maria+Almira%5BAuthor%5D)+OR+(Fujimori,+Danica+Galonic%5BAuthor%5D)+OR+(Mullins,+Dyche%5BAuthor%5D)+OR+(Bourne,+Henry%5BAuthor%5D)+OR+(Ingraham,+Holly%5BAuthor%5D)+OR+(Taunton,+Jack%5BAuthor%5D)+OR+(Wells,+James%5BAuthor%5D)+OR+(Lansman,+Jeffry%5BAuthor%5D)+OR+(Weissman,+Jonathan%5BAuthor%5D)+OR+(Yamamoto,+Keith%5BAuthor%5D)+OR+(Shokat,+Kevan%5BAuthor%5D)+OR+(Brinen,+Linda%5BAuthor%5D)+OR+(Kruidering-Hall,+Marieke%5BAuthor%5D)+OR+(Krogan,+Nevan%5BAuthor%5D)+OR+(Nicoll,+Roger%5BAuthor%5D)+OR+(Vale,+Ronald%5BAuthor%5D)+OR+(Douglas,+Shawn+M%5BAuthor%5D)+OR+(Masters,+Susan%5BAuthor%5D)+OR+(Lim,+Wendell%5BAuthor%5D))+AND+san+francisco%5BAffiliation%5D">complete list of Faculty Publications</a> on PubMed.</p>
 
-<!--script src="/assets/js/tablesort.js"></script-->
-<script src="http://yui.yahooapis.com/3.14.1/build/yui/yui-min.js"></script>
-<script>
-YUI({ filter:'raw' }).use("io-xdr", "json-parse", "node",
-    function(Y) {
 
-        //Data fetched will be displayed in a UL in the
-        //element #output:
-        var output = Y.one("#output ul");
+<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+<script type="text/javascript">
+	google.load("feeds", "1");
+	
+	function loadRSS(){
+		feed = new google.feeds.Feed("http://www.ncbi.nlm.nih.gov/entrez/eutils/erss.cgi?rss_guid=1twh4oYFmCRuDlG4PTTL4a2kmNM8rY-dXItW1pzGi6bs7Ck9nw");
+		feed.setNumEntries(20);
+		feed.load(function(result) {
+			if (!result.error) {
+				rsspubs = result.feed;
+				var container = document.getElementById("output");
 
-        //Event handler called when the transaction begins:
-        var handleStart = function(id, a) {
-            Y.log("io:start firing.", "info", "example");
-            output.set("innerHTML", "<li>Loading news stories from PubMed feed...</li>");
-        }
+				$('#article-count').text("(number of entries returned: "+result.feed.entries.length+")");
+				for (var i = 0; i < result.feed.entries.length; i++) {
+					var entry = result.feed.entries[i];
+					var li = container.appendChild( document.createElement('li') );
 
-        //Event handler for the success event -- use this handler to write the fetched
-        //RSS items to the page.
-        var handleSuccess = function(id, o, a) {
+					// authors
+					li.appendChild( document.createTextNode(entry.author+". ") );
 
-            //We use JSON.parse to sanitize the JSON (as opposed to simply performing an
-            //JavaScript eval of the data):
-            var oRSS = Y.JSON.parse(o.responseText);
+					// article title (as link)
+					var link = document.createElement('a');
+					link.href = entry.link;
+					li.appendChild( link ).appendChild(
+						document.createTextNode(entry.title+" ")
+					);
 
-            //From here, we simply access the JSON data from where it's provided
-            //in the Yahoo! Pipes output:
-            if (oRSS && oRSS.count) {
+					// journal title
+					/* Convert HTML-string 'content' of the RSS entry into HTML tree, 
+					** and grab the fourth element, which is a <p> containing name of journal */
+					var journal = $.parseHTML( entry.content )[4];
+					li.appendChild(
+						document.createElement('em')
+					).appendChild(
+						document.createTextNode( journal.innerHTML )
+					);
+				} //for
+				
+			} //if
+		});
+	}
 
-                var s = "<!--begin publications filtered through Yahoo! Pipes-->",
-                    //t in this case is our simple template; this is fed to
-                    //Y.Lang.sub() as we loop through RSS items:
-                    t = "<li><p>{author}. <a href='{link}'>{title}</a> <em>{journal}</em></p></li>";
+	$(document).ready( function(){
+		loadRSS();
+	});
 
-                for (var i=0; i<oRSS.count; i++) {
-					cmpr = oRSS.value.items[i].cmpresults;
-					oCMP = {
-						author : cmpr[3].content.substring(9),
-						journal : cmpr[2].content,
-						title : cmpr[1].content,
-						link : oRSS.value.items[i].link
-					};
-                    s += Y.Lang.sub(t, oCMP);
-                }
-
-                //Output the string to the page:
-                output.set("innerHTML", s);
-                output.addClass("yui-null");
-
-            } else {
-                //No news stories were found in the feed.
-                var s = "<li>The RSS feed did not return any items.</li>";
-            }
-        }
-
-        //In the event that the HTTP status returned does not resolve to,
-        //HTTP 2xx, a failure is reported and this function is called:
-        var handleFailure = function(id, o, a) {
-            Y.log("ERROR " + id + " " + a, "info", "example");
-        }
-
-        //With all the apparatus in place, we can now configure our
-        //IO call.  The method property is defined, but if omitted,
-        //IO will default to HTTP GET.
-        var cfg = {
-            method: "GET",
-            xdr: {
-                use:'native'
-            },
-            on: {
-                //Our event handlers previously defined:
-                start: handleStart,
-                success: handleSuccess,
-                failure: handleFailure
-            }
-        };
-
-	    // Remove the default "X-Requested-With" header as this will
-	    // prevent the request from succeeding; the Pipes
-	    // resource will not accept user-defined HTTP headers.
-	    Y.io.header('X-Requested-With');
-        var obj = Y.io(
-            //PubMed RSS passed through Yahoo Pipe created by Byron:
-            "http://pipes.yahooapis.com/pipes/pipe.run?_id=990b35874ebd134b1e7be96a2c4ae177&_render=json",
-            cfg
-        );
-
-    }
-);
 </script>
-
 	</div>
 
 </section>
