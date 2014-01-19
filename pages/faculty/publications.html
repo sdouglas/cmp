@@ -11,7 +11,7 @@ title: Publications
 	</ul>
 </div>
 
-<p>View the <a href="http://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&amp=&term=((Correia,+Maria+Almira%5BAuthor%5D)+OR+(Fujimori,+Danica+Galonic%5BAuthor%5D)+OR+(Mullins,+Dyche%5BAuthor%5D)+OR+(Bourne,+Henry%5BAuthor%5D)+OR+(Ingraham,+Holly%5BAuthor%5D)+OR+(Taunton,+Jack%5BAuthor%5D)+OR+(Wells,+James%5BAuthor%5D)+OR+(Lansman,+Jeffry%5BAuthor%5D)+OR+(Weissman,+Jonathan%5BAuthor%5D)+OR+(Yamamoto,+Keith%5BAuthor%5D)+OR+(Shokat,+Kevan%5BAuthor%5D)+OR+(Brinen,+Linda%5BAuthor%5D)+OR+(Kruidering-Hall,+Marieke%5BAuthor%5D)+OR+(Krogan,+Nevan%5BAuthor%5D)+OR+(Nicoll,+Roger%5BAuthor%5D)+OR+(Vale,+Ronald%5BAuthor%5D)+OR+(Douglas,+Shawn+M%5BAuthor%5D)+OR+(Masters,+Susan%5BAuthor%5D)+OR+(Lim,+Wendell%5BAuthor%5D))+AND+san+francisco%5BAffiliation%5D">complete list of Faculty Publications</a> on PubMed.</p>
+<p>View the <a href="{{site.pubmed_link}}">complete list of Faculty Publications</a> on PubMed.</p>
 
 
 <script type="text/javascript" src="https://www.google.com/jsapi"></script>
@@ -19,7 +19,7 @@ title: Publications
 	google.load("feeds", "1");
 	
 	function loadRSS(){
-		feed = new google.feeds.Feed("http://www.ncbi.nlm.nih.gov/entrez/eutils/erss.cgi?rss_guid=1twh4oYFmCRuDlG4PTTL4a2kmNM8rY-dXItW1pzGi6bs7Ck9nw");
+		feed = new google.feeds.Feed("{{site.pubmed_rss}}");
 		feed.setNumEntries(20);
 		feed.load(function(result) {
 			if (!result.error) {

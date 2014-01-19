@@ -1,22 +1,22 @@
 codename: biscuit
 =================
 
-Jekyll Site for CMP
+#Jekyll Site for CMP
 
-The publications page is dynamically generated (i.e. created in the browser) so that it will always reflect the latest faculty publications.
+The publications page is dynamically generated (i.e. created in the browser) so that it will always reflect the latest faculty publications, provided PubMed is provided with the updated search terms.
 
-1. Start with PubMed search for authors that are CMP faculty --
+To force an update to the publications results when faculty change, you only need to edit `_config.yml` - specifically the `pubmed_link` and `pubmed_rss` variables:
 
-	http://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&amp=&term=((Correia,+Maria+Almira%5BAuthor%5D)+OR+(Fujimori,+Danica+Galonic%5BAuthor%5D)+OR+(Mullins,+Dyche%5BAuthor%5D)+OR+(Bourne,+Henry%5BAuthor%5D)+OR+(Ingraham,+Holly%5BAuthor%5D)+OR+(Taunton,+Jack%5BAuthor%5D)+OR+(Wells,+James%5BAuthor%5D)+OR+(Lansman,+Jeffry%5BAuthor%5D)+OR+(Weissman,+Jonathan%5BAuthor%5D)+OR+(Yamamoto,+Keith%5BAuthor%5D)+OR+(Shokat,+Kevan%5BAuthor%5D)+OR+(Brinen,+Linda%5BAuthor%5D)+OR+(Kruidering-Hall,+Marieke%5BAuthor%5D)+OR+(Krogan,+Nevan%5BAuthor%5D)+OR+(Nicoll,+Roger%5BAuthor%5D)+OR+(Vale,+Ronald%5BAuthor%5D)+OR+(Douglas,+Shawn+M%5BAuthor%5D)+OR+(Masters,+Susan%5BAuthor%5D)+OR+(Lim,+Wendell%5BAuthor%5D))+AND+san+francisco%5BAffiliation%5D
+1. Update the PubMed search. Either: 
 
-	and RSS version of that (3? results)
-	http://www.ncbi.nlm.nih.gov/entrez/eutils/erss.cgi?rss_guid=1zkXoYKOt-8r56iXAxrFF5xOmHPRKuOCMzE7OjB6mxfBfMSkkV 
+	- copy the `pubmed_link` url into a browser and update the search terms (it seems this means editing the text string with all the brackets and parentheses)
+	- or create a new search from scratch at PubMed. 
 	
-	(50 results)
-	http://www.ncbi.nlm.nih.gov/entrez/eutils/erss.cgi?rss_guid=1PYHLDX9h5igF3Y8eoj8jxnoahEZFuunqtPvBXOVAZxTYVwsH3
-	
-	The url will need to be updated when faculty change.
- 
-2. Use Yahoo! Pipes service to take the RSS as input. Byron created the pipe from his account and can edit it, but its output is publicly accessible. By requesting the Pipe output with '&_render=JSON_', we can pull it into the browser as JSON, which is probably enough convenience to justify the indirectness of using the pipe. But we get additional value from it by applying a string tokenizer in the pipe process to break apart the 'description' section (added to the output as 'cmpresults' in the JSON), which is the only place to get the journal name ('author', 'title', and 'link' are available directly from the JSON-ified version of the RSS without any further manipulation).
+	Either way, be sure to click 'Search' to get the updated results, and copy the resulting new url from the browser and assign it to `pubmed_link`.
 
-3. Since the source is Yahoo, I've modified an example script from them showing how to work with pipe output, meaning the page loads Yahoo's YUI library for ease of interaction with AJAX, JSON, page HTML, and templating. (It could probably be rewritten in jQuery, since that library is already loaded for other use on the site, but not sure performance gains would be worth the hassle). Script is inline in publication page. It loops results through a template string to insert list <li>'s into output <div>.
+2. Now get the RSS feed version of that search: 
+
+	- In the browser, click on the 'RSS' link/icon right under the search box at the top of the page, select the number of items it should include in the feed (I've chosen 20), and 'Create RSS'.
+	- Click on 'XML' link/icon. Copy the url of the page which that loads and assign it to `pubmed_rss`
+	
+3. OPTIONAL: To change the number of journal articles that are displayed, you will need to change both the PubMed option when creating the RSS feed (step 2) _and_ the value set in `<script>` section of pages/faculty/publications.html of the line `feed.setNumEntries(20);`
