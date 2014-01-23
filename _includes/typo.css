@@ -402,7 +402,10 @@ pre {
 
 /* blog index page */
 
-.cmp-news h2 { margin-bottom: 5px; margin-top: 40px; }
+.cmp-news h2 { margin-bottom: 0px; margin-top: 20px; }
+.cmp-news h3 { margin-top: -20px; }
+
+
 .author { margin-top: 0; color: #bbb; font-size: 1.5rem; }
 
 .post-content { padding-top: 6px; }

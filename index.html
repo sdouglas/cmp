@@ -5,8 +5,6 @@ body-class: frontpage
 ---
 
 
-
-
 </div>
 </div>
 
@@ -38,10 +36,6 @@ body-class: frontpage
   </ul>
 </div>
 
-
-
-
-  
   <script type="text/javascript">
     $(function(){
       SyntaxHighlighter.all();
@@ -56,39 +50,30 @@ body-class: frontpage
     });
   </script>
 
-   <!-- Optional FlexSlider Additions -->
+  <!-- Optional FlexSlider Additions -->
   <!--
   <script src="js/jquery.easing.js"></script>
   <script src="js/jquery.mousewheel.js"></script>
   <script defer src="js/demo.js"></script>
    -->
 
-
 </div>
 </div>
 <div class="middle">
   <div class="container content-inner">
 
-
-
-  
- 
-
 <div class="section row clear">
   <div class="col eight tablet-six mobile-full">
-    
 
     <h2>Discovering new knowledge through <em>innovative research</em> on chemical and biological phenomena.</h2>
-
     <p class="nomobile">We transmit knowledge to students (graduate students, postdoctoral colleagues, and students and fellows in medicine, pharmacy and dentistry) at the conceptual and empirical levels.</p>
 
-  </div> 
+  </div>
   <div class="col four tablet-six mobile-full">
     <section id="news">
       <h3>Latest News</h3>
-	    <ul class="posts">
+      <ul class="posts">
 	    {% for post in site.categories.blog limit:4 %}
-	     
       <li> 
         <h4>
           <a href="{{ post.url }}">{{ post.title }}</a> 
@@ -100,11 +85,11 @@ body-class: frontpage
 
 	    {% endfor %}
 
-	  	</ul>
+      </ul>
       <a id="more-news" href="{{BASE_PATH}}/blog">more news <i class="icon-right-thin"></i></a>
     </section>
   </div>
-</div> 
+</div>
 </div>
 </div>
 
@@ -123,7 +108,7 @@ body-class: frontpage
         <p>For students</p>
         Prospective students and postdocs
       </div>
-    </a> 
+    </a>
     <a href="{{BASE_PATH}}/pages/cmp-administration" class="col four mobile-full">
       <div class="feature admin">
         <i class="icon-town-hall"></i>
@@ -154,7 +139,7 @@ body-class: frontpage
             <li>protein folding, structure and function 
             <li>RNA-protein interactions</li>
           </ul>
-            
+
           <p>Experimental approaches include genetics, chemistry and crystallography; experimental systems stretch from yeast to human.</p>
 
       </div> 
@@ -162,21 +147,19 @@ body-class: frontpage
           <h3>Administration</h3>
 
           <p>CMP is the administrative home to the graduate education program in <strong>Chemistry and Chemical Biology</strong>. Other graduate studies with Department faculty are carried out within two consortium programs:</p>
-          
+
           <ul>
             <li>Biomedical Sciences (BMS)</li>
             <li>the Program in Biological Sciences (PIBS)</li>
           </ul>
-          
+
           <p>Inquiries should be directed to those programs. Inquiries regarding postdoctoral research in CMP should be addressed to individual faculty members. For other information, search this Web Site or contact the CMP administrative staff.</p>
 
-      </div> 
+      </div>
 
-        
     </div>
   </div>
 </div>
 
-
-  <script src="/assets/js/flexslider.js"></script>
-  <link href="/assets/css/slideshow.css" rel="stylesheet" type="text/css" media="all">
+<script src="/assets/js/flexslider.js"></script>
+<link href="/assets/css/slideshow.css" rel="stylesheet" type="text/css" media="all">
