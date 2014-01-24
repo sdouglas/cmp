@@ -2,7 +2,7 @@
 layout: bio
 categories: staff
 title: Ned Molyneaux
-position: Assistant to Holly Ingraham, Shawn Douglas
+position: Assistant to Holly Ingraham
 email_prefix: Ned.Molyneaux
 email_suffix: ucsf, edu
 phone: 415 502-1374
