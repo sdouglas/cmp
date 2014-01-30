@@ -9,7 +9,7 @@ phone: 415-514-2004
 fax: 415 514-0822
 website: http://tauntonlab.ucsf.edu
 address: 600 16th Street, MC 2280</br>Genentech Hall, Room N512F</br>San Francisco, CA 94158-2280</br>
-info: Administrative Assistant Delaney Lynch may be contacted on 415 502-1475 or <span class="e">delaney.lynch / ucsf, edu </span>
+info: Administrative Assistant Delaney Lynch</br>415 502-1475</br><span class="e">delaney.lynch / ucsf, edu</span>
 image: taunton.jpg
 ---
 

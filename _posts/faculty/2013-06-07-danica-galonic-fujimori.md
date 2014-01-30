@@ -9,7 +9,7 @@ phone: 415 514-0147
 fax: 
 website: http://fujimorilab.ucsf.edu
 address: 600 16th Street, MC 2280</br>Genentech Hall, Room N572E</br>San Francisco, CA 94158-2280</br>
-info: Administrative Assistant Rebecca Wheeler may be contacted on 415 514-1283 or at <span class="e">rebecca.wheeler / ucsf, edu </span>
+info: Administrative Assistant Rebecca Wheeler</br>415 514-1283</br><span class="e">rebecca.wheeler / ucsf, edu </span>
 image: fujimori.jpg
 ---
 

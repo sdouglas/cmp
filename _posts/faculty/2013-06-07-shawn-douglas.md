@@ -9,7 +9,7 @@ phone: 415 502-1947
 fax: 
 website: http://bionano.ucsf.edu
 address: 600 16th Street, MC 2200</br>Genentech Hall, Room N472C</br>San Francisco, CA 94158-2280</br>
-info: Administrative Assistant Rebecca Wheeler may be contacted at <span class="e">rebecca.wheeler / ucsf, edu </span>
+info: Administrative Assistant Rebecca Wheeler</br><span class="e">rebecca.wheeler / ucsf, edu </span>
 image: shawn.png
 ---
 

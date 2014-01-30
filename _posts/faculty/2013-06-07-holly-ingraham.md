@@ -9,7 +9,7 @@ phone: 415 476-2731
 fax: 415 514-4459
 website: http://ingrahamlab.ucsf.edu/
 address: 1550 4th Street, MC 2611</br>Rock Hall, Room 284E</br>San Francisco, CA 94158-2611</br>
-info: Administrative Assistant Ned Molyneaux may be contacted on 415 514-3792 or at <span class="e">ned.molyneaux / ucsf, edu </span>
+info: Administrative Assistant Ned Molyneaux</br>415 514-3792</br><span class="e">ned.molyneaux / ucsf, edu </span>
 image: ingraham.jpg
 ---
 

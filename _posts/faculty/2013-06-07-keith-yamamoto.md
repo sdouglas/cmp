@@ -9,7 +9,7 @@ phone: 415-	476-3128
 fax: 
 website: http://yamamotolab.ucsf.edu
 address: 600 16th Street, MC 2280</br>Genentech Hall, Room S572D</br>San Francisco, CA 94158-2280</br>
-info: Administrative Assistant Jennifer Banaszek may be contacted on 415 476-8445 or at <span class="e">jennifer.banaszek / cmp, ucsf, edu </span>
+info: Administrative Assistant Jennifer Banaszek</br>415 476-8445</br><span class="e">jennifer.banaszek / cmp, ucsf, edu </span>
 image: yamamoto.jpg
 ---
 

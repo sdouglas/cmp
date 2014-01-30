@@ -9,7 +9,7 @@ phone: 415 502-8080
 fax: 
 website: http://limlab.ucsf.edu
 address: 600 16th Street, MC 2240</br>Genentech Hall, Room N412E</br>San Francisco, CA 94158-2240</br>
-info: Administrative Assistant Noleine Blizzard may be contacted on 415 514-4137 or at <span class="e">noleine.blizzard / ucsf, edu </span>
+info: Administrative Assistant Noleine Blizzard</br>415 514-4137</br><span class="e">noleine.blizzard / ucsf, edu </span>
 image: lim.jpg
 ---
 
