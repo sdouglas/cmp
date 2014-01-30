@@ -9,7 +9,7 @@ phone: 415 502-4838
 fax: 
 website: http://mullinslab.ucsf.edu
 address: 600 16th Street, MC 2200</br>Genentech Hall, Room N312F</br>San Francisco, CA 94158-2280</br>
-info: Administrative Assistant Phoebe Grigg</br>415 502-6305</br><span class="e">phoebe.grigg / cmp, ucsf, edu </span>
+info: Administrative Assistant</br>Phoebe Grigg</br>415 502-6305</br><span class="e">phoebe.grigg / cmp, ucsf, edu</span>
 image: mullins.jpg
 ---
 

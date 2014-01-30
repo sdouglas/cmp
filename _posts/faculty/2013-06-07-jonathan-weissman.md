@@ -9,7 +9,7 @@ phone: 415-502-7642
 fax: 
 website: http://weissmanlab.ucsf.edu
 address: 1700 4th Street, MC 2542</br>Byers Hall, Room 403</br>San Francisco, CA 94158-2542</br>
-info: Administrative Assistant Christopher Reiger</br>415 514-1681</br><span class="e">christopher.reiger / ucsf, edu </span>
+info: Administrative Assistant</br>Christopher Reiger</br>415 514-1681</br><span class="e">christopher.reiger / ucsf, edu</span>
 image: weissman.jpg
 ---
 

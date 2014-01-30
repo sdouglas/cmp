@@ -9,7 +9,7 @@ phone: 415-514-4498
 fax: 
 website:
 address: 1700 4th Street, MC 2552</br>Byers Hall, Room 503A</br>San Francisco, CA 94158-2552</br>
-info: Administrative Assistant Marja Tarr</br>415 514-4757</br><span class="e">marja.tarr / cmp, ucsf, edu </span>
+info: Administrative Assistant</br>Marja Tarr</br>415 514-4757</br><span class="e">marja.tarr / cmp, ucsf, edu</span>
 image: wells.jpg
 ---
 

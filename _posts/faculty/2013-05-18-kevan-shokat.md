@@ -8,7 +8,7 @@ email_suffix: cmp, ucsf, edu
 phone: 415 514-0472
 website: http://shokatlab.ucsf.edu
 address: 600 16th Street, MC 2280</br>Genentech Hall Room N512D</br>San Francisco, CA 94158-2280</br>
-info: Administrative Assistant Delaney Lynch</br>415 502-1475</br><span class="e">delaney.lynch / ucsf, edu </span>
+info: Administrative Assistant</br>Delaney Lynch</br>415 502-1475</br><span class="e">delaney.lynch / ucsf, edu</span>
 image: shokat.jpg
 ---
 

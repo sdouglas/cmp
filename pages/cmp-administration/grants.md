@@ -45,7 +45,7 @@ body-class:
 
 ### NIH eRA Commons User IDs/Accounts
 
-In order to submit an application to NIH, Principal Investigators must have an NIH [eRA Commons](http://commons.era.nih.gov/) user account. To have an account activated, please send an email with your name and email address to <span class="e">kerri.santos / ucsf, edu </span>. In the subject line of the email, note "Request for eRA Commons Account". 
+In order to submit an application to NIH, Principal Investigators must have an NIH [eRA Commons](http://commons.era.nih.gov/) user account. To have an account activated, please send an email with your name and email address to <span class="e">kerri.santos / ucsf, edu</span>. In the subject line of the email, note "Request for eRA Commons Account". 
 
 
 ### Proposal Budget Resources
