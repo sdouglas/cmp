@@ -3,8 +3,8 @@ layout: bio
 categories: faculty
 title: Danica Galonic Fujimori
 position: Assistant Professor
-email_prefix: fujimori
-email_suffix: cmp, ucsf, edu
+email_prefix: danica.fujimori
+email_suffix: ucsf, edu
 phone: 415 514-0147
 fax: 
 website: http://fujimorilab.ucsf.edu
