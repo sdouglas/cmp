@@ -1,0 +1,16 @@
+---
+layout: page
+title: CMP Latest News
+---
+
+<!-- just a reverse chronological list of posts with a category of 'blog' -->
+<div class="cmp-news">
+
+{% for post in site.categories.blog %}
+  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+  <p class="author"><span class="date">{{ post.date | date_to_string }}</span></p>
+  <p>{{post.excerpt}}</p>
+  <p class="post-more"><a href="{{ post.url }}"><i class="icon-right-thin"></i>read more</a></p>
+{% endfor %}
+
+</div>
