@@ -2,7 +2,7 @@
 layout: bio
 categories: faculty
 title: Jack Taunton
-position: Associate Professor
+position: Professor
 email_prefix: jack.taunton
 email_suffix: ucsf, edu
 phone: 415-514-2004

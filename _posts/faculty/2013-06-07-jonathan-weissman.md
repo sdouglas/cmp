@@ -2,7 +2,7 @@
 layout: bio
 categories: faculty
 title: Jonathan Weissman
-position: Professor and Chair
+position: Professor and Vice-Chair
 email_prefix: weissman
 email_suffix: cmp, ucsf, edu
 phone: 415-502-7642

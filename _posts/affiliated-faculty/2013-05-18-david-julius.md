@@ -2,7 +2,7 @@
 layout: bio
 categories: affiliated-faculty
 title: David Julius
-position: Professor and Chair
+position: Professor and Chair of Physiology
 email_prefix: David.Julius
 email_suffix: ucsf, edu 
 phone: 415 476-0431

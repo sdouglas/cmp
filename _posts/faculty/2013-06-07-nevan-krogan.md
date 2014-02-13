@@ -2,7 +2,7 @@
 layout: bio
 categories: faculty
 title: Nevan Krogan
-position: Associate Professor
+position: Professor
 email_prefix: nevan.krogan
 email_suffix: ucsf, edu
 phone: 476 476-2980

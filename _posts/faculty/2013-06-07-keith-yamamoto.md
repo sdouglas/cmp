@@ -3,8 +3,8 @@ layout: bio
 categories: faculty
 title: Keith Yamamoto
 position: Professor and Executive Vice Dean
-email_prefix: yamamoto
-email_suffix: cmp, ucsf, edu
+email_prefix: Yamamoto@
+email_suffix: medsch, ucsf, edu
 phone: 415-	476-3128
 fax: 
 website: http://yamamotolab.ucsf.edu

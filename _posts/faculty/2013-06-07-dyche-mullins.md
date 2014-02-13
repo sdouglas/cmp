@@ -2,7 +2,7 @@
 layout: bio
 categories: faculty
 title: Dyche Mullins
-position: Associate Professor
+position: Professor
 email_prefix: dyche
 email_suffix: mullinslab, ucsf, edu
 phone: 415 502-4838
