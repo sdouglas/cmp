@@ -4,6 +4,18 @@ category: page
 title: Email Services
 ---
 
+### Campus Email Accounts
+
+The campus has a Microsoft Exchange 2007 Server. This server provides email and calendar support for
+all Staff, Faculty, Students and Post-docs.
+
+**How to create a mail@ucsf.edu account**. *If you would like a campus email accout and do not have one already the following info needs to be provided in a support ticket:*
+
+- your UCSF payroll name
+- your UCSF employee ID (NOTE: HHMI employees are assigned a special one for this purpose)
+- your current email (An email address where we can contact you with your infomation)
+- your lab or group that you are associated with
+
 ### CMP Email Accounts
 
 Server: `cmpmail.ucsf.edu`
@@ -18,19 +30,6 @@ The "setup" information for cmpmail.ucsf.edu is as follows
 - The server is running SSL please use this for outgoing and incoming email.
 
 Any issues or problems with your cmpmail account please send a email to <span class="e">support / cmp, ucsf, edu</span>
-
-
-### Campus Email Accounts
-
-The campus has a Microsoft Exchange 2007 Server. This server provides email and calendar support for
-all Staff, Faculty, Students and Post-docs.
-
-**How to create a mail@ucsf.edu account**. *If you would like a campus email accout and do not have one already the following info needs to be provided in a support ticket:*
-
-- your UCSF payroll name
-- your UCSF employee ID (NOTE: HHMI employees are assigned a special one for this purpose)
-- your current email (An email address where we can contact you with your infomation)
-- your lab or group that you are associated with
 
 
 ### Archiving Your CMP Email
