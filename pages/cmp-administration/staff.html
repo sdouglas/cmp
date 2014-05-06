@@ -1,0 +1,33 @@
+---
+layout: page
+category: page
+title: CMP Staff
+--- 
+
+
+<table class="people sortable" id="sortable">
+  <thead>
+        <tr>
+        <th class="sort">Name</th>
+        <th class="sort">Position</th>
+        <th>E-mail</th>
+        <th>Phone</th>
+        </tr>
+  </thead>
+  <tbody>
+    {% for x in site.categories.staff %}
+      <tr>
+      <td><a href="{{ x.url }}">{{ x.title }}</a></td>
+      <td>{{ x.position }}</td>
+      <td><span class="e">{{ x.email_prefix }} / {{ x.email_suffix }} </span></td>
+      <td>{{ x.phone }}</td>
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>
+
+<script src="{{ BASE_URL }}/assets/js/tablesort.js"></script>
+<script>
+  new Tablesort(document.getElementById('sortable'));
+  $('thead tr th:first-child').click();
+</script>
