@@ -2,4 +2,4 @@ _site/
 .sass-cache/
 assets/css/
 .DS_Store
-
+CNAME
