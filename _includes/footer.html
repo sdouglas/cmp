@@ -1,0 +1,73 @@
+<footer class="footer-bottom">
+  <div class="container content-inner " id="footer">
+
+   <div class="section">
+
+     
+     <div class="col three tablet-four mobile-full">
+        
+        <h5>Latest Posts</h5>
+        <ul>
+        {% for post in site.categories.blog limit:2 %}
+          <li>
+            <a href="{{ post.url }}">{{ post.title }}</a></br>
+            <time>{{ post.date | date_to_string }}</time> 
+          </li>
+        {% endfor %}
+          <li>
+            <a href="{{BASE_PATH}}/blog">see more posts...</a>
+          </li>
+        </ul>
+
+      </div>
+
+      <div class="col three tablet-four mobile-full">
+
+        <h5>Main Sections</h5>
+         <ul>
+          <li><a href="{{BASE_PATH}}/pages/faculty"><span>Faculty</span></a></li>
+          <li><a href="{{BASE_PATH}}/pages/faculty/affiliated.html">Affiliated Faculty</a></li>
+          <li> <a href="{{BASE_PATH}}/pages/teaching">Teaching</a> </li>
+          <li> <a href="{{BASE_PATH}}/pages/ccbgrad">CCB Grad Program</a>  </li>
+          <li><a href="{{BASE_PATH}}/pages/postdocs">Post-Doc Scholars</a> </li>
+          <li> <a href="{{BASE_PATH}}/pages/students">Grad Students</a> </li>
+        </ul>
+
+      </div>
+
+      <div class="col three tablet-four mobile-full">
+        
+        <h5>Central Administration</h5>
+        <ul>
+          <li><a href="{{BASE_PATH}}/pages/cmp-administration"><span>Central Admin</span></a></li>
+          <li><a href="{{BASE_PATH}}/pages/cmp-administration/staff.html">Staff Lists</a></li>
+          <li><a href="{{BASE_PATH}}/pages/cmp-administration/grants.html">Grants</a></li>
+          <li><a href="{{BASE_PATH}}/pages/cmp-administration/fellows.html">Fellowships</a></li>
+          <li><a href="{{BASE_PATH}}/pages/cmp-administration/computer-support">Computer Support</a></li>
+          <li><a href="{{BASE_PATH}}/pages/cmp-administration/purchasing.html">Purchasing</a></li>
+          <li> <a href="{{BASE_PATH}}/pages/contact">Contact</a></li>
+        </ul>
+      </div>
+
+      
+
+      <div class="col three notablet nomobile">
+                <a class="ucsf block" href="http://www.ucsf.edu"><img class="nomobile" src="/assets/css/images/ucsf-logo.png" /></a>
+                <br>
+                <br>
+                <br>
+                <br>
+                &copy; {{ site.time | date: '%Y' }} All Rights Reserved.</br>
+                designed by <a href="http://muckypaw.com">muckypaw</a>
+                <br>
+                <br>
+                <a href="{{site.production_url}}{{site.rss_path}}" id="rss"></a>
+      </div>
+
+  </section>
+
+
+    
+
+  </div>
+</footer>
