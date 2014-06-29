@@ -1,6 +1,3 @@
-codename: biscuit
-=================
-
 #Jekyll Site for CMP
 
 The publications page is dynamically generated (i.e. created in the browser) so that it will always reflect the latest faculty publications, provided PubMed is provided with the updated search terms.
