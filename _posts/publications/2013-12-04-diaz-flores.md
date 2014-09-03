@@ -1,5 +1,6 @@
 ---
 layout: post
+category: publication
 published: true
 title: "PLC-γ and PI3K link cytokines to ERK activation in hematopoietic cells with normal and oncogenic Kras."
 date: 2013-12-04 12:00:00

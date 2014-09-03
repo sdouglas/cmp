@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 published: true
 title: "Msn2 coordinates a stoichiometric gene expression program."
 date: 2013-12-06 12:00:00

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: publication
 published: true
 title: "Drugging MYCN through an Allosteric Transition in Aurora Kinase A."
 date: 2014-09-01 12:00:00
