@@ -9,7 +9,7 @@ phone: 476 476-2980
 fax: 
 website: 
 address: 1700 4th Street, MC 2530</br>Byers Hall, Room 308D</br>San Francisco, CA 94158-2530
-info: Administrative Assistant</br>Aileen Patterson</br>415 514-4847 </br><span class="e">aileen.paterson / ucsf, edu</span>
+info: Administrative Assistant</br>Linda Reilly</br>415 514-4847 </br><span class="e">linda.reilly / ucsf, edu</span>
 image: krogan.jpg
 ---
 
