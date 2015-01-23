@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Jonathan Weissman wins inaugural NAS Award"
+title:  "Jonathan Weissman wins NAS Award"
 date:   2014-10-20 14:00:00
 category: blog
 published: true
