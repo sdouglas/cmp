@@ -3,7 +3,11 @@ layout: bio
 categories: faculty
 title: Kevan Shokat
 position: Professor
+<<<<<<< HEAD
 email_prefix: Kevan.Shokat
+=======
+email_prefix: Kevan.Shokat	
+>>>>>>> pr/29
 email_suffix: ucsf, edu
 phone: 415 514-0472
 website: http://shokatlab.ucsf.edu
