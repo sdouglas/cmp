@@ -2,7 +2,7 @@
 layout: bio
 categories: staff
 title: Mia Morgan
-position: Post Award Analyst
+position: Director
 email_prefix: mia.morgan
 email_suffix: ucsf, edu
 phone: 415-502-0435
