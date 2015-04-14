@@ -2,7 +2,7 @@
 layout: bio
 categories: faculty
 title: Marieke Kruidering-Hall
-position: Assistant Adjunct Professor, Teaching Faculty
+position: Associate Adjunct Professor, Teaching Faculty
 email_prefix: marieke.kruidering
 email_suffix: ucsf, edu
 phone: 415 514-9347
