@@ -11,7 +11,6 @@ title: Department of Cellular and Molecular Pharmacology
 ### Vice Chairs:
 
 [Kevan Shokat]({{ BASE_URL }}/faculty/kevan-shokat)<br>
-[Ron Vale]({{ BASE_URL }}/faculty/ron-vale)<br>
 [Jonathan Weissman]({{ BASE_URL }}/faculty/jonathan-weissman)<br>
 [Holly Ingraham]({{ BASE_URL }}/faculty/holly-ingraham)
 
