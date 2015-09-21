@@ -3,7 +3,7 @@ layout: bio
 categories: UCSF Faculty Fellows
 title: Matt Thomson
 position: UCSF Faculty Fellow
-email_prefix: thompson.matt
+email_prefix: matt.thompson
 email_suffix: ucsf, edu
 phone:
 fax: 
