@@ -8,6 +8,6 @@ email_suffix: ucsf, edu
 phone: 415-476-3210
 fax: 
 address: 
-image: AlvaradoLopez.jpg
+image: alvaradolopez.jpg
 ---
 
