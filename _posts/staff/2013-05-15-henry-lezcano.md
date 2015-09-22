@@ -1,5 +1,5 @@
 ---
-layout: bio
+layout: staff
 categories: staff
 title: Henry Lezcano
 position: Purchasing Assistant

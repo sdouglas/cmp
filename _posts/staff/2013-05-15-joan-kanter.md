@@ -1,9 +1,9 @@
 ---
-layout: bio
+layout: staff
 categories: staff
-title: Christopher Reiger
+title: Joan Kanter
 position: HHMI Assistant to Jonathan Weissman
-email_prefix: christopher.reiger
+email_prefix: joan.kanter
 email_suffix: ucsf, edu
 phone: 415 514-1681
 fax: 415 514-4242
