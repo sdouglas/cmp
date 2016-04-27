@@ -2,7 +2,7 @@
 layout: staff
 categories: staff
 title: Haley Crawford
-position: Operations Analyst
+position: Operations Analyst; Assistant to Danica Fujimori and Shawn Douglas
 email_prefix: Haley.Crawford
 email_suffix: ucsf, edu
 phone: 415 502-0435
