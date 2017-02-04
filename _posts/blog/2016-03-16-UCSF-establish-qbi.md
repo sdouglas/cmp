@@ -6,9 +6,9 @@ category: blog
 published: true
 ---
 
-# UCSF Establishes Quantitative Biosciences Institute
+### UCSF Establishes Quantitative Biosciences Institute
 
-## New Research Unit will Identify Opportunities for Disease Treatments Using Computation, Mathematics and Statistics
+New Research Unit will Identify Opportunities for Disease Treatments Using Computation, Mathematics and Statistics
 
 "At QBI, [Nevan Krogan] will be in an even better position to facilitate productive new cross-disciplinary collaborations between researchers, clinicians and industry."
 

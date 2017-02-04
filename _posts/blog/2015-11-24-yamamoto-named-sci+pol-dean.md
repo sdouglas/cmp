@@ -6,7 +6,7 @@ category: blog
 published: true
 ---
 
-Congradulations to our own [Keith Yamamoto](http://yamamotolab.ucsf.edu/yamamoto/) for being Named UCSF's First Vice Chancellor of Science Policy and Strategy.
+### Congradulations to our own [Keith Yamamoto](http://yamamotolab.ucsf.edu/yamamoto/) for being Named UCSF's First Vice Chancellor of Science Policy and Strategy.
 
 ****
 
