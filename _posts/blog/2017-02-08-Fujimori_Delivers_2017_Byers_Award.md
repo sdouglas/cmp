@@ -8,7 +8,7 @@ published: true
 
 ### Congratulations to CMP Faculty Member Danica Fujimori, PhD, For Delivering the 2017 Byers Award Lecture on Tackling Antibiotic Resistance.
 
-![photo of Danica](http://www.ucsf.edu/sites/default/files/styles/2014_wysiwyg_full/public/fields/field_insert_file/news/Fujimori_2017_Byers_Award.jpg?)
+![Photo of Danica](/assets/images/blog/fujimori_byers_award.jpg)
 
 Since Alexander Fleming discovered penicillin in 1940, countless lives have been saved by antibiotics. But their effectiveness is severely compromised by the emergence of antibiotic resistant strains of bacteria, accelerated by the over-prescription of antibiotics and their widespread use as growth promoters in livestock farming.
 
