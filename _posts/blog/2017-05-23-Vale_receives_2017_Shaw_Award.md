@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ron Vale Receives 2017 Shaw Prize for Motor Protein Discoveries"
+title:  "Ron Vale Receives 2017 Shaw Prize"
 date:   2017-05-23 10:00:00
 category: blog
 published: true

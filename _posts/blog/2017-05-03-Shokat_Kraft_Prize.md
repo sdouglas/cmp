@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Shokat Receives Kraft Prize"
+title:  "Kevan Shokat Receives Kraft Prize"
 date:   2017-05-03 10:00:00
 category: blog
 published: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Fujimori Delivers 2017 Byers Award Lecture on Tackling Antibiotic Resistance"
+title:  "Danica Fujimori Delivers 2017 Byers Award Lecture"
 date:   2017-02-08 10:00:00
 category: blog
 published: true
