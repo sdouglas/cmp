@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Shokat Delivers 2017 Byers Award Lecture on Tackling Antibiotic Resistance"
+title:  "Shokat Receives Kraft Prize"
 date:   2017-05-03 10:00:00
 category: blog
 published: true
