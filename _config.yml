@@ -1,11 +1,9 @@
 name: CMP
-pygments: true
 
-
-# This is the default format for paths. 
+# This is the default format for paths.
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
-# permalink: /:categories/:year/:month/:day/:title 
-permalink: /:categories/:title 
+# permalink: /:categories/:year/:month/:day/:title
+permalink: /:categories/:title
 
 production_url : http://cmp.ucsf.edu
 
@@ -24,6 +22,7 @@ pubmed_rss : "http://www.ncbi.nlm.nih.gov/entrez/eutils/erss.cgi?rss_guid=1Zi2Ad
 
 # Update following https://help.github.com/articles/migrating-your-pages-site-from-maruku
 markdown: kramdown
+highlighter: rouge
 
 # pagination
 paginate: 5
