@@ -8,7 +8,7 @@ published: true
 
 ### Congratulations to CMP Faculty Member Shawn Douglas, PhD, For Receiving Presidential Early Career Award.
 
-![photo of shawn](http://medschool.ucsf.edu/sites/medschool.ucsf.edu/files/shawn_douglas.png)
+![Photo of Shawn](http://medschool.ucsf.edu/sites/medschool.ucsf.edu/files/shawn_douglas.png)
 
 Shawn Douglas, PhD, is one of 102 researchers recently named by President Obama as a recipient of the Presidential Early Career Award for Scientists and Engineers (PECASE).
 
