@@ -2,13 +2,13 @@
 layout: bio
 categories: faculty
 title: Jeffry Lansman
-position: Professor, Teaching Faculty
-email_prefix: jeff.lansman
-email_suffix: ucsf, edu
-phone: 415-476-1322
+position: Professor Emeritus
+email_prefix:
+email_suffix:
+phone:
 fax:
 website:
-address: 513 Parnassus Avenue</br>Med Sciences Building, Room S1272</br>San Francisco, CA 94143-0450
+address: 
 info:
 image: lansman_web.jpg
 ---

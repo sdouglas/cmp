@@ -2,7 +2,7 @@
 layout: bio
 categories: faculty
 title: Danica Galonic Fujimori
-position: Associate Professor
+position: Professor
 email_prefix: danica.fujimori
 email_suffix: ucsf, edu
 phone: 415 514-0147
