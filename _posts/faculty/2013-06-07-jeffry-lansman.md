@@ -3,12 +3,12 @@ layout: bio
 categories: faculty
 title: Jeffry Lansman
 position: Professor Emeritus
-email_prefix:
-email_suffix:
+email_prefix: jeff.lansman
+email_suffix: ucsf, edu
 phone:
 fax:
 website:
-address: 
+address:
 info:
 image: lansman_web.jpg
 ---
