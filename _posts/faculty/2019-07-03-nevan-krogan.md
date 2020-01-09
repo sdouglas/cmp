@@ -9,7 +9,7 @@ phone: 415 476-2980
 fax:
 website: https://kroganlab.ucsf.edu/
 address: 1700 4th Street, MC 2530</br>Byers Hall, Room 308D</br>San Francisco, CA 94158-2530
-info: Executive Assistant</br>Lauren Weiser</br>415 734-4809 </br><span class="e">lauren.weiser / gladstone.ucsf, edu</span></br>
+info: Executive Assistant</br>Peggy Ackerberg</br>415 734-4809 </br><span class="e">Peggy.Ackerberg / ucsf, edu</span></br>
 
 
 image: krogan.jpg

@@ -1,9 +1,9 @@
 ---
 layout: staff
 categories: staff
-title: Nikki Treacy
+title: Peggy Ackerberg
 position: Executive Assistant
-email_prefix: nikki.treacy
+email_prefix: Peggy.Ackerberg
 email_suffix: ucsf, edu
 phone: 415-476-6019
 fax:

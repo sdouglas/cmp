@@ -2,7 +2,7 @@
 layout: staff
 categories: staff
 title: Anne Sufka
-position: Assistant to Holly Ingraham and Danica Fujimori
+position: Assistant to Holly Ingraham | UCSF IRACDA Scholars Program Manager
 email_prefix: anne.sufka
 email_suffix: ucsf, edu
 phone: 415-514-9434

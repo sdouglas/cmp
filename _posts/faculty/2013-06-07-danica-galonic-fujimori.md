@@ -9,7 +9,7 @@ phone: 415 514-0147
 fax:
 website: http://fujimorilab.ucsf.edu
 address: 600 16th Street, MC 2280</br>Genentech Hall, Room N572E</br>San Francisco, CA 94158-2280</br>
-info: Administrative Assistant</br>Haley Crawford</br>415 502-0435</br><span class="e">haley.crawford / ucsf, edu</span>
+info: Administrative Assistant</br>Yvonne Munchua</br>415 502-0435</br><span class="e">Yvonne.Munchua / ucsf, edu</span>
 image: fujimori.jpg
 ---
 
