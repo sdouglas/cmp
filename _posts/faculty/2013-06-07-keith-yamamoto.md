@@ -2,7 +2,7 @@
 layout: bio
 categories: faculty
 title: Keith Yamamoto
-position: Professor and Vice Chancellor
+position: Professor Emeritus
 email_prefix: Yamamoto@
 email_suffix: ucsf, edu
 phone: 415-	476-8445

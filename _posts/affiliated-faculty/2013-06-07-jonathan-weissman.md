@@ -1,11 +1,10 @@
 ---
 layout: bio
-categories: faculty
+categories: affiliated-faculty
 title: Jonathan Weissman
 position: Professor
-email_prefix: jonathan.weissman
-email_suffix: ucsf, edu
-phone: 415-502-7642
+email_prefix: weissman
+email_suffix: wi, mit, edu
 fax:
 website: http://weissmanlab.ucsf.edu
 address: 1700 4th Street, MC 2542</br>Byers Hall, Room 403</br>San Francisco, CA 94158-2542</br>
