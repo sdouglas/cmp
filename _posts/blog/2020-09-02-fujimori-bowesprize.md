@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Danica Fujimori Receives $1.25M Bowes Biomedical Investigator Award"
-date:   2019-08-30 10:00:00
+date:   2020-08-30 10:00:00
 category: blog
 published: true
 ---
