@@ -6,7 +6,7 @@ category: blog
 published: true
 ---
 
-### Congratulations to CMP Faculty Member Hertzstein Distinguished Investigator, professor, and associate vice chair Holly Ingraham for being elected to teh Natioa Academy of Sciences.
+### Congratulations to CMP Faculty Member Hertzstein Distinguished Investigator, professor, and associate vice chair Holly Ingraham for being elected to The National Academy of Sciences.
 
 Read the [full story](http://www.nasonline.org/news-and-multimedia/news/2021-nas-election.html)
 
