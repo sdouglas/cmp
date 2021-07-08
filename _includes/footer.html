@@ -3,15 +3,15 @@
 
    <div class="section">
 
-     
+
      <div class="col three tablet-four mobile-full">
-        
+
         <h5>Latest Posts</h5>
         <ul>
         {% for post in site.categories.blog limit:2 %}
           <li>
             <a href="{{ post.url }}">{{ post.title }}</a></br>
-            <time>{{ post.date | date_to_string }}</time> 
+            <time>{{ post.date | date_to_string }}</time>
           </li>
         {% endfor %}
           <li>
@@ -26,7 +26,6 @@
         <h5>Main Sections</h5>
          <ul>
           <li><a href="{{BASE_PATH}}/pages/faculty"><span>Faculty</span></a></li>
-          <li><a href="{{BASE_PATH}}/pages/faculty/affiliated.html">Affiliated Faculty</a></li>
           <li> <a href="{{BASE_PATH}}/pages/teaching">Teaching</a> </li>
           <li> <a href="{{BASE_PATH}}/pages/ccbgrad">CCB Grad Program</a>  </li>
           <li><a href="{{BASE_PATH}}/pages/postdocs">Post-Doc Scholars</a> </li>
@@ -36,7 +35,7 @@
       </div>
 
       <div class="col three tablet-four mobile-full">
-        
+
         <h5>Central Administration</h5>
         <ul>
           <li><a href="{{BASE_PATH}}/pages/cmp-administration"><span>Central Admin</span></a></li>
@@ -49,7 +48,7 @@
         </ul>
       </div>
 
-      
+
 
       <div class="col three notablet nomobile">
                 <a class="ucsf block" href="http://www.ucsf.edu"><img class="nomobile" src="/assets/css/images/ucsf-logo.png" /></a>
@@ -67,7 +66,7 @@
   </section>
 
 
-    
+
 
   </div>
 </footer>
