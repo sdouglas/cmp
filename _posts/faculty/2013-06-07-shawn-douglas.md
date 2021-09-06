@@ -2,7 +2,7 @@
 layout: bio
 categories: faculty
 title: Shawn Douglas
-position: Assistant Professor
+position: Associate Professor
 email_prefix: shawn.douglas
 email_suffix: ucsf, edu
 phone: 415 502-1947
