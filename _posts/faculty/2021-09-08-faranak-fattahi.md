@@ -5,7 +5,7 @@ title: Faranak Fattahi
 position: Assistant Professor
 email_prefix: Faranak.Fattahi
 email_suffix: ucsf, edu
-phone: 415 502-4641
+phone: 415 476-6737
 fax:
 website:
 address: 600 16th Street<br>Genentech Hall, Room S572<br>San Francisco, CA 94158
