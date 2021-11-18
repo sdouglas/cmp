@@ -12,6 +12,6 @@ Read the [full story](https://www.waxmancancer.org/about-us/newsroom/press-relea
 
 [Learn More about the Samuel Waxman Cancer Research Foundation](https://www.waxmancancer.org/about-us/our-mission/)
 
-[Kevan's UCSF Profile](https://profiles.ucsf.edu/kevan.skokat)
+[Kevan's UCSF Profile](https://profiles.ucsf.edu/kevan.shokat)
 
 Learn more about Kevan's research [Kevan Shokat's Lab](https://shokatlab.ucsf.edu/)
