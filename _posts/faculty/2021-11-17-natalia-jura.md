@@ -2,7 +2,7 @@
 layout: bio
 categories: faculty
 title: Natalia Jura
-position: Assistant Professor
+position: Associate Professor
 email_prefix: Natalia.Jura
 email_suffix: ucsf, edu
 phone: 415 514-1133
