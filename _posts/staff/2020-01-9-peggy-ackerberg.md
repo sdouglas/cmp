@@ -2,7 +2,7 @@
 layout: staff
 categories: staff
 title: Peggy Ackerberg
-position: Executive Assistant
+position: Executive Assistant to Nevan Krogan
 email_prefix: Peggy.Ackerberg
 email_suffix: ucsf, edu
 phone: 415-476-6019

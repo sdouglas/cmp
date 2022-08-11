@@ -2,7 +2,7 @@
 layout: staff
 categories: staff
 title: Rebecca Quimby
-position: Assistant to Allison Williams and Faranak Fattahi
+position: HR Liaison | Assistant to Allison Williams and Faranak Fattah
 email_prefix: Rebecca.Quimby
 email_suffix: ucsf, edu
 phone:
