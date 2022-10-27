@@ -10,7 +10,7 @@ title: Department of Cellular and Molecular Pharmacology
 
 ### Vice Chairs:
 
-[Danica Fujimori]({{ BASE_URL }}/faculty/danica-fujimori)<br>
+[Danica Fujimori]({{ BASE_URL }}/faculty/danica-galonic-fujimori)<br>
 [Kevan Shokat]({{ BASE_URL }}/faculty/kevan-shokat)
 
 ### Chief Administrative Officer:
