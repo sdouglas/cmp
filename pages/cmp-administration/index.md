@@ -2,19 +2,18 @@
 layout: page
 category: page
 title: Department of Cellular and Molecular Pharmacology
---- 
+---
 
 ### Chair:
 
-[Wendell Lim]({{ BASE_URL }}/faculty/wendell-lim)
+[Dyche Mullins]({{ BASE_URL }}/faculty/dyche-mullins)
 
 ### Vice Chairs:
 
-[Kevan Shokat]({{ BASE_URL }}/faculty/kevan-shokat)<br>
-[Jonathan Weissman]({{ BASE_URL }}/faculty/jonathan-weissman)<br>
-[Holly Ingraham]({{ BASE_URL }}/faculty/holly-ingraham)
+[Danica Fujimori]({{ BASE_URL }}/faculty/danica-fujimori)<br>
+[Kevan Shokat]({{ BASE_URL }}/faculty/kevan-shokat)
 
-### Director of Administration:
+### Chief Administrative Officer:
 [Mia Morgan]({{ BASE_URL }}/staff/mia-morgan)
 
 ### Address
