@@ -9,7 +9,7 @@ phone: 415 476-6737
 fax:
 website:
 address: 600 16th Street<br>Genentech Hall, Room S572<br>San Francisco, CA 94158
-info:
+info: Administrative Assistant</br>Becca Quimby</br></br><span class="e">becca.quimby / ucsf, edu</span>
 image: faranak.jpg
 ---
 

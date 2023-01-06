@@ -9,7 +9,7 @@ phone: 415 476-2731
 fax: 415 514-4459
 website: http://ingrahamlab.ucsf.edu/
 address: 1550 4th Street, MC 2611</br>Rock Hall, Room 284E</br>San Francisco, CA 94158-2611</br>
-info: Administrative Assistant</br>Anne Sufka</br>415 514-3792</br><span class="e">anne.sufka / ucsf, edu</span>
+info: Administrative Assistant</br>Lidiana Sanvar</br>415 514-3792</br><span class="e">lidiana.sanvar / ucsf, edu</span>
 image: ingraham.jpg
 ---
 
