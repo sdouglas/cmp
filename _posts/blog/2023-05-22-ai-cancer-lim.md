@@ -8,10 +8,11 @@ published: true
 
 ### How AI Found the Words to Kill Cancer Cells
 
-#####Predictive Model Allows Researchers to Encode Commands for Cells to Carry Out
+####Predictive Model Allows Researchers to Encode Commands for Cells to Carry Out
 
 
-    *"Only by having that power of prediction can we get to a place where we can rapidly design new cellular therapies that carry out the desired activities."
+    *"Only by having that power of prediction can we get to a place where
+	 we can rapidly design new cellular therapies that carry out the desired activities."
     
         -Wendell Lim, PhD
     *
