@@ -6,9 +6,9 @@ category: blog
 published: true
 ---
 
-### How AI Found the Words to Kill Cancer Cells
+## How AI Found the Words to Kill Cancer Cells
 
-####Predictive Model Allows Researchers to Encode Commands for Cells to Carry Out
+###Predictive Model Allows Researchers to Encode Commands for Cells to Carry Out
 
 
     *"Only by having that power of prediction can we get to a place where
