@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Congratulations to Faranak Fatahi for reciving this years Pershing Square Foundation "MIND" Prizes"
+title:  "Congratulations to Faranak Fatahi for reciving this years Pershing Square Foundation MIND Prizes"
 date:   2024-04-04 10:00:00
 category: blog
 published: true
