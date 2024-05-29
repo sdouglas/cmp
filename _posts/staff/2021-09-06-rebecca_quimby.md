@@ -2,7 +2,7 @@
 layout: staff
 categories: staff
 title: Rebecca Quimby
-position: HR Liaison | Assistant to Allison Williams and Faranak Fattah
+position: HR Liaison | Assistant to Jeannette Tenthorey
 email_prefix: Rebecca.Quimby
 email_suffix: ucsf, edu
 phone:
