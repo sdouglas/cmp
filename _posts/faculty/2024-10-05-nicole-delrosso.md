@@ -1,9 +1,9 @@
 ---
 layout: bio
 categories: faculty
-title: Nicole Delrosso
+title: Nicole DelRosso
 position: Sandler Fellow
-email_prefix: nicole.delrosso
+email_prefix: Nicole.delRosso
 email_suffix: ucsf, edu
 phone:
 fax:
