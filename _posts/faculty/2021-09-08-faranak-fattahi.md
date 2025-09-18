@@ -2,7 +2,7 @@
 layout: bio
 categories: faculty
 title: Faranak Fattahi
-position: Assistant Professor
+position: Associate Professor
 email_prefix: Faranak.Fattahi
 email_suffix: ucsf, edu
 phone: 415 476-6737

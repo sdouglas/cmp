@@ -2,7 +2,7 @@
 layout: staff
 categories: staff
 title: Ginger Huang
-position: Assistant to Faranak Fattahi, Allison Williams, and Klim Verba
+position: Assistant to Faranak Fattahi, Allison Williams, Klim Verba and Nicole DelRosso
 email_prefix: Ginger.Huang
 email_suffix: ucsf, edu
 phone: (415) 502-2942

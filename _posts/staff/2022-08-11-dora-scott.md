@@ -2,7 +2,7 @@
 layout: staff
 categories: staff
 title: Dora Scott
-position: Dyche Mullins
+position: Assistant to Dyche Mullins
 email_prefix: Dora.Scott
 email_suffix: ucsf, edu
 phone: 415 514-1744

@@ -2,7 +2,7 @@
 layout: staff
 categories: staff
 title: Angela Barcus
-position: Post Award Analyst
+position: Post Award Manager
 email_prefix: Angela.barcus
 email_suffix: ucsf, edu
 phone: 415-502-0435

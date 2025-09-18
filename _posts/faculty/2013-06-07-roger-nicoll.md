@@ -2,7 +2,7 @@
 layout: bio
 categories: faculty
 title: Roger Nicoll
-position: Professor
+position: Professor Emeritus
 email_prefix: roger.nicoll
 email_suffix: ucsf, edu
 phone: 415 476-2018
