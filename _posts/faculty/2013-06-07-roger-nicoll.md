@@ -5,7 +5,7 @@ title: Roger Nicoll
 position: Professor Emeritus
 email_prefix: roger.nicoll
 email_suffix: ucsf, edu
-phone: 415 476-2018
+phone:
 fax:
 website: http://nicolllab.ucsf.edu/
 address: 600 16th Street, MC 2140</br>Genentech Hall, Room 276D</br>San Francisco, CA 94158-2280</br>

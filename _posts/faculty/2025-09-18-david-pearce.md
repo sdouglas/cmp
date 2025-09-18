@@ -2,7 +2,7 @@
 layout: bio
 categories: faculty
 title: David Pearce
-position: Faculty
+position: Affiliate Faculty
 email_prefix: david.pearce
 email_suffix: ucsf, edu
 phone: 628-206-8843
