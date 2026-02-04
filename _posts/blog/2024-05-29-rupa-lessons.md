@@ -14,4 +14,4 @@ published: true
 
 [Rupa's UCSF Profile](https://profiles.ucsf.edu/rupa.tuan)
 
-![Photo of Rupa](/assets/images/faculty/tuan.jpg)
+![Rupa Headshot](/assets/images/faculty/tuan.jpg)

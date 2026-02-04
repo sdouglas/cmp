@@ -14,4 +14,4 @@ published: true
 
 [Faranak's UCSF Profile](https://profiles.ucsf.edu/farana.fattahi)
 
-![Photo of Faranak](/assets/images/faculty/faranak.jpg)
+![Faranak Headshot](/assets/images/faculty/faranak.jpg)

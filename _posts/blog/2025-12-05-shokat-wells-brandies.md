@@ -16,8 +16,8 @@ Wells, a professor in the Departments of Pharmaceutical Sciences and Cellular an
 
 [Kevans's UCSF Profile](https://profiles.ucsf.edu/kevan.shokat)
 
-[link to the Shokat Lab Website](https://shokatlab.ucsf.edu/)
+[Shokat Lab Website](https://shokatlab.ucsf.edu/)
 
 [Jim's UCSF Profile](https://profiles.ucsf.edu/james.wells)
 
-[link to the Wells Lab Website](https://pharm.ucsf.edu/wells)
+[Wells Lab Website](https://pharm.ucsf.edu/wells)
