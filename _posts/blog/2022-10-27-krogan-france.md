@@ -12,4 +12,4 @@ published: true
 
 [Nevans's UCSF Profile](https://profiles.ucsf.edu/nevan.krogan)
 
-![Photo of Nevan](/assets/images/faculty/krogan.jpg)
+![Nevan Headshot](/assets/images/faculty/krogan.jpg)

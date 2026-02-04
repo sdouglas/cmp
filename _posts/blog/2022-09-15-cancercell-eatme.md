@@ -14,4 +14,4 @@ published: true
 
 [Charles UCSF Profile](https://profiles.ucsf.edu/charles.craik)
 
-![Photo of Kevan](/assets/images/faculty/shokat.jpg)
+![Kevan headshot](/assets/images/faculty/shokat.jpg)

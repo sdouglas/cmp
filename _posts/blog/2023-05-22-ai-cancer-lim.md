@@ -22,4 +22,4 @@ published: true
 
 [UCSF Cell Design Institute](https://www.celldesigninstitute.org/)
 
-![Photo of Wendell](/assets/images/faculty/lim.jpg)
+![Wendell headshot](/assets/images/faculty/lim.jpg)

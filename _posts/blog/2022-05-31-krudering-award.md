@@ -14,4 +14,4 @@ Read the [full story](https://senate.ucsf.edu/distinguished-faculty-awards-2022)
 
 [Marieke's UCSF Profile](https://profiles.ucsf.edu/marieke.kruidering)
 
-![Photo of Marike](/assets/images/blog/mk_award.jpg)
+![Marike headshot](/assets/images/blog/mk_award.jpg)

@@ -12,4 +12,4 @@ published: true
 
 [Dyche's UCSF Profile](https://profiles.ucsf.edu/dyche.mullins)
 
-![Photo of Dyche](/assets/images/faculty/mullins.jpg)
+![Dyche headshot](/assets/images/faculty/mullins.jpg)
