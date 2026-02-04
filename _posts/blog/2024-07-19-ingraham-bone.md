@@ -16,4 +16,4 @@ published: true
 
 [Holly's UCSF Profile](https://profiles.ucsf.edu/holly.ingraham)
 
-![Photo of Holly](/assets/images/faculty/ingraham.jpg)
+![headshot of holly](/assets/images/faculty/ingraham.jpg)
