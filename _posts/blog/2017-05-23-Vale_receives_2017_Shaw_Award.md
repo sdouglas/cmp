@@ -7,7 +7,7 @@ published: true
 ---
 
 ### Congratulations to CMP Faculty Member Ron Vale, PhD, professor and vice chair, for receiving the Shaw Prize
-![photo of Ron](https://www.ucsf.edu/sites/default/files/styles/2014_wysiwyg_full/public/fields/field_insert_file/news/Vale-headshot.jpg)
+![Ron headshot](https://www.ucsf.edu/sites/default/files/styles/2014_wysiwyg_full/public/fields/field_insert_file/news/Vale-headshot.jpg)
 
 Ronald D. “Ron” Vale, PhD, professor and vice chair of cellular and molecular pharmacology at UC San Francisco, is a winner of the 2017 Shaw Prize in Life Science and Medicine for his seminal research on motor proteins, molecular machines that perform functions crucial to life.
 
