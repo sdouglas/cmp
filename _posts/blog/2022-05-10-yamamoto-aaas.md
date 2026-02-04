@@ -12,6 +12,6 @@ Read the [full story](https://www.ucsf.edu/news/2022/05/422826/ucsfs-keith-yamam
 
 [Learn More about AAAS](https://www.aaas.org/)
 
-[Keiths's UCSF Profile](https://profiles.ucsf.edu/Keith.Yamamoto)
+[Keith's UCSF Profile](https://profiles.ucsf.edu/Keith.Yamamoto)
 
 [Learn more about precision medicine at UCSF:](https://precisionmedicine.ucsf.edu)

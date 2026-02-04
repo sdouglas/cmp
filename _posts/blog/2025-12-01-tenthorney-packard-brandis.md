@@ -6,7 +6,7 @@ category: blog
 published: true
 ---
 
-## Congradulations to Jeanette Tenthorey getting awarded a 2025 Packard Fellowship for Science and Engineering from the David and Lucille Packard Foundation.
+## Congratulations to Jeanette Tenthorey getting awarded a 2025 Packard Fellowship for Science and Engineering from the David and Lucille Packard Foundation.
 
 
 [Read More ](https://www.packard.org/fellow/jeannette-tenthorey/)

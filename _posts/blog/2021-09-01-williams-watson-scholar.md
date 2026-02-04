@@ -14,4 +14,4 @@ Read the [full story](https://medschool.ucsf.edu/about/diversity-equity-and-incl
 
 [Allison's UCSF Profile](https://profiles.ucsf.edu/allison.williams)
 
-Learn more about Allisons's research [Allison Williams's Lab](https://williamslab.ucsf.edu/)
+Learn more about Allison's research [Allison Williams's Lab](https://williamslab.ucsf.edu/)

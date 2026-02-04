@@ -6,7 +6,7 @@ category: blog
 published: true
 ---
 
-## Congradulations Kevan Shokat and Jim Wells jointly received the Jacob and Louise Gabbay Award In Biotechnology and Medicine from Brandeis University.
+## Congratulations Kevan Shokat and Jim Wells jointly received the Jacob and Louise Gabbay Award In Biotechnology and Medicine from Brandeis University.
 
 The award is being presented for the pair’s groundbreaking work in cancer drug discovery, an effort that has led to new therapies for diseases once thought impossible to treat.  
 
