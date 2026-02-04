@@ -13,4 +13,4 @@ The award was given for discoveries concerning cytoskeletal motor proteins, mach
 
 Press Releases: [UCSF](http://www.ucsf.edu/news/2012/09/12693/ucsf-professor-receives-2012-lasker-award), [Lasker Foundation](http://www.laskerfoundation.org/awards/2012basic.htm)
 
-<img src="/assets/images/blog/ron_lasker.jpg" />
+<img src="/assets/images/blog/ron_lasker.jpg" alt="lab group photo"/>
