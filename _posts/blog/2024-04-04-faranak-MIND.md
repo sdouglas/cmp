@@ -12,6 +12,6 @@ published: true
 
 [Read More ](https://pershingsquarefoundation.org/2024/03/26/press-release-the-pershing-square-foundation-mind-prize-awarded-to-seven-creative-researchers-paving-the-way-to-a-deeper-and-transformative-understanding-of-the-brain/)
 
-[Faranak's UCSF Profile](https://profiles.ucsf.edu/farana.fattahi)
+[Faranak's UCSF Profile](https://profiles.ucsf.edu/faranak.fattahi)
 
 ![Faranak Headshot](/assets/images/faculty/faranak.jpg)
