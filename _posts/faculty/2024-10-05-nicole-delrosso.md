@@ -8,7 +8,7 @@ email_suffix: ucsf, edu
 phone:
 fax:
 website:
-address: 600 16th Street<br>Genentech Hall, Room N372B<br>San Francisco, CA 94158
+address: 600 16th Street<br>Genentech Hall, Room S472B<br>San Francisco, CA 94158
 info: Administrative Assistant</br>Ginger Huang</br></br><span class="e">ginger.huang / ucsf, edu</span>
 image: delrosso.jpg
 ---
