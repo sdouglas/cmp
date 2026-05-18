@@ -18,7 +18,7 @@ In addition to his scientific achievements, Dr. Lim has made major contributions
 
 For his outstanding contributions to nanoscience and synthetic biology, Dr. Wendell Lim is awarded the 2026 Nadrian C. Seeman Nanoscience Prize.
 
-[Read More ](https://isnsce.org/awards/the-nanoscience-prize/)
+[Read More](https://isnsce.org/awards/the-nanoscience-prize/)
 
 [2026 Nadrian C. Seeman Nanoscience Prize](https://isnsce.org/2026-nadrian-c-seeman-nanoscience-prize-prof-wendell-a-lim/)
 
