@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Congradulations to CMP Faculty Wendell Lim for recieving the 2026 Nadrian C. Seeman Nanoscience Prize"
-date:   2026-12-04 10:00:00
+date:   2026-05-12 10:00:00
 category: blog
 published: true
 ---
